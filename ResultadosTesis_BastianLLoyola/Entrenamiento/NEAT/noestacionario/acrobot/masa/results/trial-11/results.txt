@@ -1,0 +1,84 @@
+
+---- Results of cofig: ----
+  keep=0.526953
+  threshold=2.69943
+  interSpeciesRate=0.000689732
+  noCrossoverOff=0.204731
+  probabilityWeightMutated=0.766427
+  probabilityAddNodeSmall=0.0374535
+  probabilityAddLink_small=0.0213509
+  probabilityAddNodeLarge=0.282095
+  probabilityAddLink_Large=0.165231
+  largeSize=20
+  c1=1.55567
+  c2=0.655615
+  c3=0.471516
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-11
+  tau_c=0
+  a_minus=0
+  a_plus=0
+  tau_plus=0
+  tau_minus=0
+  tunable_params=lenght,mass,com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 498
+Genome fitness: -88.17
+   IN  OUT    Weight  Innov
+    1   13   58.6901      1
+    1   14  -19.7791      2
+    1   15   56.4925      3
+    2   13    33.703      4
+    2   14   19.3097      5
+    2   15   28.1124      6
+    3   13  -6.56098      7
+    3   15      72.8      9
+    4   13   25.9365     10
+    4   14   49.1745     11
+    4   15   56.8804     12
+    5   13   32.6827     13
+    5   14   19.5316     14
+    5   15   78.9483     15
+    6   13   33.3253     16
+    6   14   23.9207     17
+    6   15   56.7779     18
+    7   13   37.9765     19
+    7   14   20.8417     20
+    8   13   54.8942     22
+    8   14   24.5235     23
+    8   15   44.7672     24
+    9   13  -16.9676     25
+    9   14   60.6149     26
+    9   15   18.7466     27
+   10   13   31.8379     28
+   10   14  -9.45894     29
+   10   15  -21.5693     30
+   11   13   57.4659     31
+   11   14   64.2311     32
+   11   15  -16.3484     33
+   12   13   33.9584     34
+   12   15   22.9613     36
+    3   25  -3.04063     59
+    7   26  -43.5366     61
+   26   15   -23.585     62
+   25   33    10.888     80
+   33   14  -6.64522     81
+   12   44   4.07307    114
+   44   14   12.9342    115
+
+Summerized results: 
+run: 0 bestFitness: -88
+Max fitness: -88
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

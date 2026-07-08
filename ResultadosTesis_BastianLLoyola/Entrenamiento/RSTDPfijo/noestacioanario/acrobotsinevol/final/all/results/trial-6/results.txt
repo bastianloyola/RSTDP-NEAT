@@ -1,0 +1,85 @@
+
+---- Results of config: ----
+  keep=0.412743
+  threshold=2.99224
+  interSpeciesRate=0.00112725
+  noCrossoverOff=0.176613
+  probabilityWeightMutated=0.864832
+  probabilityAddNodeSmall=0.0246843
+  probabilityAddLink_small=0.0422464
+  probabilityAddNodeLarge=0.309227
+  probabilityAddLink_Large=0.0996644
+  largeSize=20
+  c1=1.48005
+  c2=1.33647
+  c3=0.383307
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=50
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-6
+  tau_c=20.6205
+  a_minus=0.0790931
+  a_plus=0.0612116
+  tau_minus=27.7527
+  tau_plus=20.343
+  tunable_params=length,mass,com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 1436
+Genome fitness: -78.17
+   IN  OUT    Weight  Innov
+    1   13   23.7638      1
+    1   14   73.1835      2
+    1   15   10.8157      3
+    2   14 -0.197941      5
+    2   15   36.2442      6
+    3   14   47.4605      8
+    3   15   53.2262      9
+    4   13   1.59742     10
+    4   14 0.0352364     11
+    4   15   20.1188     12
+    5   13   16.5658     13
+    5   14   8.03371     14
+    5   15   2.89682     15
+    6   13   74.3372     16
+    6   14   43.2846     17
+    6   15    43.667     18
+    7   14  -18.5421     20
+    7   15   40.7304     21
+    8   13   70.8676     22
+    8   14   15.5408     23
+    8   15    72.397     24
+    9   13   19.8437     25
+    9   15   30.2316     27
+   10   13   71.9591     28
+   10   14   33.2491     29
+   10   15    1.5825     30
+   11   13   70.0252     31
+   11   14    11.195     32
+   11   15 -0.233998     33
+   12   13  -19.3995     34
+   12   14    38.296     35
+   12   15    69.391     36
+    3   17  -42.9176     39
+   17   13   43.9979     40
+    7   21   45.2049     49
+   21   13   75.6468     50
+    2   24   4.99394     56
+    9   55   14.8848    134
+   55   14   44.9659    135
+   24   57   23.8245    143
+   57   13   52.0952    144
+
+Summerized results: 
+run: 0 bestFitness: -78
+Max fitness: -78
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

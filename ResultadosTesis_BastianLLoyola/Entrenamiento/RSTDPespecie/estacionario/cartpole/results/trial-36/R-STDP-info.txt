@@ -1,0 +1,1008 @@
+
+-------- Evaluation especie 0 --------
+Best fitness: 169.418
+Se cambio la regla R-STDP: No
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 1 --------
+Best fitness: 9.874
+Se cambio la regla R-STDP: No
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 2 --------
+Best fitness: 136.366
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 3 --------
+Best fitness: 10.052
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 4 --------
+Best fitness: 137.342
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 5 --------
+Best fitness: 55.492
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0182353
+tau_minus: 19.5245
+tau_plus: 25.7811
+
+-------- Evaluation especie 6 --------
+Best fitness: 50.288
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.783
+
+-------- Evaluation especie 7 --------
+Best fitness: 46.536
+Se cambio la regla R-STDP: No
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 8 --------
+Best fitness: 44.052
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 9 --------
+Best fitness: 36.58
+Se cambio la regla R-STDP: Si
+tau_c: 12.596
+a_plus: 0.0183093
+a_minus: 0.0291148
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 10 --------
+Best fitness: 12.022
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 11 --------
+Best fitness: 39.338
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183243
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 12 --------
+Best fitness: 41.944
+Se cambio la regla R-STDP: Si
+tau_c: 0.0007
+a_plus: 4.9379e+07
+a_minus: 4.46061e-41
+tau_minus: 4.46089e-41
+tau_plus: 3.67873e+09
+
+-------- Evaluation especie 13 --------
+Best fitness: 22.522
+Se cambio la regla R-STDP: No
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 14 --------
+Best fitness: 23.302
+Se cambio la regla R-STDP: Si
+tau_c: 0.006
+a_plus: 3.2e-05
+a_minus: 0
+tau_minus: 0
+tau_plus: 4.70836e-43
+
+-------- Evaluation especie 15 --------
+Best fitness: 22.61
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 16 --------
+Best fitness: 49.34
+Se cambio la regla R-STDP: Si
+tau_c: 2.53142e+09
+a_plus: 3.64816e+09
+a_minus: 4.46089e-41
+tau_minus: 4.46089e-41
+tau_plus: 8.85308e+08
+
+-------- Evaluation especie 17 --------
+Best fitness: 56.522
+Se cambio la regla R-STDP: Si
+tau_c: 12.598
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 18 --------
+Best fitness: 22.87
+Se cambio la regla R-STDP: No
+tau_c: -2.53456e-23
+a_plus: 4.46061e-41
+a_minus: -2.54201e-23
+tau_minus: 4.46061e-41
+tau_plus: 5.05621e-25
+
+-------- Evaluation especie 19 --------
+Best fitness: 23.206
+Se cambio la regla R-STDP: Si
+tau_c: -2.53456e-23
+a_plus: -2.54201e-23
+a_minus: 4.46061e-41
+tau_minus: 4.46061e-41
+tau_plus: 5.05621e-25
+
+-------- Evaluation especie 20 --------
+Best fitness: 20.928
+Se cambio la regla R-STDP: Si
+tau_c: 0.0003
+a_plus: 1.57657e-33
+a_minus: 2.3878e-38
+tau_minus: 2.3878e-38
+tau_plus: 2.3878e-38
+
+-------- Evaluation especie 21 --------
+Best fitness: 19.296
+Se cambio la regla R-STDP: Si
+tau_c: 12.5997
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5255
+tau_plus: 25.7811
+
+-------- Evaluation especie 22 --------
+Best fitness: 12.372
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 23 --------
+Best fitness: 12.068
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 24 --------
+Best fitness: 11.876
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5266
+tau_plus: 25.7811
+
+-------- Evaluation especie 25 --------
+Best fitness: 11.994
+Se cambio la regla R-STDP: Si
+tau_c: 12.6029
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.773
+
+-------- Evaluation especie 26 --------
+Best fitness: 9.408
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 27 --------
+Best fitness: 9.412
+Se cambio la regla R-STDP: Si
+tau_c: 3.49806e+09
+a_plus: 9.10168e-24
+a_minus: 4.46089e-41
+tau_minus: 4.46061e-41
+tau_plus: 3.49806e+09
+
+-------- Evaluation especie 28 --------
+Best fitness: 9.432
+Se cambio la regla R-STDP: Si
+tau_c: 1.91536e-19
+a_plus: 1.35559e-19
+a_minus: 1.35691e-19
+tau_minus: 1.35632e-19
+tau_plus: 1.92383e-19
+
+-------- Evaluation especie 29 --------
+Best fitness: 9.396
+Se cambio la regla R-STDP: No
+tau_c: 1.87833e+09
+a_plus: 1.87834e+09
+a_minus: 4.46089e-41
+tau_minus: 4.46089e-41
+tau_plus: 1.87836e+09
+
+-------- Evaluation especie 30 --------
+Best fitness: 9.404
+Se cambio la regla R-STDP: Si
+tau_c: 7.38789e-39
+a_plus: 2.5353e+30
+a_minus: 6.49614e+10
+tau_minus: 1.14906e-43
+tau_plus: 2.99345e-41
+
+-------- Evaluation especie 31 --------
+Best fitness: 9.306
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183873
+tau_minus: 19.5328
+tau_plus: 25.7826
+
+-------- Evaluation especie 0 --------
+Best fitness: 401.968
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 1 --------
+Best fitness: 22.87
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 2 --------
+Best fitness: 89.89
+Se cambio la regla R-STDP: Si
+tau_c: 901609
+a_plus: 7.8e-05
+a_minus: 3.43234e-41
+tau_minus: 0.0033
+tau_plus: 0.0065
+
+-------- Evaluation especie 3 --------
+Best fitness: 356.614
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 4 --------
+Best fitness: 23.148
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 8.5e-05
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 5 --------
+Best fitness: 209.028
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 6 --------
+Best fitness: 204.792
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5326
+tau_plus: 25.7811
+
+-------- Evaluation especie 7 --------
+Best fitness: 65.196
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 8 --------
+Best fitness: 192.416
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 1.76665e+22
+a_minus: 8.20373e-05
+tau_minus: 4.30547e+21
+tau_plus: 7.22507e+28
+
+-------- Evaluation especie 9 --------
+Best fitness: 168.784
+Se cambio la regla R-STDP: Si
+tau_c: 12.6051
+a_plus: 0.0291998
+a_minus: 0.0183873
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 10 --------
+Best fitness: 171.354
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 11 --------
+Best fitness: 32.46
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 12 --------
+Best fitness: 133.328
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 13 --------
+Best fitness: 122.422
+Se cambio la regla R-STDP: No
+tau_c: 6.7421e+22
+a_plus: 1.76665e+22
+a_minus: 9.32652e-09
+tau_minus: 4.30547e+21
+tau_plus: 7.22507e+28
+
+-------- Evaluation especie 14 --------
+Best fitness: 119.796
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0182353
+a_minus: 0.0291678
+tau_minus: 19.5245
+tau_plus: 25.7761
+
+-------- Evaluation especie 15 --------
+Best fitness: 100.338
+Se cambio la regla R-STDP: No
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 16 --------
+Best fitness: 25.582
+Se cambio la regla R-STDP: No
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 17 --------
+Best fitness: 61.028
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291998
+a_minus: 0.0182353
+tau_minus: 19.5245
+tau_plus: 25.7723
+
+-------- Evaluation especie 18 --------
+Best fitness: 109.648
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0182353
+a_minus: 0.0291998
+tau_minus: 19.5245
+tau_plus: 25.7811
+
+-------- Evaluation especie 19 --------
+Best fitness: 78.064
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 20 --------
+Best fitness: 68.294
+Se cambio la regla R-STDP: Si
+tau_c: 12.5999
+a_plus: 0.0183243
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 21 --------
+Best fitness: 59.262
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7716
+
+-------- Evaluation especie 22 --------
+Best fitness: 55.868
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 23 --------
+Best fitness: 48.198
+Se cambio la regla R-STDP: Si
+tau_c: 2.53142e+09
+a_plus: 3.64816e+09
+a_minus: 4.46089e-41
+tau_minus: 4.46089e-41
+tau_plus: 8.85308e+08
+
+-------- Evaluation especie 24 --------
+Best fitness: 49.24
+Se cambio la regla R-STDP: Si
+tau_c: 12.598
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7803
+
+-------- Evaluation especie 25 --------
+Best fitness: 23.348
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0.0073
+tau_plus: 0
+
+-------- Evaluation especie 26 --------
+Best fitness: 23.122
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 27 --------
+Best fitness: 22.982
+Se cambio la regla R-STDP: Si
+tau_c: 902194
+a_plus: 3.7e-05
+a_minus: 3.43234e-41
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 28 --------
+Best fitness: 12.538
+Se cambio la regla R-STDP: Si
+tau_c: 12.5893
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 29 --------
+Best fitness: 9.38
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 9.32652e-09
+a_minus: 1.76665e+22
+tau_minus: 4.30547e+21
+tau_plus: 7.22507e+28
+
+-------- Evaluation especie 0 --------
+Best fitness: 423.478
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 1 --------
+Best fitness: 28.636
+Se cambio la regla R-STDP: Si
+tau_c: 922131
+a_plus: 0
+a_minus: 7e-06
+tau_minus: 0.0093
+tau_plus: 0.0071
+
+-------- Evaluation especie 2 --------
+Best fitness: 130.25
+Se cambio la regla R-STDP: No
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 3 --------
+Best fitness: 23.528
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 4 --------
+Best fitness: 269.094
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0292058
+a_minus: 0.0184063
+tau_minus: 19.5361
+tau_plus: 25.7811
+
+-------- Evaluation especie 5 --------
+Best fitness: 251.148
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 6 --------
+Best fitness: 11.58
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 7 --------
+Best fitness: 215.04
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0292358
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 8 --------
+Best fitness: 207.738
+Se cambio la regla R-STDP: Si
+tau_c: 901609
+a_plus: 7.8e-05
+a_minus: 3.43234e-41
+tau_minus: 0.0033
+tau_plus: 0.0065
+
+-------- Evaluation especie 9 --------
+Best fitness: 167.7
+Se cambio la regla R-STDP: Si
+tau_c: 12.6051
+a_plus: 0.0183873
+a_minus: 0.0291998
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 10 --------
+Best fitness: 168.004
+Se cambio la regla R-STDP: No
+tau_c: 12.6051
+a_plus: 0.0291998
+a_minus: 0.0183873
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 11 --------
+Best fitness: 137.716
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 12 --------
+Best fitness: 121.53
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 13 --------
+Best fitness: 118.868
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0182113
+a_minus: 0.0291998
+tau_minus: 19.5414
+tau_plus: 25.7832
+
+-------- Evaluation especie 14 --------
+Best fitness: 72.138
+Se cambio la regla R-STDP: Si
+tau_c: 12.5875
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.542
+tau_plus: 25.7811
+
+-------- Evaluation especie 15 --------
+Best fitness: 32.756
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0183093
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 16 --------
+Best fitness: 23.432
+Se cambio la regla R-STDP: Si
+tau_c: 915613
+a_plus: 0
+a_minus: 3.7e-05
+tau_minus: 0.0094
+tau_plus: 0.0048
+
+-------- Evaluation especie 17 --------
+Best fitness: 22.908
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 6.8e-05
+a_minus: 0
+tau_minus: 0
+tau_plus: 0.0022
+
+-------- Evaluation especie 18 --------
+Best fitness: 22.84
+Se cambio la regla R-STDP: Si
+tau_c: 921328
+a_plus: 0
+a_minus: 3.1e-05
+tau_minus: 0.0011
+tau_plus: 0
+
+-------- Evaluation especie 19 --------
+Best fitness: 23.202
+Se cambio la regla R-STDP: Si
+tau_c: 0.0001
+a_plus: 8.5e-05
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 20 --------
+Best fitness: 22.98
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 21 --------
+Best fitness: 44.35
+Se cambio la regla R-STDP: Si
+tau_c: 915613
+a_plus: 8.2e-05
+a_minus: 3.5e-05
+tau_minus: 0.0051
+tau_plus: 0.001
+
+-------- Evaluation especie 22 --------
+Best fitness: 22.62
+Se cambio la regla R-STDP: No
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 23 --------
+Best fitness: 22.976
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 9.3e-05
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 24 --------
+Best fitness: 231.246
+Se cambio la regla R-STDP: Si
+tau_c: 917968
+a_plus: 0
+a_minus: 3.43234e-41
+tau_minus: 0.0067
+tau_plus: 0.0027
+
+-------- Evaluation especie 25 --------
+Best fitness: 20.188
+Se cambio la regla R-STDP: No
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 0 --------
+Best fitness: 431.172
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0182823
+a_minus: 0.0291998
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 1 --------
+Best fitness: 23.094
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 6.4e-05
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 2 --------
+Best fitness: 23.422
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0.0061
+tau_plus: 0
+
+-------- Evaluation especie 3 --------
+Best fitness: 60.208
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 1.76665e+22
+a_minus: 5.96897e-07
+tau_minus: 4.30547e+21
+tau_plus: 7.22507e+28
+
+-------- Evaluation especie 4 --------
+Best fitness: 415.656
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 5 --------
+Best fitness: 379.36
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291928
+a_minus: 0.0183333
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 6 --------
+Best fitness: 380.042
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0292058
+a_minus: 0.0184063
+tau_minus: 19.5317
+tau_plus: 25.7811
+
+-------- Evaluation especie 7 --------
+Best fitness: 307.2
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0181363
+a_minus: 0.0291998
+tau_minus: 19.5414
+tau_plus: 25.7832
+
+-------- Evaluation especie 8 --------
+Best fitness: 250.906
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0291778
+a_minus: 0.0183093
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 9 --------
+Best fitness: 232.656
+Se cambio la regla R-STDP: Si
+tau_c: 901609
+a_plus: 7.8e-05
+a_minus: 3.43234e-41
+tau_minus: 0.0033
+tau_plus: 0.0065
+
+-------- Evaluation especie 10 --------
+Best fitness: 173.114
+Se cambio la regla R-STDP: Si
+tau_c: 12.6051
+a_plus: 0.0183873
+a_minus: 0.0291998
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 11 --------
+Best fitness: 232.466
+Se cambio la regla R-STDP: Si
+tau_c: 12.6008
+a_plus: 0.0291998
+a_minus: 0.0183873
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 12 --------
+Best fitness: 197.054
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 7.33869e+28
+a_minus: 2.33163e-09
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 13 --------
+Best fitness: 165.964
+Se cambio la regla R-STDP: Si
+tau_c: 12.6051
+a_plus: 0.0183873
+a_minus: 0.0291998
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 14 --------
+Best fitness: 148.968
+Se cambio la regla R-STDP: Si
+tau_c: 12.6051
+a_plus: 0.0183873
+a_minus: 0.0291998
+tau_minus: 19.5333
+tau_plus: 25.7811
+
+-------- Evaluation especie 15 --------
+Best fitness: 106.024
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 16 --------
+Best fitness: 74.834
+Se cambio la regla R-STDP: Si
+tau_c: 12.5942
+a_plus: 0.0291998
+a_minus: 0.0183093
+tau_minus: 19.542
+tau_plus: 25.7811
+
+-------- Evaluation especie 17 --------
+Best fitness: 74.25
+Se cambio la regla R-STDP: Si
+tau_c: 12.6051
+a_plus: 0.0291818
+a_minus: 0.0183873
+tau_minus: 19.5379
+tau_plus: 25.7811
+
+-------- Evaluation especie 18 --------
+Best fitness: 45.034
+Se cambio la regla R-STDP: Si
+tau_c: 12.5974
+a_plus: 0.0292358
+a_minus: 0.0183753
+tau_minus: 19.5328
+tau_plus: 25.7811
+
+-------- Evaluation especie 19 --------
+Best fitness: 22.834
+Se cambio la regla R-STDP: Si
+tau_c: 0
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 20 --------
+Best fitness: 23.302
+Se cambio la regla R-STDP: Si
+tau_c: 0.0029
+a_plus: 0
+a_minus: 0
+tau_minus: 0
+tau_plus: 0.0049
+
+-------- Evaluation especie 21 --------
+Best fitness: 23.274
+Se cambio la regla R-STDP: Si
+tau_c: 935920
+a_plus: 0
+a_minus: 3.43234e-41
+tau_minus: 0
+tau_plus: 0
+
+-------- Evaluation especie 22 --------
+Best fitness: 20.702
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25
+
+-------- Evaluation especie 23 --------
+Best fitness: 10.904
+Se cambio la regla R-STDP: Si
+tau_c: 6.7421e+22
+a_plus: 2.33163e-09
+a_minus: 7.33869e+28
+tau_minus: 1.74094e+25
+tau_plus: 1.84649e+25

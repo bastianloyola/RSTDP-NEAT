@@ -1,0 +1,84 @@
+
+---- Results of cofig: ----
+  keep=0.544533
+  threshold=2.25513
+  interSpeciesRate=0.00146854
+  noCrossoverOff=0.162479
+  probabilityWeightMutated=0.827333
+  probabilityAddNodeSmall=0.023637
+  probabilityAddLink_small=0.0227056
+  probabilityAddNodeLarge=0.229686
+  probabilityAddLink_Large=0.120687
+  largeSize=20
+  c1=1.17414
+  c2=0.577838
+  c3=0.372391
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-63
+  tau_c=15.6835
+  a_minus=0.0356403
+  a_plus=0.066127
+  tau_plus=26.8609
+  tau_minus=31.0696
+  tunable_params=length,mass,moi
+
+--Results of run:0 --
+Best Genome 
+Genome id: 434
+Genome fitness: -83.38
+   IN  OUT    Weight  Innov
+    1   13   1.06916      1
+    1   15   66.5434      3
+    2   13   2.10094      4
+    2   14   17.3556      5
+    2   15   41.2442      6
+    3   13    49.652      7
+    3   14   47.4605      8
+    3   15   58.2262      9
+    4   13   51.9462     10
+    4   15   36.0872     12
+    5   13   36.3617     13
+    5   14   23.4009     14
+    5   15    8.0996     15
+    6   13   14.3841     16
+    6   14   33.2846     17
+    6   15  -4.52762     18
+    7   13   35.5398     19
+    7   14   57.0686     20
+    7   15   68.7197     21
+    8   13   73.3273     22
+    8   14   10.5408     23
+    8   15   53.7408     24
+    9   13   28.7721     25
+    9   14   59.5231     26
+    9   15   43.9009     27
+   10   13   76.5682     28
+   10   14   43.5986     29
+   10   15   9.28891     30
+   11   13   68.2204     31
+   11   15   64.9431     33
+   12   13  -19.3995     34
+   12   14   27.5806     35
+   12   15    64.391     36
+    3   11   9.63607     77
+   11   35  -79.3488     89
+   35   14    16.195     90
+    4   42  -7.19089    105
+   42   14   -14.114    106
+    1   45  -46.3135    111
+   45   14   40.6542    112
+
+Summerized results: 
+run: 0 bestFitness: -83
+Max fitness: -83
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

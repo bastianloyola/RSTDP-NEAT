@@ -1,0 +1,84 @@
+
+---- Results of config: ----
+  keep=0.414869
+  threshold=3.40078
+  interSpeciesRate=0.00115939
+  noCrossoverOff=0.259524
+  probabilityWeightMutated=0.787189
+  probabilityAddNodeSmall=0.0294951
+  probabilityAddLink_small=0.0469054
+  probabilityAddNodeLarge=0.328691
+  probabilityAddLink_Large=0.0797097
+  largeSize=20
+  c1=0.69235
+  c2=1.04977
+  c3=0.385212
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=25
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-7
+  tau_c=8.80128
+  a_minus=0.0342411
+  a_plus=0.0325065
+  tau_minus=10.0602
+  tau_plus=15.8447
+  tunable_params=com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 739
+Genome fitness: -82.61
+   IN  OUT    Weight  Innov
+    1   14   12.6097      2
+    1   15  -15.2258      3
+    2   13   57.1842      4
+    2   14   15.6162      5
+    2   15   41.2442      6
+    3   13  -5.71112      7
+    3   14   47.4605      8
+    3   15   53.2262      9
+    4   13   55.6143     10
+    4   14  -14.8315     11
+    4   15   79.2352     12
+    5   13   2.99838     13
+    5   14   37.8702     14
+    5   15    3.0996     15
+    6   13   18.5748     16
+    6   14   33.2846     17
+    6   15   34.0197     18
+    7   13   47.2988     19
+    7   14   55.2935     20
+    8   13  -9.75571     22
+    8   14   10.5408     23
+    8   15  -8.04159     24
+    9   13   42.6144     25
+    9   15   32.0674     27
+   10   13   71.9591     28
+   10   14   48.5986     29
+   10   15   1.45525     30
+   11   13   49.7848     31
+   11   14    11.195     32
+   11   15   39.0649     33
+   12   13  -19.3995     34
+   12   14   34.7613     35
+   12   15   74.6811     36
+    1   22    79.309     51
+   22   13   56.2679     52
+    7   46   30.1715    106
+   46   15    36.106    107
+    9   54  -44.4667    131
+   54   14   49.9659    132
+    2    1   1.57835    141
+
+Summerized results: 
+run: 0 bestFitness: -82
+Max fitness: -82
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

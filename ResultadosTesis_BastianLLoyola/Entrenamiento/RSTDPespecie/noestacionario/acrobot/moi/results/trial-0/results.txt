@@ -1,0 +1,84 @@
+
+---- Results of cofig: ----
+  keep=0.456608
+  threshold=3.93036
+  interSpeciesRate=0.000886674
+  noCrossoverOff=0.301752
+  probabilityWeightMutated=0.797799
+  probabilityAddNodeSmall=0.0356973
+  probabilityAddLink_small=0.027703
+  probabilityAddNodeLarge=0.384039
+  probabilityAddLink_Large=0.0849447
+  largeSize=20
+  c1=1.44458
+  c2=1.37687
+  c3=0.439188
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-0
+  tau_c=18.257
+  a_minus=0.0187427
+  a_plus=0.0868257
+  tau_plus=12.8972
+  tau_minus=23.3115
+  tunable_params=com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 582
+Genome fitness: -82.88
+   IN  OUT    Weight  Innov
+    1   13    36.947      1
+    1   14   68.6104      2
+    1   15  -15.2258      3
+    2   13   2.10094      4
+    2   14 -0.197941      5
+    2   15   23.0193      6
+    3   13   52.3975      7
+    3   14   31.4393      8
+    3   15   75.9716      9
+    4   13   30.9365     10
+    4   14  -14.8315     11
+    4   15   66.1265     12
+    5   14   42.8702     14
+    5   15    3.0996     15
+    6   13   18.5748     16
+    6   14   33.2846     17
+    7   13   35.5398     19
+    7   14   20.8417     20
+    7   15    41.106     21
+    8   13   54.8942     22
+    8   14  -18.6839     23
+    8   15   53.7408     24
+    9   14   33.0552     26
+   10   13   71.9591     28
+   10   14    20.724     29
+   11   13   69.7055     31
+   11   14   64.4113     32
+   11   15   39.0649     33
+   12   13   21.7174     34
+   12   14   6.86843     35
+   12   15    64.391     36
+   19   15   34.0197     44
+   10   26   68.1422     58
+    9   35   1.61007     79
+   35   15   32.0674     80
+   26   61  -51.3747    151
+   61   15   6.45525    152
+    7    8  -15.6257    157
+    6   65  -26.6848    164
+   65   19   -66.385    165
+
+Summerized results: 
+run: 0 bestFitness: -82
+Max fitness: -82
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

@@ -1,0 +1,3 @@
+rm: cannot remove 'annarchy/annarchy-10': Directory not empty
+rm: cannot remove 'annarchy/annarchy-11/annarchy-6/run_1768781941.15285': Stale file handle
+rm: fts_read failed: Stale file handle

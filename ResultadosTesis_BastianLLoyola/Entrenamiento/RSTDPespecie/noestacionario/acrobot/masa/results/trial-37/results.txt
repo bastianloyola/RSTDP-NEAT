@@ -1,0 +1,83 @@
+
+---- Results of cofig: ----
+  keep=0.453163
+  threshold=3.27077
+  interSpeciesRate=0.000847503
+  noCrossoverOff=0.348544
+  probabilityWeightMutated=0.730042
+  probabilityAddNodeSmall=0.0334175
+  probabilityAddLink_small=0.0220216
+  probabilityAddNodeLarge=0.259082
+  probabilityAddLink_Large=0.182497
+  largeSize=20
+  c1=1.40018
+  c2=1.02723
+  c3=0.573299
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-37
+  tau_c=13.5393
+  a_minus=0.0690999
+  a_plus=0.0556055
+  tau_plus=15.8861
+  tau_minus=37.5137
+  tunable_params=mass
+
+--Results of run:0 --
+Best Genome 
+Genome id: 585
+Genome fitness: -81.36
+   IN  OUT    Weight  Innov
+    1   13    32.683      1
+    1   14      64.8      2
+    1   15   10.8157      3
+    2   13   2.10094      4
+    2   14  -12.6764      5
+    2   15   31.4382      6
+    3   13  -9.02673      7
+    3   14   36.1411      8
+    3   15   58.2262      9
+    4   13   62.1331     10
+    4   14 0.0352364     11
+    4   15   53.6747     12
+    5   13   9.39595     13
+    5   14   15.9942     14
+    5   15  -10.6085     15
+    6   13   18.5748     16
+    6   14  -19.4924     17
+    6   15  -4.52762     18
+    7   13   9.28856     19
+    7   14  -18.5421     20
+    7   15   18.0215     21
+    8   13   18.2167     22
+    8   14   10.5408     23
+    8   15  -12.1742     24
+    9   13 -0.901644     25
+    9   14   28.3648     26
+    9   15   25.2316     27
+   10   13   71.9591     28
+   10   14   48.5986     29
+   10   15   4.48583     30
+   11   13   49.7848     31
+   12   13  -19.3995     34
+   12   14    33.296     35
+   12   15    69.391     36
+   11   23  -54.1596     54
+   23   14   41.1241     55
+   11   35   71.3088     87
+   35   15   44.5889     88
+    6    7  -7.81872    161
+
+Summerized results: 
+run: 0 bestFitness: -81
+Max fitness: -81
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

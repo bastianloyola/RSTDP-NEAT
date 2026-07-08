@@ -1,0 +1,89 @@
+
+---- Results of config: ----
+  keep=0.457599
+  threshold=3.85294
+  interSpeciesRate=0.000897923
+  noCrossoverOff=0.224384
+  probabilityWeightMutated=0.762769
+  probabilityAddNodeSmall=0.0349159
+  probabilityAddLink_small=0.0447972
+  probabilityAddNodeLarge=0.389255
+  probabilityAddLink_Large=0.124316
+  largeSize=20
+  c1=0.971729
+  c2=1.09229
+  c3=0.45088
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=50
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-3
+  tau_c=26.5768
+  a_minus=0.0320527
+  a_plus=0.0183781
+  tau_minus=32.5565
+  tau_plus=14.9765
+  tunable_params=com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 1329
+Genome fitness: -82.84
+   IN  OUT    Weight  Innov
+    1   13  -11.7423      1
+    1   14  -19.7791      2
+    1   15   2.61199      3
+    2   13   59.2995      4
+    2   14   51.8666      5
+    2   15   38.9637      6
+    3   13   58.5346      7
+    3   14   47.6628      8
+    3   15   75.6507      9
+    4   13   7.91775     10
+    4   14  -14.8315     11
+    5   13   2.99838     13
+    5   14   11.2491     14
+    6   13   18.9071     16
+    6   15   30.5339     18
+    7   13   40.0019     19
+    7   14   26.7274     20
+    7   15    5.1974     21
+    8   13  0.432861     22
+    8   14   18.6299     23
+    8   15   1.50661     24
+    9   13   8.52452     25
+    9   15   84.0837     27
+   10   13   67.5895     28
+   10   14  -19.5838     29
+   10   15    28.845     30
+   11   13   14.4251     31
+   11   14   61.4909     32
+   12   13  -15.1174     34
+   12   14   59.5005     35
+   12   15   47.5596     36
+   12   21   19.4778     47
+   21   15   37.5596     48
+   10   35   42.5175     79
+   35   14   5.82569     80
+   12    4  -75.0201    106
+   11   44   6.03241    107
+   44   15   60.9095    108
+    6   45  -51.3393    109
+   45   14    54.113    110
+    8   47  -46.9867    114
+    4    6   48.4201    176
+   47   66   38.8774    200
+   66   13   82.0693    201
+    7    5  -52.7002    235
+
+Summerized results: 
+run: 0 bestFitness: -82
+Max fitness: -82
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

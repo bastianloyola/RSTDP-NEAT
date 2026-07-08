@@ -1,0 +1,83 @@
+
+---- Results of cofig: ----
+  keep=0.554109
+  threshold=3.73754
+  interSpeciesRate=0.000891111
+  noCrossoverOff=0.186327
+  probabilityWeightMutated=0.817394
+  probabilityAddNodeSmall=0.0307731
+  probabilityAddLink_small=0.0399767
+  probabilityAddNodeLarge=0.248262
+  probabilityAddLink_Large=0.102363
+  largeSize=20
+  c1=0.637516
+  c2=0.991911
+  c3=0.425246
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-14
+  tau_c=24.5056
+  a_minus=0.0285033
+  a_plus=0.0549773
+  tau_plus=10.4871
+  tau_minus=27.1843
+  tunable_params=mass
+
+--Results of run:0 --
+Best Genome 
+Genome id: 397
+Genome fitness: -88.91
+   IN  OUT    Weight  Innov
+    1   13   43.0243      1
+    1   14   68.0683      2
+    1   15   56.9075      3
+    2   13   78.9541      4
+    2   14   36.8326      5
+    2   15   65.0586      6
+    3   13   11.2343      7
+    3   14   36.4252      8
+    3   15   56.8206      9
+    4   13  -7.79138     10
+    4   14   13.3569     11
+    5   13     19.93     13
+    5   14   1.15655     14
+    5   15  -16.4481     15
+    6   13  -3.98381     16
+    6   14   10.8247     17
+    6   15   23.3758     18
+    7   13  -19.4565     19
+    7   14   25.8039     20
+    7   15   63.0224     21
+    8   13   56.6448     22
+    8   15    53.025     24
+    9   13   17.9874     25
+    9   14   48.4677     26
+    9   15   71.0227     27
+   10   13   66.7197     28
+   10   14   36.0785     29
+   10   15  -20.2817     30
+   11   13   42.2167     31
+   11   14   -7.7336     32
+   11   15  -13.2392     33
+   12   14    45.388     35
+   12   15   39.6191     36
+   12   16  -8.54996     37
+   16   13   16.0105     38
+    8   20   78.9998     48
+   20   14   70.4782     49
+    4   28   -6.2569     64
+   28   15   33.6743     65
+
+Summerized results: 
+run: 0 bestFitness: -88
+Max fitness: -88
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

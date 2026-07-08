@@ -1,0 +1,81 @@
+
+---- Results of cofig: ----
+  keep=0.456608
+  threshold=3.93036
+  interSpeciesRate=0.000886674
+  noCrossoverOff=0.301752
+  probabilityWeightMutated=0.797799
+  probabilityAddNodeSmall=0.0356973
+  probabilityAddLink_small=0.027703
+  probabilityAddNodeLarge=0.384039
+  probabilityAddLink_Large=0.0849447
+  largeSize=30
+  c1=1.44458
+  c2=1.37687
+  c3=0.439188
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=50
+  n_max=100
+  learningRate=10
+  inputWeights=0,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot
+  folder=results/trial-11
+
+--Results of run:0 --
+Best Genome 
+Genome id: 1172
+Genome fitness: -177.71
+   IN  OUT    Weight  Innov
+    1   13   54.5008      1
+    1   14   44.5602      2
+    1   15    73.081      3
+    2   13  -11.1472      4
+    2   14    4.4327      5
+    2   15  -24.6927      6
+    3   13    50.091      7
+    3   14   31.8151      8
+    3   15   48.7861      9
+    4   13   21.9144     10
+    4   14   24.0105     11
+    4   15   1.98534     12
+    5   13   31.0349     13
+    5   14    -15.15     14
+    5   15   22.5995     15
+    6   13   18.4658     16
+    6   14   43.7656     17
+    6   15    48.667     18
+    7   13   -5.6018     19
+    7   14   52.1006     20
+    8   13  -10.1163     22
+    8   14   60.3227     23
+    8   15    72.397     24
+    9   13   19.8437     25
+    9   14   61.2947     26
+    9   15   48.4219     27
+   10   13   9.08287     28
+   10   14   68.5014     29
+   10   15   73.0854     30
+   11   13   75.0252     31
+   11   14   82.0128     32
+   11   15   70.0896     33
+   12   13  -16.3673     34
+   12   14   2.26024     35
+   12   15   57.8257     36
+   12   25  -15.8503     57
+   25   14   5.74689     58
+    0    3  -75.5694     59
+   11   28  -17.3334     66
+   28   13   75.0252     67
+   11   32   15.0969     75
+   32   62   10.7806    171
+   62   14   82.0128    172
+
+Summerized results: 
+run: 0 bestFitness: -177
+Max fitness: -177
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

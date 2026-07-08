@@ -1,0 +1,85 @@
+
+---- Results of cofig: ----
+  keep=0.44601
+  threshold=2.72877
+  interSpeciesRate=0.000957726
+  noCrossoverOff=0.27046
+  probabilityWeightMutated=0.777668
+  probabilityAddNodeSmall=0.0365807
+  probabilityAddLink_small=0.0287405
+  probabilityAddNodeLarge=0.292588
+  probabilityAddLink_Large=0.071031
+  largeSize=20
+  c1=1.54611
+  c2=1.13379
+  c3=0.370314
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-59
+  tau_c=8.81915
+  a_minus=0.0241251
+  a_plus=0.0852824
+  tau_plus=9.86725
+  tau_minus=20.9871
+  tunable_params=length,mass,com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 490
+Genome fitness: -84.31
+   IN  OUT    Weight  Innov
+    1   13   53.6901      1
+    1   14  -19.7791      2
+    1   15   61.4925      3
+    2   13    33.703      4
+    2   15   28.1124      6
+    3   13   -11.561      7
+    3   14  -6.64522      8
+    4   13   25.9365     10
+    4   15   56.8804     12
+    5   13   32.6827     13
+    5   14   19.5316     14
+    5   15   78.9483     15
+    6   13   28.3253     16
+    6   14   23.9207     17
+    6   15   51.7779     18
+    7   15   -18.585     21
+    8   13   54.8942     22
+    8   14   24.5235     23
+    8   15   49.7672     24
+    9   13  -16.9676     25
+    9   14   60.6149     26
+    9   15   18.7466     27
+   10   13   36.8379     28
+   10   14  -14.4589     29
+   10   15  -21.5693     30
+   11   13   57.4659     31
+   11   14   59.2311     32
+   11   15  -16.3484     33
+   12   13   33.9584     34
+   12   14   7.93417     35
+   12   15   17.9613     36
+    7   22   49.6919     51
+   22   14   20.8417     52
+    2   24   -1.4405     55
+   24   14   19.3097     56
+    4   31   6.81936     73
+   31   14   49.1745     74
+    3   42  -27.4629     97
+   42   15      72.8     98
+    7   50   56.7377    120
+   50   13   37.9765    121
+
+Summerized results: 
+run: 0 bestFitness: -84
+Max fitness: -84
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

@@ -1,0 +1,199 @@
+==========================================================================================
+                 REPORTE GLOBAL DE SIGNIFICANCIA ESTADISTICA (33 TRIALS)                  
+                        Comparacion: Variantes RSTDP vs NEAT Base                         
+==========================================================================================
+
+
+[[ CARTPOLE ESTACIONARIO ]]
+
+Escenario: ALL
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 446.67     | -          | N/A
+PLUS                      | 440.70     | 3.56e-01     | ns (No significativa)
+ESPECIE                   | 393.14     | 3.03e-12     | *** (Muy Alta)
+FIJO                      | 381.57     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: EST
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 496.70     | -          | N/A
+PLUS                      | 496.55     | 5.42e-01     | ns (No significativa)
+ESPECIE                   | 483.10     | 3.03e-12     | *** (Muy Alta)
+FIJO                      | 429.80     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: FORCE
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 496.81     | -          | N/A
+PLUS                      | 496.82     | 9.18e-01     | ns (No significativa)
+ESPECIE                   | 487.35     | 1.17e-11     | *** (Muy Alta)
+FIJO                      | 370.77     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: GRAVITY
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 474.32     | -          | N/A
+PLUS                      | 471.80     | 2.70e-01     | ns (No significativa)
+ESPECIE                   | 464.13     | 3.80e-07     | *** (Muy Alta)
+FIJO                      | 378.68     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: LENGHT
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 497.49     | -          | N/A
+PLUS                      | 497.59     | 5.55e-01     | ns (No significativa)
+ESPECIE                   | 488.29     | 3.03e-12     | *** (Muy Alta)
+FIJO                      | 454.80     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: MASS
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 496.07     | -          | N/A
+PLUS                      | 495.71     | 1.09e-01     | ns (No significativa)
+ESPECIE                   | 484.86     | 3.03e-12     | *** (Muy Alta)
+FIJO                      | 412.02     | 3.03e-12     | *** (Muy Alta)
+
+
+[[ CARTPOLE NO ESTACIONARIO ]]
+
+Escenario: ALL
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 387.47     | -          | N/A
+PLUS                      | 383.85     | 2.70e-01     | ns (No significativa)
+ESPECIE                   | 206.96     | 3.03e-12     | *** (Muy Alta)
+FIJO                      | 194.88     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: FORCE
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 492.66     | -          | N/A
+PLUS                      | 493.06     | 4.49e-01     | ns (No significativa)
+ESPECIE                   | 485.21     | 1.07e-11     | *** (Muy Alta)
+FIJO                      | 63.31      | 3.03e-12     | *** (Muy Alta)
+
+Escenario: GRAVITY
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 447.25     | -          | N/A
+PLUS                      | 446.59     | 8.88e-01     | ns (No significativa)
+ESPECIE                   | 463.74     | 6.68e-11     | *** (Muy Alta)
+FIJO                      | 79.78      | 3.03e-12     | *** (Muy Alta)
+
+Escenario: LENGHT
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 483.98     | -          | N/A
+PLUS                      | 483.51     | 3.46e-01     | ns (No significativa)
+ESPECIE                   | 499.56     | 3.02e-12     | *** (Muy Alta)
+FIJO                      | 293.23     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: MASS
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | 473.50     | -          | N/A
+PLUS                      | 473.67     | 7.58e-01     | ns (No significativa)
+ESPECIE                   | 188.64     | 3.03e-12     | *** (Muy Alta)
+FIJO                      | 230.29     | 3.03e-12     | *** (Muy Alta)
+
+
+[[ ACROBOT ESTACIONARIO ]]
+
+Escenario: ALL
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -129.34    | -          | N/A
+PLUS                      | -128.06    | 4.12e-01     | ns (No significativa)
+ESPECIE                   | -119.70    | 2.86e-06     | *** (Muy Alta)
+FIJO                      | -117.04    | 1.15e-08     | *** (Muy Alta)
+
+Escenario: EST
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -89.53     | -          | N/A
+PLUS                      | -89.46     | 7.39e-01     | ns (No significativa)
+ESPECIE                   | -92.03     | 2.37e-10     | *** (Muy Alta)
+FIJO                      | -85.19     | 3.03e-12     | *** (Muy Alta)
+
+Escenario: LARGO
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -115.32    | -          | N/A
+PLUS                      | -112.25    | 3.33e-02     | * (Significativa)
+ESPECIE                   | -108.16    | 3.04e-06     | *** (Muy Alta)
+FIJO                      | -104.11    | 2.81e-08     | *** (Muy Alta)
+
+Escenario: MASA
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -111.66    | -          | N/A
+PLUS                      | -111.64    | 8.47e-01     | ns (No significativa)
+ESPECIE                   | -102.51    | 3.07e-11     | *** (Muy Alta)
+FIJO                      | -101.15    | 3.63e-12     | *** (Muy Alta)
+
+Escenario: MOI
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -89.55     | -          | N/A
+PLUS                      | -89.73     | 2.70e-01     | ns (No significativa)
+ESPECIE                   | -92.10     | 1.52e-11     | *** (Muy Alta)
+FIJO                      | -84.99     | 3.03e-12     | *** (Muy Alta)
+
+
+[[ ACROBOT NO ESTACIONARIO ]]
+
+Escenario: ALL
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -116.57    | -          | N/A
+PLUS                      | -117.12    | 6.91e-01     | ns (No significativa)
+ESPECIE                   | -122.30    | 6.17e-04     | *** (Muy Alta)
+FIJO                      | -115.48    | 7.10e-01     | ns (No significativa)
+
+Escenario: LARGO
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -107.88    | -          | N/A
+PLUS                      | -108.89    | 4.05e-01     | ns (No significativa)
+ESPECIE                   | -109.29    | 2.18e-01     | ns (No significativa)
+FIJO                      | -114.59    | 5.07e-05     | *** (Muy Alta)
+
+Escenario: MASA
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -105.52    | -          | N/A
+PLUS                      | -105.94    | 5.99e-01     | ns (No significativa)
+ESPECIE                   | -106.75    | 1.80e-01     | ns (No significativa)
+FIJO                      | -104.15    | 2.18e-01     | ns (No significativa)
+
+Escenario: MOI
+-------------------------------------------------------------------------------------
+Metodo                    | Promedio   | p-valor    | Significancia
+-------------------------------------------------------------------------------------
+NEAT (Control)            | -87.33     | -          | N/A
+PLUS                      | -87.39     | 9.49e-01     | ns (No significativa)
+ESPECIE                   | -83.77     | 3.02e-12     | *** (Muy Alta)
+FIJO                      | -102.24    | 3.02e-12     | *** (Muy Alta)
+
+==========================================================================================
+FIN DEL REPORTE

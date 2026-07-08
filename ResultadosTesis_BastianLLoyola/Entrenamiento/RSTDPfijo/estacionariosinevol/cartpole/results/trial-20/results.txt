@@ -1,0 +1,61 @@
+
+---- Results of cofig: ----
+  keep=0.536709
+  threshold=3.61466
+  interSpeciesRate=0.000919856
+  noCrossoverOff=0.173505
+  probabilityWeightMutated=0.860785
+  probabilityAddNodeSmall=0.0306042
+  probabilityAddLink_small=0.0108926
+  probabilityAddNodeLarge=0.322136
+  probabilityAddLink_Large=0.132384
+  largeSize=20
+  c1=0.673541
+  c2=1.01149
+  c3=0.461589
+  numberGenomes=50
+  numberInputs=8
+  numberOutputs=2
+  evolutions=7
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=cartpole_ns
+  folder=results/trial-20
+  tau_c=21.7452
+  a_minus=0.087448
+  a_plus=0.0487515
+  tau_plus=39.028
+  tau_minus=38.3908
+  tunable_params=no
+
+--Results of run:0 --
+Best Genome 
+Genome id: 160
+Genome fitness: 273.052
+   IN  OUT    Weight  Innov
+    1    9  0.571421      1
+    1   10  -1.37352      2
+    2    9  -4.28608      3
+    2   10   10.7168      4
+    3    9   62.8957      5
+    3   10   21.1917      6
+    4    9    70.417      7
+    4   10 -0.888836      8
+    5    9   50.3186      9
+    5   10   13.2892     10
+    6    9    1.4524     11
+    6   10   37.5747     12
+    7    9   53.8959     13
+    7   10   48.3574     14
+    8    9  -23.3823     15
+    8   10   72.6576     16
+    5    3   3.48994     21
+
+Summerized results: 
+run: 0 bestFitness: 273
+Max fitness: 273
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

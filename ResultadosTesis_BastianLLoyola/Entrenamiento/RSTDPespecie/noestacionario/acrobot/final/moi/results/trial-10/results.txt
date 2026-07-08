@@ -1,0 +1,80 @@
+
+---- Results of config: ----
+  keep=0.414869
+  threshold=3.40078
+  interSpeciesRate=0.00115939
+  noCrossoverOff=0.259524
+  probabilityWeightMutated=0.787189
+  probabilityAddNodeSmall=0.0294951
+  probabilityAddLink_small=0.0469054
+  probabilityAddNodeLarge=0.328691
+  probabilityAddLink_Large=0.0797097
+  largeSize=20
+  c1=0.69235
+  c2=1.04977
+  c3=0.385212
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=25
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-10
+  tau_c=8.80128
+  a_minus=0.0342411
+  a_plus=0.0325065
+  tau_minus=10.0602
+  tau_plus=15.8447
+  tunable_params=com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 720
+Genome fitness: -81.86
+   IN  OUT    Weight  Innov
+    1   13  -2.37893      1
+    1   14  -19.7791      2
+    2   13  -9.02223      4
+    2   14   17.3556      5
+    2   15   5.49064      6
+    3   13   31.0686      7
+    3   14   44.2692      8
+    3   15   72.0914      9
+    4   13   79.2228     10
+    4   14   -19.114     11
+    4   15   64.7953     12
+    5   13   36.3617     13
+    5   14   4.26258     14
+    5   15   78.9483     15
+    6   13   33.3253     16
+    6   14  -19.0927     17
+    6   15   51.7779     18
+    7   13   40.1427     19
+    7   14   16.1601     20
+    8   13   39.8481     22
+    8   14   68.9956     23
+    8   15   44.7672     24
+    9   13 -0.901644     25
+    9   14   29.7259     26
+    9   15   43.9009     27
+   10   13   76.5682     28
+   10   14  -19.4589     29
+   10   15  -19.6421     30
+   11   13   77.4499     31
+   11   14   16.6028     32
+   11   15   -1.1799     33
+   12   13   33.9584     34
+   12   14   17.9342     35
+   12   15    71.893     36
+    1   39  -10.8858     90
+   39   15   56.4925     91
+
+Summerized results: 
+run: 0 bestFitness: -81
+Max fitness: -81
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

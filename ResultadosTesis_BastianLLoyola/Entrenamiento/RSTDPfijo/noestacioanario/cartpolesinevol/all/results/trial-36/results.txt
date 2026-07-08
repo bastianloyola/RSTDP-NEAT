@@ -1,0 +1,33 @@
+
+---- Results of cofig: ----
+  keep=0.451926
+  threshold=3.67765
+  interSpeciesRate=0.00135076
+  noCrossoverOff=0.300281
+  probabilityWeightMutated=0.822114
+  probabilityAddNodeSmall=0.0363875
+  probabilityAddLink_small=0.032516
+  probabilityAddNodeLarge=0.0427274
+  probabilityAddLink_Large=0.0609491
+  largeSize=20
+  c1=0.71842
+  c2=1.32291
+  c3=0.526988
+  numberGenomes=50
+  numberInputs=8
+  numberOutputs=2
+  evolutions=8
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=cartpole_ns
+  folder=results/trial-36
+  tau_c=23.3065
+  a_minus=0.0664707
+  a_plus=0.0179249
+  tau_plus=28.9596
+  tau_minus=30.2357
+  tunable_params=force_mag,gravity,length,masspole
+

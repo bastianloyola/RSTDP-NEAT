@@ -1,0 +1,89 @@
+
+---- Results of config: ----
+  keep=0.473147
+  threshold=3.2437
+  interSpeciesRate=0.000946841
+  noCrossoverOff=0.310423
+  probabilityWeightMutated=0.733332
+  probabilityAddNodeSmall=0.0313986
+  probabilityAddLink_small=0.0264524
+  probabilityAddNodeLarge=0.231908
+  probabilityAddLink_Large=0.174995
+  largeSize=20
+  c1=1.28854
+  c2=0.730976
+  c3=0.496239
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=50
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-3
+  tau_c=0
+  a_minus=0
+  a_plus=0
+  tau_minus=0
+  tau_plus=0
+  tunable_params=lenght,mass,com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 1323
+Genome fitness: -79.62
+   IN  OUT    Weight  Innov
+    1   15   10.8157      3
+    2   13   2.10094      4
+    2   14  -10.1979      5
+    2   15   41.2442      6
+    3   13  -14.0267      7
+    3   14   52.4605      8
+    3   15   58.2262      9
+    4   13   56.9462     10
+    4   15   68.0075     12
+    5   13   62.9201     13
+    5   14   23.4009     14
+    5   15    8.0996     15
+    6   13   18.5748     16
+    6   14    10.036     17
+    6   15    48.667     18
+    7   13   40.5398     19
+    7   14  -8.54206     20
+    7   15   45.7304     21
+    8   13   70.8676     22
+    8   14    18.956     23
+    8   15    72.397     24
+    9   13   11.0445     25
+    9   14   56.4767     26
+    9   15   58.4219     27
+   10   13   71.9591     28
+   10   14   33.2491     29
+   10   15    1.5825     30
+   11   13   54.7848     31
+   11   14    11.195     32
+   11   15     9.766     33
+   12   13  -9.39952     34
+   12   14   39.1081     35
+   12   15    64.391     36
+   11   22  -35.6405     53
+   22   14    16.195     54
+   10    5  -63.2913     68
+    1   34    26.425     90
+   34   14   68.1835     91
+    4   37   65.6116    100
+   37   14   34.0105    101
+    1   42  -14.7105    120
+   42   13   28.7638    121
+    8   49  -54.9749    139
+   49   15    72.397    140
+   13   16  -15.9604    225
+
+Summerized results: 
+run: 0 bestFitness: -79
+Max fitness: -79
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

@@ -1,0 +1,82 @@
+
+---- Results of cofig: ----
+  keep=0.42118
+  threshold=3.52601
+  interSpeciesRate=0.00109997
+  noCrossoverOff=0.303941
+  probabilityWeightMutated=0.800688
+  probabilityAddNodeSmall=0.0312963
+  probabilityAddLink_small=0.047776
+  probabilityAddNodeLarge=0.345506
+  probabilityAddLink_Large=0.0564889
+  largeSize=20
+  c1=0.828831
+  c2=1.13875
+  c3=0.399677
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-49
+  tau_c=11.4306
+  a_minus=0.0497192
+  a_plus=0.0125527
+  tau_plus=14.9733
+  tau_minus=10.4467
+  tunable_params=com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 571
+Genome fitness: -89.55
+   IN  OUT    Weight  Innov
+    1   13   65.9479      1
+    1   14  -19.7791      2
+    1   15   51.4925      3
+    2   13    33.703      4
+    2   15   28.1124      6
+    3   13   -11.561      7
+    3   14   58.4295      8
+    4   13   25.9365     10
+    4   14   49.1745     11
+    4   15   46.8804     12
+    5   13  -2.33308     13
+    5   14   79.4196     14
+    5   15   74.6925     15
+    6   13   37.5747     16
+    6   14   -4.1413     17
+    6   15   39.6196     18
+    7   13   47.0024     19
+    7   14   10.8417     20
+    7   15   -18.585     21
+    8   13   54.8942     22
+    8   14   24.5235     23
+    8   15   73.1014     24
+    9   13   28.1733     25
+    9   14   12.3852     26
+    9   15   71.7395     27
+   10   13   36.8379     28
+   10   14   39.5963     29
+   10   15  -16.5693     30
+   11   13   57.4659     31
+   11   14   59.2311     32
+   11   15  -16.3484     33
+   12   13  -19.4157     34
+   12   14   12.9342     35
+   12   15   17.9613     36
+    3   27   56.5352     59
+   27   15   5.42952     60
+    2   39  -75.5069     86
+   39   14   19.3097     87
+
+Summerized results: 
+run: 0 bestFitness: -89
+Max fitness: -89
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

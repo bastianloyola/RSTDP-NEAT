@@ -1,0 +1,51 @@
+
+-------- Generation: 0 --------
+
+-------- Evaluation  --------
+
+-------- Fin Eval --------
+
+-------- Eliminate --------
+Species 0 size: 2
+Genome id: 1 idAnnarchy: 2  eliminated
+----------------
+nGenomesPrevious: 2
+idSpeciesVoid.size(): 0
+----------------
+Number of genomes: 1 Number of species: 1
+Species 0 size: 1
+----------------
+
+-------- Fin Eliminate --------
+
+-------- Mutations --------
+
+-------- Fin Mutations --------
+
+-------- Reproduce --------
+ number of species: 1
+ number of genomes: 1
+Species 0 allocatedOffsprings: 1
+Species 0 genomes.size(): 1
+ -> Species: 0
+ ----> reproduceInterSpecies: 0
+ ----> reproduceNonInterSpecies: 0
+ ----> reproduceMutations: 1
+ ----> interSpeciesRate: 
+ ----> nonInterSpeciesRate: 
+ -> Genome id: 2 idAnnarchy: 2
+ ----> Mutate weight -- index: 8 modification_weight: 5
+ ----> Add link --
+ in: 13 out: 5
+ ----> mutations:  1/1 
+ --
+----
+
+-------- Fin Reproduce --------
+
+-------- Speciation --------
+Species 0 size: 2
+
+-------- Fin Speciation --------
+
+-------- Evaluation  --------

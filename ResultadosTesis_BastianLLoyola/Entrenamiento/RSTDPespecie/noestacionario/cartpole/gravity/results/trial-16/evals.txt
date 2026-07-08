@@ -1,0 +1,2273 @@
+
+-------- Evaluation of gen 0-----------
+Genome id: 0 idAnnarchy: 1  fitness: 9.2625
+Genome id: 1 idAnnarchy: 2  fitness: 19.521
+Genome id: 2 idAnnarchy: 3  fitness: 9.355
+Genome id: 3 idAnnarchy: 4  fitness: 22.6225
+Genome id: 4 idAnnarchy: 5  fitness: 10.202
+Genome id: 5 idAnnarchy: 6  fitness: 9.8365
+Genome id: 6 idAnnarchy: 7  fitness: 8.687
+Genome id: 7 idAnnarchy: 8  fitness: 9.3795
+Genome id: 8 idAnnarchy: 9  fitness: 9.348
+Genome id: 9 idAnnarchy: 10  fitness: 31.3565
+Genome id: 10 idAnnarchy: 11  fitness: 9.33
+Genome id: 11 idAnnarchy: 12  fitness: 18.7265
+Genome id: 12 idAnnarchy: 13  fitness: 43.6065
+Genome id: 13 idAnnarchy: 14  fitness: 14.4
+Genome id: 14 idAnnarchy: 15  fitness: 12.306
+Genome id: 15 idAnnarchy: 16  fitness: 9.348
+Genome id: 16 idAnnarchy: 17  fitness: 80.859
+Genome id: 17 idAnnarchy: 18  fitness: 9.316
+Genome id: 18 idAnnarchy: 19  fitness: 12.5495
+Genome id: 19 idAnnarchy: 20  fitness: 29.261
+Genome id: 20 idAnnarchy: 21  fitness: 8.9285
+Genome id: 21 idAnnarchy: 22  fitness: 9.2345
+Genome id: 22 idAnnarchy: 23  fitness: 9.3095
+Genome id: 23 idAnnarchy: 24  fitness: 9.3225
+Genome id: 24 idAnnarchy: 25  fitness: 29.1515
+Genome id: 25 idAnnarchy: 26  fitness: 10.8265
+Genome id: 26 idAnnarchy: 27  fitness: 68.801
+Genome id: 27 idAnnarchy: 28  fitness: 9.3095
+Genome id: 28 idAnnarchy: 29  fitness: 9.348
+Genome id: 29 idAnnarchy: 30  fitness: 39.3195
+Genome id: 30 idAnnarchy: 31  fitness: 11.5475
+Genome id: 31 idAnnarchy: 32  fitness: 32.014
+Genome id: 32 idAnnarchy: 33  fitness: 17.044
+Genome id: 33 idAnnarchy: 34  fitness: 9.718
+Genome id: 34 idAnnarchy: 35  fitness: 9.6775
+Genome id: 35 idAnnarchy: 36  fitness: 10.8825
+Genome id: 36 idAnnarchy: 37  fitness: 23.943
+Genome id: 37 idAnnarchy: 38  fitness: 13.807
+Genome id: 38 idAnnarchy: 39  fitness: 39.701
+Genome id: 39 idAnnarchy: 40  fitness: 9.413
+Genome id: 40 idAnnarchy: 41  fitness: 9.415
+Genome id: 41 idAnnarchy: 42  fitness: 9.342
+Genome id: 42 idAnnarchy: 43  fitness: 10.4715
+Genome id: 43 idAnnarchy: 44  fitness: 9.351
+Genome id: 44 idAnnarchy: 45  fitness: 11.876
+Genome id: 45 idAnnarchy: 46  fitness: 9.377
+Genome id: 46 idAnnarchy: 47  fitness: 26.7905
+Genome id: 47 idAnnarchy: 48  fitness: 9.7335
+Genome id: 48 idAnnarchy: 49  fitness: 9.25
+Genome id: 49 idAnnarchy: 50  fitness: 36.791
+
+-------- Evaluation of gen 1-----------
+Genome id: 16 idAnnarchy: 1  fitness: 81.033
+Genome id: 1 idAnnarchy: 2  fitness: 18.4295
+Genome id: 3 idAnnarchy: 3  fitness: 22.9095
+Genome id: 4 idAnnarchy: 4  fitness: 10.477
+Genome id: 9 idAnnarchy: 5  fitness: 33.9835
+Genome id: 11 idAnnarchy: 6  fitness: 18.4385
+Genome id: 12 idAnnarchy: 7  fitness: 54.648
+Genome id: 13 idAnnarchy: 8  fitness: 14.6605
+Genome id: 14 idAnnarchy: 9  fitness: 10.296
+Genome id: 18 idAnnarchy: 10  fitness: 12.315
+Genome id: 19 idAnnarchy: 11  fitness: 30.9465
+Genome id: 24 idAnnarchy: 12  fitness: 29.4585
+Genome id: 25 idAnnarchy: 13  fitness: 13.066
+Genome id: 26 idAnnarchy: 14  fitness: 70.8575
+Genome id: 29 idAnnarchy: 15  fitness: 44.586
+Genome id: 30 idAnnarchy: 16  fitness: 11.526
+Genome id: 31 idAnnarchy: 17  fitness: 31.642
+Genome id: 32 idAnnarchy: 18  fitness: 9.506
+Genome id: 35 idAnnarchy: 19  fitness: 11.7705
+Genome id: 36 idAnnarchy: 20  fitness: 18.9525
+Genome id: 37 idAnnarchy: 21  fitness: 12.5435
+Genome id: 38 idAnnarchy: 22  fitness: 38.0285
+Genome id: 42 idAnnarchy: 23  fitness: 14.1175
+Genome id: 44 idAnnarchy: 24  fitness: 12.003
+Genome id: 46 idAnnarchy: 25  fitness: 26.643
+Genome id: 49 idAnnarchy: 26  fitness: 36.1155
+Genome id: 50 idAnnarchy: 27  fitness: 12.072
+Genome id: 51 idAnnarchy: 28  fitness: 21.73
+Genome id: 52 idAnnarchy: 29  fitness: 38.7115
+Genome id: 53 idAnnarchy: 30  fitness: 27.1635
+Genome id: 54 idAnnarchy: 31  fitness: 12.005
+Genome id: 55 idAnnarchy: 32  fitness: 50.708
+Genome id: 56 idAnnarchy: 33  fitness: 40.1475
+Genome id: 57 idAnnarchy: 34  fitness: 22.434
+Genome id: 58 idAnnarchy: 35  fitness: 82.3425
+Genome id: 59 idAnnarchy: 36  fitness: 125.027
+Genome id: 60 idAnnarchy: 37  fitness: 9.3365
+Genome id: 61 idAnnarchy: 38  fitness: 9.4685
+Genome id: 62 idAnnarchy: 39  fitness: 38.6435
+Genome id: 63 idAnnarchy: 40  fitness: 24.7155
+Genome id: 64 idAnnarchy: 41  fitness: 12.7235
+Genome id: 65 idAnnarchy: 42  fitness: 10.317
+Genome id: 66 idAnnarchy: 43  fitness: 29.825
+Genome id: 67 idAnnarchy: 44  fitness: 29.8985
+Genome id: 68 idAnnarchy: 45  fitness: 9.459
+Genome id: 69 idAnnarchy: 46  fitness: 9.567
+Genome id: 70 idAnnarchy: 47  fitness: 9.3415
+Genome id: 71 idAnnarchy: 48  fitness: 168.671
+Genome id: 72 idAnnarchy: 49  fitness: 11.8335
+Genome id: 73 idAnnarchy: 50  fitness: 30.2945
+
+-------- Evaluation of gen 2-----------
+Genome id: 16 idAnnarchy: 1  fitness: 80.901
+Genome id: 59 idAnnarchy: 2  fitness: 122.956
+Genome id: 26 idAnnarchy: 3  fitness: 67.7955
+Genome id: 66 idAnnarchy: 4  fitness: 30.316
+Genome id: 53 idAnnarchy: 5  fitness: 25.9965
+Genome id: 71 idAnnarchy: 6  fitness: 167.977
+Genome id: 51 idAnnarchy: 7  fitness: 21.534
+Genome id: 58 idAnnarchy: 8  fitness: 81.163
+Genome id: 67 idAnnarchy: 9  fitness: 31.0905
+Genome id: 29 idAnnarchy: 10  fitness: 42.293
+Genome id: 65 idAnnarchy: 11  fitness: 10.3405
+Genome id: 49 idAnnarchy: 12  fitness: 37.142
+Genome id: 31 idAnnarchy: 13  fitness: 32.8345
+Genome id: 19 idAnnarchy: 14  fitness: 31.2265
+Genome id: 24 idAnnarchy: 15  fitness: 29.21
+Genome id: 46 idAnnarchy: 16  fitness: 26.548
+Genome id: 36 idAnnarchy: 17  fitness: 18.485
+Genome id: 68 idAnnarchy: 18  fitness: 9.4335
+Genome id: 1 idAnnarchy: 19  fitness: 18.24
+Genome id: 11 idAnnarchy: 20  fitness: 18.391
+Genome id: 32 idAnnarchy: 21  fitness: 9.4455
+Genome id: 13 idAnnarchy: 22  fitness: 14.551
+Genome id: 37 idAnnarchy: 23  fitness: 12.6075
+Genome id: 57 idAnnarchy: 24  fitness: 21.654
+Genome id: 14 idAnnarchy: 25  fitness: 10.5205
+Genome id: 42 idAnnarchy: 26  fitness: 14.1
+Genome id: 4 idAnnarchy: 27  fitness: 10.5725
+Genome id: 74 idAnnarchy: 28  fitness: 10.711
+Genome id: 75 idAnnarchy: 29  fitness: 80.969
+Genome id: 76 idAnnarchy: 30  fitness: 102.294
+Genome id: 77 idAnnarchy: 31  fitness: 80.522
+Genome id: 78 idAnnarchy: 32  fitness: 72.737
+Genome id: 79 idAnnarchy: 33  fitness: 67.791
+Genome id: 80 idAnnarchy: 34  fitness: 169.39
+Genome id: 81 idAnnarchy: 35  fitness: 83.3115
+Genome id: 82 idAnnarchy: 36  fitness: 9.3485
+Genome id: 83 idAnnarchy: 37  fitness: 51.808
+Genome id: 84 idAnnarchy: 38  fitness: 80.5825
+Genome id: 85 idAnnarchy: 39  fitness: 82.343
+Genome id: 86 idAnnarchy: 40  fitness: 81.166
+Genome id: 87 idAnnarchy: 41  fitness: 51.9995
+Genome id: 88 idAnnarchy: 42  fitness: 81.236
+Genome id: 89 idAnnarchy: 43  fitness: 81.6455
+Genome id: 90 idAnnarchy: 44  fitness: 65.691
+Genome id: 91 idAnnarchy: 45  fitness: 56.001
+Genome id: 92 idAnnarchy: 46  fitness: 50.711
+Genome id: 93 idAnnarchy: 47  fitness: 9.074
+Genome id: 94 idAnnarchy: 48  fitness: 46.1535
+Genome id: 95 idAnnarchy: 49  fitness: 20.031
+Genome id: 96 idAnnarchy: 50  fitness: 28.8095
+
+-------- Evaluation of gen 3-----------
+Genome id: 71 idAnnarchy: 1  fitness: 169.837
+Genome id: 80 idAnnarchy: 2  fitness: 168.067
+Genome id: 83 idAnnarchy: 3  fitness: 52.8195
+Genome id: 76 idAnnarchy: 4  fitness: 100.567
+Genome id: 81 idAnnarchy: 5  fitness: 84.219
+Genome id: 26 idAnnarchy: 6  fitness: 69.5285
+Genome id: 93 idAnnarchy: 7  fitness: 9.0325
+Genome id: 94 idAnnarchy: 8  fitness: 45.64
+Genome id: 31 idAnnarchy: 9  fitness: 34.698
+Genome id: 95 idAnnarchy: 10  fitness: 19.374
+Genome id: 66 idAnnarchy: 11  fitness: 29.9445
+Genome id: 51 idAnnarchy: 12  fitness: 21.5075
+Genome id: 36 idAnnarchy: 13  fitness: 18.3635
+Genome id: 11 idAnnarchy: 14  fitness: 18.4485
+Genome id: 1 idAnnarchy: 15  fitness: 18.518
+Genome id: 13 idAnnarchy: 16  fitness: 14.7475
+Genome id: 42 idAnnarchy: 17  fitness: 14.654
+Genome id: 4 idAnnarchy: 18  fitness: 10.487
+Genome id: 14 idAnnarchy: 19  fitness: 10.5205
+Genome id: 32 idAnnarchy: 20  fitness: 9.4785
+Genome id: 96 idAnnarchy: 21  fitness: 29.3735
+Genome id: 16 idAnnarchy: 22  fitness: 62.82
+Genome id: 75 idAnnarchy: 23  fitness: 83.3365
+Genome id: 85 idAnnarchy: 24  fitness: 9.3415
+Genome id: 86 idAnnarchy: 25  fitness: 79.895
+Genome id: 88 idAnnarchy: 26  fitness: 68.599
+Genome id: 89 idAnnarchy: 27  fitness: 33.3785
+Genome id: 97 idAnnarchy: 28  fitness: 38.9675
+Genome id: 98 idAnnarchy: 29  fitness: 9.292
+Genome id: 99 idAnnarchy: 30  fitness: 64.3435
+Genome id: 100 idAnnarchy: 31  fitness: 82.6045
+Genome id: 101 idAnnarchy: 32  fitness: 57.233
+Genome id: 102 idAnnarchy: 33  fitness: 60.977
+Genome id: 103 idAnnarchy: 34  fitness: 63.49
+Genome id: 104 idAnnarchy: 35  fitness: 170.898
+Genome id: 105 idAnnarchy: 36  fitness: 65.323
+Genome id: 106 idAnnarchy: 37  fitness: 67.8345
+Genome id: 107 idAnnarchy: 38  fitness: 63.5965
+Genome id: 108 idAnnarchy: 39  fitness: 63.115
+Genome id: 109 idAnnarchy: 40  fitness: 62.8905
+Genome id: 110 idAnnarchy: 41  fitness: 63.3165
+Genome id: 111 idAnnarchy: 42  fitness: 63.1185
+Genome id: 112 idAnnarchy: 43  fitness: 100.066
+Genome id: 113 idAnnarchy: 44  fitness: 96.614
+Genome id: 114 idAnnarchy: 45  fitness: 61.1125
+Genome id: 115 idAnnarchy: 46  fitness: 63.9175
+Genome id: 116 idAnnarchy: 47  fitness: 64.996
+Genome id: 117 idAnnarchy: 48  fitness: 114.769
+Genome id: 118 idAnnarchy: 49  fitness: 63
+Genome id: 119 idAnnarchy: 50  fitness: 9.305
+
+-------- Evaluation of gen 4-----------
+Genome id: 80 idAnnarchy: 1  fitness: 170.579
+Genome id: 71 idAnnarchy: 2  fitness: 168.471
+Genome id: 76 idAnnarchy: 3  fitness: 101.593
+Genome id: 81 idAnnarchy: 4  fitness: 84.5535
+Genome id: 89 idAnnarchy: 5  fitness: 33.601
+Genome id: 104 idAnnarchy: 6  fitness: 169.511
+Genome id: 117 idAnnarchy: 7  fitness: 112.144
+Genome id: 66 idAnnarchy: 8  fitness: 30.328
+Genome id: 96 idAnnarchy: 9  fitness: 28.962
+Genome id: 95 idAnnarchy: 10  fitness: 19.826
+Genome id: 13 idAnnarchy: 11  fitness: 14.2645
+Genome id: 42 idAnnarchy: 12  fitness: 14.1705
+Genome id: 4 idAnnarchy: 13  fitness: 10.623
+Genome id: 14 idAnnarchy: 14  fitness: 10.3975
+Genome id: 32 idAnnarchy: 15  fitness: 9.545
+Genome id: 93 idAnnarchy: 16  fitness: 9.0115
+Genome id: 119 idAnnarchy: 17  fitness: 9.32
+Genome id: 75 idAnnarchy: 18  fitness: 96.722
+Genome id: 86 idAnnarchy: 19  fitness: 84.4015
+Genome id: 88 idAnnarchy: 20  fitness: 82.2055
+Genome id: 99 idAnnarchy: 21  fitness: 65.062
+Genome id: 100 idAnnarchy: 22  fitness: 82.5325
+Genome id: 105 idAnnarchy: 23  fitness: 45.3185
+Genome id: 106 idAnnarchy: 24  fitness: 66.636
+Genome id: 107 idAnnarchy: 25  fitness: 69.9395
+Genome id: 115 idAnnarchy: 26  fitness: 62.1045
+Genome id: 116 idAnnarchy: 27  fitness: 120.669
+Genome id: 120 idAnnarchy: 28  fitness: 74.0305
+Genome id: 121 idAnnarchy: 29  fitness: 170.079
+Genome id: 122 idAnnarchy: 30  fitness: 171.245
+Genome id: 123 idAnnarchy: 31  fitness: 168.88
+Genome id: 124 idAnnarchy: 32  fitness: 17.172
+Genome id: 125 idAnnarchy: 33  fitness: 168.865
+Genome id: 126 idAnnarchy: 34  fitness: 168.306
+Genome id: 127 idAnnarchy: 35  fitness: 167.598
+Genome id: 128 idAnnarchy: 36  fitness: 172.039
+Genome id: 129 idAnnarchy: 37  fitness: 168.696
+Genome id: 130 idAnnarchy: 38  fitness: 173.055
+Genome id: 131 idAnnarchy: 39  fitness: 167.321
+Genome id: 132 idAnnarchy: 40  fitness: 9.379
+Genome id: 133 idAnnarchy: 41  fitness: 164.661
+Genome id: 134 idAnnarchy: 42  fitness: 31.4125
+Genome id: 135 idAnnarchy: 43  fitness: 168.73
+Genome id: 136 idAnnarchy: 44  fitness: 171.212
+Genome id: 137 idAnnarchy: 45  fitness: 168.638
+Genome id: 138 idAnnarchy: 46  fitness: 74.0815
+Genome id: 139 idAnnarchy: 47  fitness: 167.402
+Genome id: 140 idAnnarchy: 48  fitness: 10.32
+Genome id: 141 idAnnarchy: 49  fitness: 168.363
+Genome id: 142 idAnnarchy: 50  fitness: 170.637
+
+-------- Evaluation species R-STDP0 --------
+Genome id: 104 idAnnarchy: 1  fitness: 170.527
+Genome id: 104 idAnnarchy: 2  fitness: 169.997
+Genome id: 104 idAnnarchy: 3  fitness: 170.771
+Genome id: 104 idAnnarchy: 4  fitness: 168.947
+Genome id: 104 idAnnarchy: 5  fitness: 169.839
+Genome id: 104 idAnnarchy: 6  fitness: 171.339
+Genome id: 104 idAnnarchy: 7  fitness: 168.968
+Genome id: 104 idAnnarchy: 8  fitness: 169.844
+Genome id: 104 idAnnarchy: 9  fitness: 170.325
+Genome id: 104 idAnnarchy: 10  fitness: 170.739
+
+
+-------- Evaluation species R-STDP1 --------
+Genome id: 71 idAnnarchy: 1  fitness: 168.982
+Genome id: 71 idAnnarchy: 2  fitness: 169.07
+Genome id: 71 idAnnarchy: 3  fitness: 169.967
+Genome id: 71 idAnnarchy: 4  fitness: 168.81
+Genome id: 71 idAnnarchy: 5  fitness: 168.915
+Genome id: 71 idAnnarchy: 6  fitness: 170.283
+Genome id: 71 idAnnarchy: 7  fitness: 168.814
+Genome id: 71 idAnnarchy: 8  fitness: 168.535
+Genome id: 71 idAnnarchy: 9  fitness: 169.719
+Genome id: 71 idAnnarchy: 10  fitness: 169.536
+
+
+-------- Evaluation species R-STDP2 --------
+Genome id: 80 idAnnarchy: 1  fitness: 167.723
+Genome id: 80 idAnnarchy: 2  fitness: 168.025
+Genome id: 80 idAnnarchy: 3  fitness: 169.502
+Genome id: 80 idAnnarchy: 4  fitness: 167.255
+Genome id: 80 idAnnarchy: 5  fitness: 167.223
+Genome id: 80 idAnnarchy: 6  fitness: 168.146
+Genome id: 80 idAnnarchy: 7  fitness: 168.733
+Genome id: 80 idAnnarchy: 8  fitness: 169.13
+Genome id: 80 idAnnarchy: 9  fitness: 167.727
+Genome id: 80 idAnnarchy: 10  fitness: 169.152
+
+
+-------- Evaluation species R-STDP3 --------
+Genome id: 120 idAnnarchy: 1  fitness: 76.672
+Genome id: 120 idAnnarchy: 2  fitness: 70.0525
+Genome id: 120 idAnnarchy: 3  fitness: 75.791
+Genome id: 120 idAnnarchy: 4  fitness: 73.415
+Genome id: 120 idAnnarchy: 5  fitness: 73.929
+Genome id: 120 idAnnarchy: 6  fitness: 73.4905
+Genome id: 120 idAnnarchy: 7  fitness: 75.085
+Genome id: 120 idAnnarchy: 8  fitness: 75.3485
+Genome id: 120 idAnnarchy: 9  fitness: 74.82
+Genome id: 120 idAnnarchy: 10  fitness: 73.0225
+
+
+-------- Evaluation species R-STDP4 --------
+Genome id: 117 idAnnarchy: 1  fitness: 114.469
+Genome id: 117 idAnnarchy: 2  fitness: 114.078
+Genome id: 117 idAnnarchy: 3  fitness: 111.578
+Genome id: 117 idAnnarchy: 4  fitness: 111.025
+Genome id: 117 idAnnarchy: 5  fitness: 112.381
+Genome id: 117 idAnnarchy: 6  fitness: 113.09
+Genome id: 117 idAnnarchy: 7  fitness: 113.656
+Genome id: 117 idAnnarchy: 8  fitness: 112.582
+Genome id: 117 idAnnarchy: 9  fitness: 112.425
+Genome id: 117 idAnnarchy: 10  fitness: 112.449
+
+
+-------- Evaluation species R-STDP5 --------
+Genome id: 76 idAnnarchy: 1  fitness: 98.3185
+Genome id: 76 idAnnarchy: 2  fitness: 103.849
+Genome id: 76 idAnnarchy: 3  fitness: 101.766
+Genome id: 76 idAnnarchy: 4  fitness: 100.477
+Genome id: 76 idAnnarchy: 5  fitness: 103.653
+Genome id: 76 idAnnarchy: 6  fitness: 99.3
+Genome id: 76 idAnnarchy: 7  fitness: 98.724
+Genome id: 76 idAnnarchy: 8  fitness: 101.74
+Genome id: 76 idAnnarchy: 9  fitness: 100.749
+Genome id: 76 idAnnarchy: 10  fitness: 100.488
+
+
+-------- Evaluation species R-STDP6 --------
+Genome id: 132 idAnnarchy: 1  fitness: 9.345
+Genome id: 132 idAnnarchy: 2  fitness: 9.3555
+Genome id: 132 idAnnarchy: 3  fitness: 9.371
+Genome id: 132 idAnnarchy: 4  fitness: 9.348
+Genome id: 132 idAnnarchy: 5  fitness: 9.334
+Genome id: 132 idAnnarchy: 6  fitness: 9.316
+Genome id: 132 idAnnarchy: 7  fitness: 9.3425
+Genome id: 132 idAnnarchy: 8  fitness: 9.3325
+Genome id: 132 idAnnarchy: 9  fitness: 9.326
+Genome id: 132 idAnnarchy: 10  fitness: 9.3415
+
+
+-------- Evaluation species R-STDP7 --------
+Genome id: 81 idAnnarchy: 1  fitness: 83.4675
+Genome id: 81 idAnnarchy: 2  fitness: 83.4745
+Genome id: 81 idAnnarchy: 3  fitness: 83.7715
+Genome id: 81 idAnnarchy: 4  fitness: 83.8675
+Genome id: 81 idAnnarchy: 5  fitness: 84.094
+Genome id: 81 idAnnarchy: 6  fitness: 83.726
+Genome id: 81 idAnnarchy: 7  fitness: 83.635
+Genome id: 81 idAnnarchy: 8  fitness: 84.022
+Genome id: 81 idAnnarchy: 9  fitness: 84.0645
+Genome id: 81 idAnnarchy: 10  fitness: 84.2435
+
+
+-------- Evaluation species R-STDP8 --------
+Genome id: 89 idAnnarchy: 1  fitness: 33.702
+Genome id: 89 idAnnarchy: 2  fitness: 33.4185
+Genome id: 89 idAnnarchy: 3  fitness: 33.755
+Genome id: 89 idAnnarchy: 4  fitness: 33.4775
+Genome id: 89 idAnnarchy: 5  fitness: 33.492
+Genome id: 89 idAnnarchy: 6  fitness: 33.8235
+Genome id: 89 idAnnarchy: 7  fitness: 33.808
+Genome id: 89 idAnnarchy: 8  fitness: 33.882
+Genome id: 89 idAnnarchy: 9  fitness: 33.7195
+Genome id: 89 idAnnarchy: 10  fitness: 33.676
+
+
+-------- Evaluation species R-STDP9 --------
+Genome id: 66 idAnnarchy: 1  fitness: 30.429
+Genome id: 66 idAnnarchy: 2  fitness: 29.6625
+Genome id: 66 idAnnarchy: 3  fitness: 30.187
+Genome id: 66 idAnnarchy: 4  fitness: 29.926
+Genome id: 66 idAnnarchy: 5  fitness: 30.712
+Genome id: 66 idAnnarchy: 6  fitness: 30.274
+Genome id: 66 idAnnarchy: 7  fitness: 30.03
+Genome id: 66 idAnnarchy: 8  fitness: 30.2495
+Genome id: 66 idAnnarchy: 9  fitness: 29.891
+Genome id: 66 idAnnarchy: 10  fitness: 30.2865
+
+
+-------- Evaluation species R-STDP10 --------
+Genome id: 96 idAnnarchy: 1  fitness: 28.552
+Genome id: 96 idAnnarchy: 2  fitness: 29.098
+Genome id: 96 idAnnarchy: 3  fitness: 29.0615
+Genome id: 96 idAnnarchy: 4  fitness: 29.167
+Genome id: 96 idAnnarchy: 5  fitness: 29.212
+Genome id: 96 idAnnarchy: 6  fitness: 28.6635
+Genome id: 96 idAnnarchy: 7  fitness: 29.072
+Genome id: 96 idAnnarchy: 8  fitness: 29.118
+Genome id: 96 idAnnarchy: 9  fitness: 29.062
+Genome id: 96 idAnnarchy: 10  fitness: 28.787
+
+
+-------- Evaluation species R-STDP11 --------
+Genome id: 95 idAnnarchy: 1  fitness: 19.479
+Genome id: 95 idAnnarchy: 2  fitness: 19.2385
+Genome id: 95 idAnnarchy: 3  fitness: 20.342
+Genome id: 95 idAnnarchy: 4  fitness: 19.6235
+Genome id: 95 idAnnarchy: 5  fitness: 20.056
+Genome id: 95 idAnnarchy: 6  fitness: 20.052
+Genome id: 95 idAnnarchy: 7  fitness: 19.59
+Genome id: 95 idAnnarchy: 8  fitness: 19.8735
+Genome id: 95 idAnnarchy: 9  fitness: 19.9755
+Genome id: 95 idAnnarchy: 10  fitness: 20.345
+
+
+-------- Evaluation species R-STDP12 --------
+Genome id: 13 idAnnarchy: 1  fitness: 14.669
+Genome id: 13 idAnnarchy: 2  fitness: 14.569
+Genome id: 13 idAnnarchy: 3  fitness: 14.093
+Genome id: 13 idAnnarchy: 4  fitness: 14.887
+Genome id: 13 idAnnarchy: 5  fitness: 14.564
+Genome id: 13 idAnnarchy: 6  fitness: 14.255
+Genome id: 13 idAnnarchy: 7  fitness: 14.7535
+Genome id: 13 idAnnarchy: 8  fitness: 14.3465
+Genome id: 13 idAnnarchy: 9  fitness: 14.414
+Genome id: 13 idAnnarchy: 10  fitness: 14.404
+
+
+-------- Evaluation species R-STDP13 --------
+Genome id: 42 idAnnarchy: 1  fitness: 14.174
+Genome id: 42 idAnnarchy: 2  fitness: 14.316
+Genome id: 42 idAnnarchy: 3  fitness: 14.435
+Genome id: 42 idAnnarchy: 4  fitness: 14.1375
+Genome id: 42 idAnnarchy: 5  fitness: 14.656
+Genome id: 42 idAnnarchy: 6  fitness: 14.4995
+Genome id: 42 idAnnarchy: 7  fitness: 14.59
+Genome id: 42 idAnnarchy: 8  fitness: 14.195
+Genome id: 42 idAnnarchy: 9  fitness: 14.039
+Genome id: 42 idAnnarchy: 10  fitness: 15.1
+
+
+-------- Evaluation species R-STDP14 --------
+Genome id: 14 idAnnarchy: 1  fitness: 10.5545
+Genome id: 14 idAnnarchy: 2  fitness: 10.4495
+Genome id: 14 idAnnarchy: 3  fitness: 10.388
+Genome id: 14 idAnnarchy: 4  fitness: 10.553
+Genome id: 14 idAnnarchy: 5  fitness: 10.455
+Genome id: 14 idAnnarchy: 6  fitness: 10.347
+Genome id: 14 idAnnarchy: 7  fitness: 10.4785
+Genome id: 14 idAnnarchy: 8  fitness: 10.389
+Genome id: 14 idAnnarchy: 9  fitness: 10.444
+Genome id: 14 idAnnarchy: 10  fitness: 10.301
+
+
+-------- Evaluation species R-STDP15 --------
+Genome id: 4 idAnnarchy: 1  fitness: 10.5245
+Genome id: 4 idAnnarchy: 2  fitness: 10.5305
+Genome id: 4 idAnnarchy: 3  fitness: 10.4835
+Genome id: 4 idAnnarchy: 4  fitness: 10.452
+Genome id: 4 idAnnarchy: 5  fitness: 10.5445
+Genome id: 4 idAnnarchy: 6  fitness: 10.5905
+Genome id: 4 idAnnarchy: 7  fitness: 10.557
+Genome id: 4 idAnnarchy: 8  fitness: 10.5395
+Genome id: 4 idAnnarchy: 9  fitness: 10.647
+Genome id: 4 idAnnarchy: 10  fitness: 10.5275
+
+
+-------- Evaluation species R-STDP16 --------
+Genome id: 32 idAnnarchy: 1  fitness: 9.428
+Genome id: 32 idAnnarchy: 2  fitness: 9.447
+Genome id: 32 idAnnarchy: 3  fitness: 9.491
+Genome id: 32 idAnnarchy: 4  fitness: 9.455
+Genome id: 32 idAnnarchy: 5  fitness: 9.481
+Genome id: 32 idAnnarchy: 6  fitness: 9.5145
+Genome id: 32 idAnnarchy: 7  fitness: 9.4535
+Genome id: 32 idAnnarchy: 8  fitness: 9.5225
+Genome id: 32 idAnnarchy: 9  fitness: 9.4985
+Genome id: 32 idAnnarchy: 10  fitness: 9.489
+
+
+-------- Evaluation species R-STDP17 --------
+Genome id: 119 idAnnarchy: 1  fitness: 9.3415
+Genome id: 119 idAnnarchy: 2  fitness: 9.3255
+Genome id: 119 idAnnarchy: 3  fitness: 9.31
+Genome id: 119 idAnnarchy: 4  fitness: 9.322
+Genome id: 119 idAnnarchy: 5  fitness: 9.309
+Genome id: 119 idAnnarchy: 6  fitness: 9.3505
+Genome id: 119 idAnnarchy: 7  fitness: 9.3475
+Genome id: 119 idAnnarchy: 8  fitness: 9.329
+Genome id: 119 idAnnarchy: 9  fitness: 9.3455
+Genome id: 119 idAnnarchy: 10  fitness: 9.358
+
+
+-------- Evaluation species R-STDP18 --------
+Genome id: 93 idAnnarchy: 1  fitness: 9.0075
+Genome id: 93 idAnnarchy: 2  fitness: 8.9925
+Genome id: 93 idAnnarchy: 3  fitness: 9.0085
+Genome id: 93 idAnnarchy: 4  fitness: 8.999
+Genome id: 93 idAnnarchy: 5  fitness: 9
+Genome id: 93 idAnnarchy: 6  fitness: 9.0165
+Genome id: 93 idAnnarchy: 7  fitness: 9.0185
+Genome id: 93 idAnnarchy: 8  fitness: 9.0165
+Genome id: 93 idAnnarchy: 9  fitness: 9.03
+Genome id: 93 idAnnarchy: 10  fitness: 9.044
+
+
+-------- Evaluation of gen 5-----------
+Genome id: 104 idAnnarchy: 1  fitness: 170.283
+Genome id: 130 idAnnarchy: 2  fitness: 170.551
+Genome id: 117 idAnnarchy: 3  fitness: 113.643
+Genome id: 76 idAnnarchy: 4  fitness: 103.108
+Genome id: 132 idAnnarchy: 5  fitness: 9.349
+Genome id: 116 idAnnarchy: 6  fitness: 122.879
+Genome id: 89 idAnnarchy: 7  fitness: 34.122
+Genome id: 66 idAnnarchy: 8  fitness: 30.0255
+Genome id: 95 idAnnarchy: 9  fitness: 19.7095
+Genome id: 42 idAnnarchy: 10  fitness: 14.278
+Genome id: 14 idAnnarchy: 11  fitness: 10.347
+Genome id: 4 idAnnarchy: 12  fitness: 10.611
+Genome id: 119 idAnnarchy: 13  fitness: 9.3185
+Genome id: 93 idAnnarchy: 14  fitness: 9.0145
+Genome id: 81 idAnnarchy: 15  fitness: 83.614
+Genome id: 75 idAnnarchy: 16  fitness: 95.908
+Genome id: 86 idAnnarchy: 17  fitness: 87.531
+Genome id: 100 idAnnarchy: 18  fitness: 85.9775
+Genome id: 121 idAnnarchy: 19  fitness: 91.948
+Genome id: 122 idAnnarchy: 20  fitness: 171.051
+Genome id: 123 idAnnarchy: 21  fitness: 167.393
+Genome id: 125 idAnnarchy: 22  fitness: 169.591
+Genome id: 128 idAnnarchy: 23  fitness: 172.82
+Genome id: 129 idAnnarchy: 24  fitness: 166.788
+Genome id: 135 idAnnarchy: 25  fitness: 167.962
+Genome id: 136 idAnnarchy: 26  fitness: 169.382
+Genome id: 142 idAnnarchy: 27  fitness: 169.753
+Genome id: 143 idAnnarchy: 28  fitness: 107.669
+Genome id: 144 idAnnarchy: 29  fitness: 94.456
+Genome id: 145 idAnnarchy: 30  fitness: 104.285
+Genome id: 146 idAnnarchy: 31  fitness: 96.9075
+Genome id: 147 idAnnarchy: 32  fitness: 106.158
+Genome id: 148 idAnnarchy: 33  fitness: 101.004
+Genome id: 149 idAnnarchy: 34  fitness: 103.538
+Genome id: 150 idAnnarchy: 35  fitness: 113.177
+Genome id: 151 idAnnarchy: 36  fitness: 101.713
+Genome id: 152 idAnnarchy: 37  fitness: 113.667
+Genome id: 153 idAnnarchy: 38  fitness: 92.4815
+Genome id: 154 idAnnarchy: 39  fitness: 133.307
+Genome id: 155 idAnnarchy: 40  fitness: 102.348
+Genome id: 156 idAnnarchy: 41  fitness: 98.5585
+Genome id: 157 idAnnarchy: 42  fitness: 99.8795
+Genome id: 158 idAnnarchy: 43  fitness: 111.36
+Genome id: 159 idAnnarchy: 44  fitness: 94.8785
+Genome id: 160 idAnnarchy: 45  fitness: 29.0825
+Genome id: 161 idAnnarchy: 46  fitness: 101.071
+Genome id: 162 idAnnarchy: 47  fitness: 107.232
+Genome id: 163 idAnnarchy: 48  fitness: 96.525
+Genome id: 164 idAnnarchy: 49  fitness: 101.872
+Genome id: 165 idAnnarchy: 50  fitness: 104.356
+
+-------- Evaluation of gen 6-----------
+Genome id: 128 idAnnarchy: 1  fitness: 173.279
+Genome id: 104 idAnnarchy: 2  fitness: 169.43
+Genome id: 116 idAnnarchy: 3  fitness: 122.139
+Genome id: 154 idAnnarchy: 4  fitness: 134.385
+Genome id: 152 idAnnarchy: 5  fitness: 115.042
+Genome id: 147 idAnnarchy: 6  fitness: 106.399
+Genome id: 160 idAnnarchy: 7  fitness: 29.1545
+Genome id: 100 idAnnarchy: 8  fitness: 85.569
+Genome id: 89 idAnnarchy: 9  fitness: 33.5245
+Genome id: 66 idAnnarchy: 10  fitness: 29.9805
+Genome id: 95 idAnnarchy: 11  fitness: 19.5835
+Genome id: 42 idAnnarchy: 12  fitness: 14.9365
+Genome id: 132 idAnnarchy: 13  fitness: 9.3235
+Genome id: 119 idAnnarchy: 14  fitness: 9.3215
+Genome id: 93 idAnnarchy: 15  fitness: 8.994
+Genome id: 130 idAnnarchy: 16  fitness: 171.766
+Genome id: 76 idAnnarchy: 17  fitness: 99.053
+Genome id: 122 idAnnarchy: 18  fitness: 171.643
+Genome id: 142 idAnnarchy: 19  fitness: 170.339
+Genome id: 145 idAnnarchy: 20  fitness: 130.982
+Genome id: 149 idAnnarchy: 21  fitness: 99.9945
+Genome id: 150 idAnnarchy: 22  fitness: 113.37
+Genome id: 155 idAnnarchy: 23  fitness: 91.9235
+Genome id: 158 idAnnarchy: 24  fitness: 140.145
+Genome id: 162 idAnnarchy: 25  fitness: 106.595
+Genome id: 164 idAnnarchy: 26  fitness: 111.576
+Genome id: 165 idAnnarchy: 27  fitness: 128.561
+Genome id: 166 idAnnarchy: 28  fitness: 168.615
+Genome id: 167 idAnnarchy: 29  fitness: 169.871
+Genome id: 168 idAnnarchy: 30  fitness: 168.896
+Genome id: 169 idAnnarchy: 31  fitness: 169.281
+Genome id: 170 idAnnarchy: 32  fitness: 39.466
+Genome id: 171 idAnnarchy: 33  fitness: 170.695
+Genome id: 172 idAnnarchy: 34  fitness: 168.499
+Genome id: 173 idAnnarchy: 35  fitness: 20.1035
+Genome id: 174 idAnnarchy: 36  fitness: 170.486
+Genome id: 175 idAnnarchy: 37  fitness: 171.345
+Genome id: 176 idAnnarchy: 38  fitness: 170.122
+Genome id: 177 idAnnarchy: 39  fitness: 51.4845
+Genome id: 178 idAnnarchy: 40  fitness: 168.777
+Genome id: 179 idAnnarchy: 41  fitness: 170.902
+Genome id: 180 idAnnarchy: 42  fitness: 169.871
+Genome id: 181 idAnnarchy: 43  fitness: 170.117
+Genome id: 182 idAnnarchy: 44  fitness: 51.8345
+Genome id: 183 idAnnarchy: 45  fitness: 169.05
+Genome id: 184 idAnnarchy: 46  fitness: 169.555
+Genome id: 185 idAnnarchy: 47  fitness: 171.361
+Genome id: 186 idAnnarchy: 48  fitness: 38.381
+Genome id: 187 idAnnarchy: 49  fitness: 169.622
+Genome id: 188 idAnnarchy: 50  fitness: 167.794
+
+-------- Evaluation of gen 7-----------
+Genome id: 128 idAnnarchy: 1  fitness: 171.878
+Genome id: 185 idAnnarchy: 2  fitness: 169.612
+Genome id: 166 idAnnarchy: 3  fitness: 169.476
+Genome id: 177 idAnnarchy: 4  fitness: 51.273
+Genome id: 116 idAnnarchy: 5  fitness: 120.855
+Genome id: 158 idAnnarchy: 6  fitness: 141.242
+Genome id: 147 idAnnarchy: 7  fitness: 107.1
+Genome id: 100 idAnnarchy: 8  fitness: 86.003
+Genome id: 186 idAnnarchy: 9  fitness: 38.7495
+Genome id: 66 idAnnarchy: 10  fitness: 30.0785
+Genome id: 95 idAnnarchy: 11  fitness: 19.309
+Genome id: 119 idAnnarchy: 12  fitness: 9.3235
+Genome id: 93 idAnnarchy: 13  fitness: 8.9935
+Genome id: 152 idAnnarchy: 14  fitness: 124.115
+Genome id: 130 idAnnarchy: 15  fitness: 169.395
+Genome id: 145 idAnnarchy: 16  fitness: 145.63
+Genome id: 150 idAnnarchy: 17  fitness: 141.206
+Genome id: 165 idAnnarchy: 18  fitness: 102.494
+Genome id: 167 idAnnarchy: 19  fitness: 171.016
+Genome id: 171 idAnnarchy: 20  fitness: 169.745
+Genome id: 174 idAnnarchy: 21  fitness: 170.893
+Genome id: 175 idAnnarchy: 22  fitness: 169.536
+Genome id: 176 idAnnarchy: 23  fitness: 169.493
+Genome id: 179 idAnnarchy: 24  fitness: 169.378
+Genome id: 180 idAnnarchy: 25  fitness: 169.411
+Genome id: 181 idAnnarchy: 26  fitness: 169.223
+Genome id: 187 idAnnarchy: 27  fitness: 169.077
+Genome id: 189 idAnnarchy: 28  fitness: 148.542
+Genome id: 190 idAnnarchy: 29  fitness: 173.688
+Genome id: 191 idAnnarchy: 30  fitness: 186.324
+Genome id: 192 idAnnarchy: 31  fitness: 182.236
+Genome id: 193 idAnnarchy: 32  fitness: 166.816
+Genome id: 194 idAnnarchy: 33  fitness: 172.165
+Genome id: 195 idAnnarchy: 34  fitness: 175.626
+Genome id: 196 idAnnarchy: 35  fitness: 118.116
+Genome id: 197 idAnnarchy: 36  fitness: 172.076
+Genome id: 198 idAnnarchy: 37  fitness: 175.359
+Genome id: 199 idAnnarchy: 38  fitness: 172.833
+Genome id: 200 idAnnarchy: 39  fitness: 175.145
+Genome id: 201 idAnnarchy: 40  fitness: 174.691
+Genome id: 202 idAnnarchy: 41  fitness: 169.771
+Genome id: 203 idAnnarchy: 42  fitness: 76.2985
+Genome id: 204 idAnnarchy: 43  fitness: 168.305
+Genome id: 205 idAnnarchy: 44  fitness: 171.081
+Genome id: 206 idAnnarchy: 45  fitness: 172.368
+Genome id: 207 idAnnarchy: 46  fitness: 26.941
+Genome id: 208 idAnnarchy: 47  fitness: 197.397
+Genome id: 209 idAnnarchy: 48  fitness: 37.1625
+Genome id: 210 idAnnarchy: 49  fitness: 36.9185
+Genome id: 211 idAnnarchy: 50  fitness: 175.915
+
+-------- Evaluation of gen 8-----------
+Genome id: 208 idAnnarchy: 1  fitness: 200.863
+Genome id: 130 idAnnarchy: 2  fitness: 171.304
+Genome id: 167 idAnnarchy: 3  fitness: 168.635
+Genome id: 166 idAnnarchy: 4  fitness: 168.747
+Genome id: 145 idAnnarchy: 5  fitness: 147.695
+Genome id: 116 idAnnarchy: 6  fitness: 120.822
+Genome id: 147 idAnnarchy: 7  fitness: 106.866
+Genome id: 207 idAnnarchy: 8  fitness: 26.963
+Genome id: 100 idAnnarchy: 9  fitness: 86.1335
+Genome id: 177 idAnnarchy: 10  fitness: 52.1195
+Genome id: 186 idAnnarchy: 11  fitness: 38.2575
+Genome id: 95 idAnnarchy: 12  fitness: 19.5945
+Genome id: 93 idAnnarchy: 13  fitness: 9.0375
+Genome id: 185 idAnnarchy: 14  fitness: 169.932
+Genome id: 158 idAnnarchy: 15  fitness: 162.085
+Genome id: 150 idAnnarchy: 16  fitness: 142.13
+Genome id: 171 idAnnarchy: 17  fitness: 168.872
+Genome id: 174 idAnnarchy: 18  fitness: 168.872
+Genome id: 190 idAnnarchy: 19  fitness: 175.839
+Genome id: 191 idAnnarchy: 20  fitness: 186.99
+Genome id: 192 idAnnarchy: 21  fitness: 181.347
+Genome id: 195 idAnnarchy: 22  fitness: 171.251
+Genome id: 198 idAnnarchy: 23  fitness: 174.988
+Genome id: 199 idAnnarchy: 24  fitness: 68.0815
+Genome id: 200 idAnnarchy: 25  fitness: 173.182
+Genome id: 201 idAnnarchy: 26  fitness: 168.714
+Genome id: 211 idAnnarchy: 27  fitness: 176.636
+Genome id: 212 idAnnarchy: 28  fitness: 173.098
+Genome id: 213 idAnnarchy: 29  fitness: 168.906
+Genome id: 214 idAnnarchy: 30  fitness: 169.606
+Genome id: 215 idAnnarchy: 31  fitness: 168.686
+Genome id: 216 idAnnarchy: 32  fitness: 168.764
+Genome id: 217 idAnnarchy: 33  fitness: 170.714
+Genome id: 218 idAnnarchy: 34  fitness: 74.636
+Genome id: 219 idAnnarchy: 35  fitness: 170.732
+Genome id: 220 idAnnarchy: 36  fitness: 169.387
+Genome id: 221 idAnnarchy: 37  fitness: 170.158
+Genome id: 222 idAnnarchy: 38  fitness: 170.21
+Genome id: 223 idAnnarchy: 39  fitness: 166.973
+Genome id: 224 idAnnarchy: 40  fitness: 100.366
+Genome id: 225 idAnnarchy: 41  fitness: 81.971
+Genome id: 226 idAnnarchy: 42  fitness: 169.704
+Genome id: 227 idAnnarchy: 43  fitness: 169.725
+Genome id: 228 idAnnarchy: 44  fitness: 11.0535
+Genome id: 229 idAnnarchy: 45  fitness: 170.089
+Genome id: 230 idAnnarchy: 46  fitness: 170.375
+Genome id: 231 idAnnarchy: 47  fitness: 144.04
+Genome id: 232 idAnnarchy: 48  fitness: 169.551
+Genome id: 233 idAnnarchy: 49  fitness: 170.725
+Genome id: 234 idAnnarchy: 50  fitness: 110.367
+
+-------- Evaluation of gen 9-----------
+Genome id: 208 idAnnarchy: 1  fitness: 198.849
+Genome id: 190 idAnnarchy: 2  fitness: 175.353
+Genome id: 199 idAnnarchy: 3  fitness: 67.3975
+Genome id: 219 idAnnarchy: 4  fitness: 169.743
+Genome id: 166 idAnnarchy: 5  fitness: 169.844
+Genome id: 218 idAnnarchy: 6  fitness: 73.6135
+Genome id: 130 idAnnarchy: 7  fitness: 170.01
+Genome id: 158 idAnnarchy: 8  fitness: 158.571
+Genome id: 116 idAnnarchy: 9  fitness: 120.795
+Genome id: 147 idAnnarchy: 10  fitness: 105.257
+Genome id: 231 idAnnarchy: 11  fitness: 143.391
+Genome id: 177 idAnnarchy: 12  fitness: 50.1875
+Genome id: 186 idAnnarchy: 13  fitness: 39.0885
+Genome id: 93 idAnnarchy: 14  fitness: 9.011
+Genome id: 234 idAnnarchy: 15  fitness: 110.562
+Genome id: 145 idAnnarchy: 16  fitness: 148.889
+Genome id: 185 idAnnarchy: 17  fitness: 171.249
+Genome id: 191 idAnnarchy: 18  fitness: 180.481
+Genome id: 192 idAnnarchy: 19  fitness: 181.703
+Genome id: 217 idAnnarchy: 20  fitness: 171.618
+Genome id: 221 idAnnarchy: 21  fitness: 43.485
+Genome id: 222 idAnnarchy: 22  fitness: 169.564
+Genome id: 226 idAnnarchy: 23  fitness: 169.26
+Genome id: 227 idAnnarchy: 24  fitness: 170.051
+Genome id: 229 idAnnarchy: 25  fitness: 170.579
+Genome id: 230 idAnnarchy: 26  fitness: 170.398
+Genome id: 233 idAnnarchy: 27  fitness: 166.559
+Genome id: 235 idAnnarchy: 28  fitness: 30.156
+Genome id: 236 idAnnarchy: 29  fitness: 20.5685
+Genome id: 237 idAnnarchy: 30  fitness: 187.253
+Genome id: 238 idAnnarchy: 31  fitness: 146.96
+Genome id: 239 idAnnarchy: 32  fitness: 195.74
+Genome id: 240 idAnnarchy: 33  fitness: 62.063
+Genome id: 241 idAnnarchy: 34  fitness: 196.73
+Genome id: 242 idAnnarchy: 35  fitness: 9.612
+Genome id: 243 idAnnarchy: 36  fitness: 117.41
+Genome id: 244 idAnnarchy: 37  fitness: 197.572
+Genome id: 245 idAnnarchy: 38  fitness: 232.654
+Genome id: 246 idAnnarchy: 39  fitness: 27.8735
+Genome id: 247 idAnnarchy: 40  fitness: 172.678
+Genome id: 248 idAnnarchy: 41  fitness: 158.641
+Genome id: 249 idAnnarchy: 42  fitness: 144.238
+Genome id: 250 idAnnarchy: 43  fitness: 202.965
+Genome id: 251 idAnnarchy: 44  fitness: 68.18
+Genome id: 252 idAnnarchy: 45  fitness: 189.62
+Genome id: 253 idAnnarchy: 46  fitness: 52.4515
+Genome id: 254 idAnnarchy: 47  fitness: 186.499
+Genome id: 255 idAnnarchy: 48  fitness: 198.792
+Genome id: 256 idAnnarchy: 49  fitness: 142.033
+Genome id: 257 idAnnarchy: 50  fitness: 199.712
+
+-------- Evaluation species R-STDP0 --------
+Genome id: 208 idAnnarchy: 1  fitness: 199.264
+Genome id: 208 idAnnarchy: 2  fitness: 199.725
+Genome id: 208 idAnnarchy: 3  fitness: 199.682
+Genome id: 208 idAnnarchy: 4  fitness: 197.633
+Genome id: 208 idAnnarchy: 5  fitness: 199.577
+Genome id: 208 idAnnarchy: 6  fitness: 197.708
+Genome id: 208 idAnnarchy: 7  fitness: 199.549
+Genome id: 208 idAnnarchy: 8  fitness: 196.169
+Genome id: 208 idAnnarchy: 9  fitness: 197.626
+Genome id: 208 idAnnarchy: 10  fitness: 201.081
+
+
+-------- Evaluation species R-STDP1 --------
+Genome id: 191 idAnnarchy: 1  fitness: 177.387
+Genome id: 191 idAnnarchy: 2  fitness: 179.006
+Genome id: 191 idAnnarchy: 3  fitness: 178.406
+Genome id: 191 idAnnarchy: 4  fitness: 177.867
+Genome id: 191 idAnnarchy: 5  fitness: 180.024
+Genome id: 191 idAnnarchy: 6  fitness: 177.762
+Genome id: 191 idAnnarchy: 7  fitness: 178.447
+Genome id: 191 idAnnarchy: 8  fitness: 179.064
+Genome id: 191 idAnnarchy: 9  fitness: 178.854
+Genome id: 191 idAnnarchy: 10  fitness: 178.408
+
+
+-------- Evaluation species R-STDP2 --------
+Genome id: 190 idAnnarchy: 1  fitness: 174.101
+Genome id: 190 idAnnarchy: 2  fitness: 174.663
+Genome id: 190 idAnnarchy: 3  fitness: 176.194
+Genome id: 190 idAnnarchy: 4  fitness: 175.608
+Genome id: 190 idAnnarchy: 5  fitness: 176.51
+Genome id: 190 idAnnarchy: 6  fitness: 175.217
+Genome id: 190 idAnnarchy: 7  fitness: 173.579
+Genome id: 190 idAnnarchy: 8  fitness: 174.438
+Genome id: 190 idAnnarchy: 9  fitness: 173.365
+Genome id: 190 idAnnarchy: 10  fitness: 175.217
+
+
+-------- Evaluation species R-STDP3 --------
+Genome id: 235 idAnnarchy: 1  fitness: 30.556
+Genome id: 235 idAnnarchy: 2  fitness: 30.775
+Genome id: 235 idAnnarchy: 3  fitness: 31.03
+Genome id: 235 idAnnarchy: 4  fitness: 31.342
+Genome id: 235 idAnnarchy: 5  fitness: 30.6135
+Genome id: 235 idAnnarchy: 6  fitness: 31.0125
+Genome id: 235 idAnnarchy: 7  fitness: 30.581
+Genome id: 235 idAnnarchy: 8  fitness: 29.7655
+Genome id: 235 idAnnarchy: 9  fitness: 29.8915
+Genome id: 235 idAnnarchy: 10  fitness: 30.4245
+
+
+-------- Evaluation species R-STDP4 --------
+Genome id: 130 idAnnarchy: 1  fitness: 169.162
+Genome id: 130 idAnnarchy: 2  fitness: 169.158
+Genome id: 130 idAnnarchy: 3  fitness: 169.939
+Genome id: 130 idAnnarchy: 4  fitness: 169.544
+Genome id: 130 idAnnarchy: 5  fitness: 170.311
+Genome id: 130 idAnnarchy: 6  fitness: 168.928
+Genome id: 130 idAnnarchy: 7  fitness: 170.741
+Genome id: 130 idAnnarchy: 8  fitness: 169.161
+Genome id: 130 idAnnarchy: 9  fitness: 169.939
+Genome id: 130 idAnnarchy: 10  fitness: 170.197
+
+
+-------- Evaluation species R-STDP5 --------
+Genome id: 219 idAnnarchy: 1  fitness: 168.49
+Genome id: 219 idAnnarchy: 2  fitness: 169.012
+Genome id: 219 idAnnarchy: 3  fitness: 168.96
+Genome id: 219 idAnnarchy: 4  fitness: 169.994
+Genome id: 219 idAnnarchy: 5  fitness: 170.49
+Genome id: 219 idAnnarchy: 6  fitness: 169.428
+Genome id: 219 idAnnarchy: 7  fitness: 169.447
+Genome id: 219 idAnnarchy: 8  fitness: 171.129
+Genome id: 219 idAnnarchy: 9  fitness: 168.616
+Genome id: 219 idAnnarchy: 10  fitness: 169.223
+
+
+-------- Evaluation species R-STDP6 --------
+Genome id: 233 idAnnarchy: 1  fitness: 167.453
+Genome id: 233 idAnnarchy: 2  fitness: 167.52
+Genome id: 233 idAnnarchy: 3  fitness: 167.311
+Genome id: 233 idAnnarchy: 4  fitness: 166.258
+Genome id: 233 idAnnarchy: 5  fitness: 166.436
+Genome id: 233 idAnnarchy: 6  fitness: 167.429
+Genome id: 233 idAnnarchy: 7  fitness: 168.463
+Genome id: 233 idAnnarchy: 8  fitness: 166.337
+Genome id: 233 idAnnarchy: 9  fitness: 165.755
+Genome id: 233 idAnnarchy: 10  fitness: 166.23
+
+
+-------- Evaluation species R-STDP7 --------
+Genome id: 230 idAnnarchy: 1  fitness: 170.141
+Genome id: 230 idAnnarchy: 2  fitness: 169.712
+Genome id: 230 idAnnarchy: 3  fitness: 170.312
+Genome id: 230 idAnnarchy: 4  fitness: 169.404
+Genome id: 230 idAnnarchy: 5  fitness: 168.794
+Genome id: 230 idAnnarchy: 6  fitness: 168.264
+Genome id: 230 idAnnarchy: 7  fitness: 170.234
+Genome id: 230 idAnnarchy: 8  fitness: 169.322
+Genome id: 230 idAnnarchy: 9  fitness: 169.282
+Genome id: 230 idAnnarchy: 10  fitness: 170.36
+
+
+-------- Evaluation species R-STDP8 --------
+Genome id: 221 idAnnarchy: 1  fitness: 42.209
+Genome id: 221 idAnnarchy: 2  fitness: 44.241
+Genome id: 221 idAnnarchy: 3  fitness: 43.4495
+Genome id: 221 idAnnarchy: 4  fitness: 44.433
+Genome id: 221 idAnnarchy: 5  fitness: 42.7655
+Genome id: 221 idAnnarchy: 6  fitness: 43.605
+Genome id: 221 idAnnarchy: 7  fitness: 44.3345
+Genome id: 221 idAnnarchy: 8  fitness: 41.6965
+Genome id: 221 idAnnarchy: 9  fitness: 44.754
+Genome id: 221 idAnnarchy: 10  fitness: 44.2365
+
+
+-------- Evaluation species R-STDP9 --------
+Genome id: 166 idAnnarchy: 1  fitness: 168.713
+Genome id: 166 idAnnarchy: 2  fitness: 169.483
+Genome id: 166 idAnnarchy: 3  fitness: 169.072
+Genome id: 166 idAnnarchy: 4  fitness: 168.396
+Genome id: 166 idAnnarchy: 5  fitness: 168.183
+Genome id: 166 idAnnarchy: 6  fitness: 168.966
+Genome id: 166 idAnnarchy: 7  fitness: 169.729
+Genome id: 166 idAnnarchy: 8  fitness: 169.788
+Genome id: 166 idAnnarchy: 9  fitness: 169.055
+Genome id: 166 idAnnarchy: 10  fitness: 168.629
+
+
+-------- Evaluation species R-STDP10 --------
+Genome id: 238 idAnnarchy: 1  fitness: 147.249
+Genome id: 238 idAnnarchy: 2  fitness: 148.48
+Genome id: 238 idAnnarchy: 3  fitness: 147.971
+Genome id: 238 idAnnarchy: 4  fitness: 149.283
+Genome id: 238 idAnnarchy: 5  fitness: 145.811
+Genome id: 238 idAnnarchy: 6  fitness: 146.566
+Genome id: 238 idAnnarchy: 7  fitness: 148.827
+Genome id: 238 idAnnarchy: 8  fitness: 146.292
+Genome id: 238 idAnnarchy: 9  fitness: 145.863
+Genome id: 238 idAnnarchy: 10  fitness: 148.477
+
+
+-------- Evaluation species R-STDP11 --------
+Genome id: 158 idAnnarchy: 1  fitness: 167.025
+Genome id: 158 idAnnarchy: 2  fitness: 163.852
+Genome id: 158 idAnnarchy: 3  fitness: 160.712
+Genome id: 158 idAnnarchy: 4  fitness: 162.54
+Genome id: 158 idAnnarchy: 5  fitness: 158.831
+Genome id: 158 idAnnarchy: 6  fitness: 159.945
+Genome id: 158 idAnnarchy: 7  fitness: 161.169
+Genome id: 158 idAnnarchy: 8  fitness: 161.346
+Genome id: 158 idAnnarchy: 9  fitness: 161.26
+Genome id: 158 idAnnarchy: 10  fitness: 158.693
+
+
+-------- Evaluation species R-STDP12 --------
+Genome id: 231 idAnnarchy: 1  fitness: 141.184
+Genome id: 231 idAnnarchy: 2  fitness: 143.201
+Genome id: 231 idAnnarchy: 3  fitness: 138.607
+Genome id: 231 idAnnarchy: 4  fitness: 143.036
+Genome id: 231 idAnnarchy: 5  fitness: 143.585
+Genome id: 231 idAnnarchy: 6  fitness: 140.389
+Genome id: 231 idAnnarchy: 7  fitness: 145.391
+Genome id: 231 idAnnarchy: 8  fitness: 142.605
+Genome id: 231 idAnnarchy: 9  fitness: 142.822
+Genome id: 231 idAnnarchy: 10  fitness: 143.777
+
+
+-------- Evaluation species R-STDP13 --------
+Genome id: 116 idAnnarchy: 1  fitness: 119.07
+Genome id: 116 idAnnarchy: 2  fitness: 120.528
+Genome id: 116 idAnnarchy: 3  fitness: 120.8
+Genome id: 116 idAnnarchy: 4  fitness: 120.203
+Genome id: 116 idAnnarchy: 5  fitness: 121.149
+Genome id: 116 idAnnarchy: 6  fitness: 120.87
+Genome id: 116 idAnnarchy: 7  fitness: 120.985
+Genome id: 116 idAnnarchy: 8  fitness: 119.879
+Genome id: 116 idAnnarchy: 9  fitness: 120.679
+Genome id: 116 idAnnarchy: 10  fitness: 121.615
+
+
+-------- Evaluation species R-STDP14 --------
+Genome id: 234 idAnnarchy: 1  fitness: 109.548
+Genome id: 234 idAnnarchy: 2  fitness: 109.805
+Genome id: 234 idAnnarchy: 3  fitness: 109.75
+Genome id: 234 idAnnarchy: 4  fitness: 109.699
+Genome id: 234 idAnnarchy: 5  fitness: 109.243
+Genome id: 234 idAnnarchy: 6  fitness: 109.423
+Genome id: 234 idAnnarchy: 7  fitness: 109.53
+Genome id: 234 idAnnarchy: 8  fitness: 110.437
+Genome id: 234 idAnnarchy: 9  fitness: 110.487
+Genome id: 234 idAnnarchy: 10  fitness: 111.079
+
+
+-------- Evaluation species R-STDP15 --------
+Genome id: 147 idAnnarchy: 1  fitness: 106.539
+Genome id: 147 idAnnarchy: 2  fitness: 107.706
+Genome id: 147 idAnnarchy: 3  fitness: 106.453
+Genome id: 147 idAnnarchy: 4  fitness: 107.734
+Genome id: 147 idAnnarchy: 5  fitness: 106.856
+Genome id: 147 idAnnarchy: 6  fitness: 108.054
+Genome id: 147 idAnnarchy: 7  fitness: 104.739
+Genome id: 147 idAnnarchy: 8  fitness: 105.983
+Genome id: 147 idAnnarchy: 9  fitness: 108.855
+Genome id: 147 idAnnarchy: 10  fitness: 106.431
+
+
+-------- Evaluation species R-STDP16 --------
+Genome id: 218 idAnnarchy: 1  fitness: 73.316
+Genome id: 218 idAnnarchy: 2  fitness: 76.422
+Genome id: 218 idAnnarchy: 3  fitness: 73.785
+Genome id: 218 idAnnarchy: 4  fitness: 73.7695
+Genome id: 218 idAnnarchy: 5  fitness: 74.3455
+Genome id: 218 idAnnarchy: 6  fitness: 73.7675
+Genome id: 218 idAnnarchy: 7  fitness: 72.282
+Genome id: 218 idAnnarchy: 8  fitness: 74.239
+Genome id: 218 idAnnarchy: 9  fitness: 73.4805
+Genome id: 218 idAnnarchy: 10  fitness: 73.2275
+
+
+-------- Evaluation species R-STDP17 --------
+Genome id: 199 idAnnarchy: 1  fitness: 68.849
+Genome id: 199 idAnnarchy: 2  fitness: 69.481
+Genome id: 199 idAnnarchy: 3  fitness: 68.104
+Genome id: 199 idAnnarchy: 4  fitness: 67.7445
+Genome id: 199 idAnnarchy: 5  fitness: 69.917
+Genome id: 199 idAnnarchy: 6  fitness: 68.083
+Genome id: 199 idAnnarchy: 7  fitness: 68.7945
+Genome id: 199 idAnnarchy: 8  fitness: 67.3735
+Genome id: 199 idAnnarchy: 9  fitness: 70.0545
+Genome id: 199 idAnnarchy: 10  fitness: 68.187
+
+
+-------- Evaluation species R-STDP18 --------
+Genome id: 177 idAnnarchy: 1  fitness: 51.544
+Genome id: 177 idAnnarchy: 2  fitness: 50.48
+Genome id: 177 idAnnarchy: 3  fitness: 52.542
+Genome id: 177 idAnnarchy: 4  fitness: 51.73
+Genome id: 177 idAnnarchy: 5  fitness: 49.9125
+Genome id: 177 idAnnarchy: 6  fitness: 51.622
+Genome id: 177 idAnnarchy: 7  fitness: 53.2305
+Genome id: 177 idAnnarchy: 8  fitness: 52.3865
+Genome id: 177 idAnnarchy: 9  fitness: 49.7435
+Genome id: 177 idAnnarchy: 10  fitness: 51.6115
+
+
+-------- Evaluation species R-STDP19 --------
+Genome id: 186 idAnnarchy: 1  fitness: 38.3435
+Genome id: 186 idAnnarchy: 2  fitness: 39.033
+Genome id: 186 idAnnarchy: 3  fitness: 39.0775
+Genome id: 186 idAnnarchy: 4  fitness: 38.764
+Genome id: 186 idAnnarchy: 5  fitness: 38.278
+Genome id: 186 idAnnarchy: 6  fitness: 38.901
+Genome id: 186 idAnnarchy: 7  fitness: 38.9725
+Genome id: 186 idAnnarchy: 8  fitness: 37.6375
+Genome id: 186 idAnnarchy: 9  fitness: 38.72
+Genome id: 186 idAnnarchy: 10  fitness: 40.0185
+
+
+-------- Evaluation species R-STDP20 --------
+Genome id: 93 idAnnarchy: 1  fitness: 9.0305
+Genome id: 93 idAnnarchy: 2  fitness: 9.0015
+Genome id: 93 idAnnarchy: 3  fitness: 8.9955
+Genome id: 93 idAnnarchy: 4  fitness: 9.0125
+Genome id: 93 idAnnarchy: 5  fitness: 9.0175
+Genome id: 93 idAnnarchy: 6  fitness: 9.0245
+Genome id: 93 idAnnarchy: 7  fitness: 9.016
+Genome id: 93 idAnnarchy: 8  fitness: 8.9925
+Genome id: 93 idAnnarchy: 9  fitness: 9.0045
+Genome id: 93 idAnnarchy: 10  fitness: 9.0295
+
+
+-------- Evaluation of gen 10-----------
+Genome id: 245 idAnnarchy: 1  fitness: 229.096
+Genome id: 191 idAnnarchy: 2  fitness: 178.973
+Genome id: 190 idAnnarchy: 3  fitness: 172.2
+Genome id: 235 idAnnarchy: 4  fitness: 31.3935
+Genome id: 130 idAnnarchy: 5  fitness: 169.854
+Genome id: 217 idAnnarchy: 6  fitness: 170.031
+Genome id: 233 idAnnarchy: 7  fitness: 167.745
+Genome id: 221 idAnnarchy: 8  fitness: 44.196
+Genome id: 166 idAnnarchy: 9  fitness: 170.768
+Genome id: 238 idAnnarchy: 10  fitness: 147.505
+Genome id: 247 idAnnarchy: 11  fitness: 173.616
+Genome id: 231 idAnnarchy: 12  fitness: 143.314
+Genome id: 116 idAnnarchy: 13  fitness: 120.916
+Genome id: 147 idAnnarchy: 14  fitness: 108.714
+Genome id: 199 idAnnarchy: 15  fitness: 70.6895
+Genome id: 177 idAnnarchy: 16  fitness: 50.2465
+Genome id: 186 idAnnarchy: 17  fitness: 38.986
+Genome id: 93 idAnnarchy: 18  fitness: 9.0045
+Genome id: 208 idAnnarchy: 19  fitness: 199.596
+Genome id: 185 idAnnarchy: 20  fitness: 170.143
+Genome id: 229 idAnnarchy: 21  fitness: 78.641
+Genome id: 241 idAnnarchy: 22  fitness: 196.32
+Genome id: 244 idAnnarchy: 23  fitness: 185.881
+Genome id: 248 idAnnarchy: 24  fitness: 146.016
+Genome id: 250 idAnnarchy: 25  fitness: 198.338
+Genome id: 255 idAnnarchy: 26  fitness: 206.081
+Genome id: 257 idAnnarchy: 27  fitness: 200.775
+Genome id: 258 idAnnarchy: 28  fitness: 59.9435
+Genome id: 259 idAnnarchy: 29  fitness: 197.18
+Genome id: 260 idAnnarchy: 30  fitness: 198.235
+Genome id: 261 idAnnarchy: 31  fitness: 80.0285
+Genome id: 262 idAnnarchy: 32  fitness: 196.303
+Genome id: 263 idAnnarchy: 33  fitness: 194.605
+Genome id: 264 idAnnarchy: 34  fitness: 89.1535
+Genome id: 265 idAnnarchy: 35  fitness: 196.992
+Genome id: 266 idAnnarchy: 36  fitness: 80.869
+Genome id: 267 idAnnarchy: 37  fitness: 200.094
+Genome id: 268 idAnnarchy: 38  fitness: 95.9555
+Genome id: 269 idAnnarchy: 39  fitness: 217.046
+Genome id: 270 idAnnarchy: 40  fitness: 142.301
+Genome id: 271 idAnnarchy: 41  fitness: 198.475
+Genome id: 272 idAnnarchy: 42  fitness: 95.827
+Genome id: 273 idAnnarchy: 43  fitness: 146.786
+Genome id: 274 idAnnarchy: 44  fitness: 136.559
+Genome id: 275 idAnnarchy: 45  fitness: 98.846
+Genome id: 276 idAnnarchy: 46  fitness: 140.695
+Genome id: 277 idAnnarchy: 47  fitness: 197.939
+Genome id: 278 idAnnarchy: 48  fitness: 9.458
+Genome id: 279 idAnnarchy: 49  fitness: 87.026
+Genome id: 280 idAnnarchy: 50  fitness: 12.3775
+
+-------- Evaluation of gen 11-----------
+Genome id: 245 idAnnarchy: 1  fitness: 233.986
+Genome id: 268 idAnnarchy: 2  fitness: 93.7885
+Genome id: 269 idAnnarchy: 3  fitness: 218.618
+Genome id: 191 idAnnarchy: 4  fitness: 177.919
+Genome id: 261 idAnnarchy: 5  fitness: 75.6035
+Genome id: 247 idAnnarchy: 6  fitness: 176.73
+Genome id: 185 idAnnarchy: 7  fitness: 169.83
+Genome id: 264 idAnnarchy: 8  fitness: 85.4435
+Genome id: 130 idAnnarchy: 9  fitness: 168.471
+Genome id: 233 idAnnarchy: 10  fitness: 166.357
+Genome id: 238 idAnnarchy: 11  fitness: 147.139
+Genome id: 231 idAnnarchy: 12  fitness: 140.413
+Genome id: 147 idAnnarchy: 13  fitness: 107.299
+Genome id: 199 idAnnarchy: 14  fitness: 66.4065
+Genome id: 266 idAnnarchy: 15  fitness: 80.006
+Genome id: 221 idAnnarchy: 16  fitness: 44.2515
+Genome id: 186 idAnnarchy: 17  fitness: 38.88
+Genome id: 235 idAnnarchy: 18  fitness: 32.7235
+Genome id: 93 idAnnarchy: 19  fitness: 9.028
+Genome id: 208 idAnnarchy: 20  fitness: 190.139
+Genome id: 255 idAnnarchy: 21  fitness: 206.891
+Genome id: 260 idAnnarchy: 22  fitness: 201.304
+Genome id: 267 idAnnarchy: 23  fitness: 216.627
+Genome id: 271 idAnnarchy: 24  fitness: 188.419
+Genome id: 273 idAnnarchy: 25  fitness: 155.254
+Genome id: 276 idAnnarchy: 26  fitness: 142.775
+Genome id: 277 idAnnarchy: 27  fitness: 192.203
+Genome id: 281 idAnnarchy: 28  fitness: 209.579
+Genome id: 282 idAnnarchy: 29  fitness: 203.99
+Genome id: 283 idAnnarchy: 30  fitness: 232.031
+Genome id: 284 idAnnarchy: 31  fitness: 27.0255
+Genome id: 285 idAnnarchy: 32  fitness: 96.2475
+Genome id: 286 idAnnarchy: 33  fitness: 99.4945
+Genome id: 287 idAnnarchy: 34  fitness: 151.262
+Genome id: 288 idAnnarchy: 35  fitness: 38.9585
+Genome id: 289 idAnnarchy: 36  fitness: 231.814
+Genome id: 290 idAnnarchy: 37  fitness: 174.824
+Genome id: 291 idAnnarchy: 38  fitness: 229.028
+Genome id: 292 idAnnarchy: 39  fitness: 53.3395
+Genome id: 293 idAnnarchy: 40  fitness: 235.844
+Genome id: 294 idAnnarchy: 41  fitness: 186.594
+Genome id: 295 idAnnarchy: 42  fitness: 146.833
+Genome id: 296 idAnnarchy: 43  fitness: 212.63
+Genome id: 297 idAnnarchy: 44  fitness: 231.117
+Genome id: 298 idAnnarchy: 45  fitness: 148.198
+Genome id: 299 idAnnarchy: 46  fitness: 142.094
+Genome id: 300 idAnnarchy: 47  fitness: 9.948
+Genome id: 301 idAnnarchy: 48  fitness: 209.076
+Genome id: 302 idAnnarchy: 49  fitness: 100.36
+Genome id: 303 idAnnarchy: 50  fitness: 112.76
+
+-------- Evaluation of gen 12-----------
+Genome id: 293 idAnnarchy: 1  fitness: 233.734
+Genome id: 269 idAnnarchy: 2  fitness: 216.566
+Genome id: 284 idAnnarchy: 3  fitness: 26.5655
+Genome id: 191 idAnnarchy: 4  fitness: 179.241
+Genome id: 247 idAnnarchy: 5  fitness: 175.075
+Genome id: 185 idAnnarchy: 6  fitness: 169.805
+Genome id: 130 idAnnarchy: 7  fitness: 169.038
+Genome id: 292 idAnnarchy: 8  fitness: 52.6425
+Genome id: 233 idAnnarchy: 9  fitness: 168.559
+Genome id: 302 idAnnarchy: 10  fitness: 97.1105
+Genome id: 238 idAnnarchy: 11  fitness: 149.4
+Genome id: 286 idAnnarchy: 12  fitness: 98.519
+Genome id: 276 idAnnarchy: 13  fitness: 141.378
+Genome id: 264 idAnnarchy: 14  fitness: 86.684
+Genome id: 303 idAnnarchy: 15  fitness: 111.063
+Genome id: 199 idAnnarchy: 16  fitness: 65.5505
+Genome id: 221 idAnnarchy: 17  fitness: 44.4005
+Genome id: 186 idAnnarchy: 18  fitness: 38.9225
+Genome id: 93 idAnnarchy: 19  fitness: 9.0265
+Genome id: 245 idAnnarchy: 20  fitness: 232.146
+Genome id: 260 idAnnarchy: 21  fitness: 186.084
+Genome id: 267 idAnnarchy: 22  fitness: 220.973
+Genome id: 283 idAnnarchy: 23  fitness: 209.529
+Genome id: 289 idAnnarchy: 24  fitness: 235.227
+Genome id: 291 idAnnarchy: 25  fitness: 229.495
+Genome id: 296 idAnnarchy: 26  fitness: 211.624
+Genome id: 297 idAnnarchy: 27  fitness: 227.932
+Genome id: 304 idAnnarchy: 28  fitness: 182.514
+Genome id: 305 idAnnarchy: 29  fitness: 189.061
+Genome id: 306 idAnnarchy: 30  fitness: 248.583
+Genome id: 307 idAnnarchy: 31  fitness: 240.566
+Genome id: 308 idAnnarchy: 32  fitness: 10.76
+Genome id: 309 idAnnarchy: 33  fitness: 218.113
+Genome id: 310 idAnnarchy: 34  fitness: 206.383
+Genome id: 311 idAnnarchy: 35  fitness: 169.177
+Genome id: 312 idAnnarchy: 36  fitness: 238.745
+Genome id: 313 idAnnarchy: 37  fitness: 9.3575
+Genome id: 314 idAnnarchy: 38  fitness: 235.842
+Genome id: 315 idAnnarchy: 39  fitness: 57.7295
+Genome id: 316 idAnnarchy: 40  fitness: 234.105
+Genome id: 317 idAnnarchy: 41  fitness: 97.542
+Genome id: 318 idAnnarchy: 42  fitness: 195.454
+Genome id: 319 idAnnarchy: 43  fitness: 232.764
+Genome id: 320 idAnnarchy: 44  fitness: 28.8525
+Genome id: 321 idAnnarchy: 45  fitness: 112.325
+Genome id: 322 idAnnarchy: 46  fitness: 93.4385
+Genome id: 323 idAnnarchy: 47  fitness: 21.184
+Genome id: 324 idAnnarchy: 48  fitness: 158.1
+Genome id: 325 idAnnarchy: 49  fitness: 260.168
+Genome id: 326 idAnnarchy: 50  fitness: 96.967
+
+-------- Evaluation of gen 13-----------
+Genome id: 325 idAnnarchy: 1  fitness: 261.732
+Genome id: 267 idAnnarchy: 2  fitness: 216.695
+Genome id: 304 idAnnarchy: 3  fitness: 182.669
+Genome id: 191 idAnnarchy: 4  fitness: 177.559
+Genome id: 247 idAnnarchy: 5  fitness: 172.311
+Genome id: 185 idAnnarchy: 6  fitness: 168.527
+Genome id: 130 idAnnarchy: 7  fitness: 170.074
+Genome id: 318 idAnnarchy: 8  fitness: 198.081
+Genome id: 238 idAnnarchy: 9  fitness: 149.411
+Genome id: 276 idAnnarchy: 10  fitness: 141.508
+Genome id: 324 idAnnarchy: 11  fitness: 158.415
+Genome id: 302 idAnnarchy: 12  fitness: 102.943
+Genome id: 320 idAnnarchy: 13  fitness: 29.3035
+Genome id: 264 idAnnarchy: 14  fitness: 90.919
+Genome id: 199 idAnnarchy: 15  fitness: 66.9095
+Genome id: 317 idAnnarchy: 16  fitness: 102.86
+Genome id: 186 idAnnarchy: 17  fitness: 39.743
+Genome id: 284 idAnnarchy: 18  fitness: 26.1865
+Genome id: 93 idAnnarchy: 19  fitness: 9.0225
+Genome id: 293 idAnnarchy: 20  fitness: 232.872
+Genome id: 269 idAnnarchy: 21  fitness: 210.462
+Genome id: 289 idAnnarchy: 22  fitness: 236.43
+Genome id: 306 idAnnarchy: 23  fitness: 302.38
+Genome id: 307 idAnnarchy: 24  fitness: 236.489
+Genome id: 312 idAnnarchy: 25  fitness: 234.397
+Genome id: 314 idAnnarchy: 26  fitness: 205.132
+Genome id: 316 idAnnarchy: 27  fitness: 238.426
+Genome id: 327 idAnnarchy: 28  fitness: 40.797
+Genome id: 328 idAnnarchy: 29  fitness: 215.46
+Genome id: 329 idAnnarchy: 30  fitness: 215.206
+Genome id: 330 idAnnarchy: 31  fitness: 64.135
+Genome id: 331 idAnnarchy: 32  fitness: 243.505
+Genome id: 332 idAnnarchy: 33  fitness: 173.818
+Genome id: 333 idAnnarchy: 34  fitness: 232.296
+Genome id: 334 idAnnarchy: 35  fitness: 53.862
+Genome id: 335 idAnnarchy: 36  fitness: 229.874
+Genome id: 336 idAnnarchy: 37  fitness: 86.582
+Genome id: 337 idAnnarchy: 38  fitness: 21.2375
+Genome id: 338 idAnnarchy: 39  fitness: 44.153
+Genome id: 339 idAnnarchy: 40  fitness: 195.686
+Genome id: 340 idAnnarchy: 41  fitness: 173.045
+Genome id: 341 idAnnarchy: 42  fitness: 229.447
+Genome id: 342 idAnnarchy: 43  fitness: 167.43
+Genome id: 343 idAnnarchy: 44  fitness: 99.186
+Genome id: 344 idAnnarchy: 45  fitness: 158.041
+Genome id: 345 idAnnarchy: 46  fitness: 211.175
+Genome id: 346 idAnnarchy: 47  fitness: 230.545
+Genome id: 347 idAnnarchy: 48  fitness: 89.657
+Genome id: 348 idAnnarchy: 49  fitness: 11.134
+Genome id: 349 idAnnarchy: 50  fitness: 186.494
+
+-------- Evaluation of gen 14-----------
+Genome id: 325 idAnnarchy: 1  fitness: 261.169
+Genome id: 306 idAnnarchy: 2  fitness: 304.529
+Genome id: 307 idAnnarchy: 3  fitness: 236.964
+Genome id: 289 idAnnarchy: 4  fitness: 236.715
+Genome id: 337 idAnnarchy: 5  fitness: 21.0615
+Genome id: 267 idAnnarchy: 6  fitness: 218.898
+Genome id: 330 idAnnarchy: 7  fitness: 63.675
+Genome id: 318 idAnnarchy: 8  fitness: 196.918
+Genome id: 340 idAnnarchy: 9  fitness: 175.124
+Genome id: 304 idAnnarchy: 10  fitness: 181.79
+Genome id: 191 idAnnarchy: 11  fitness: 179.113
+Genome id: 185 idAnnarchy: 12  fitness: 168.333
+Genome id: 130 idAnnarchy: 13  fitness: 171.645
+Genome id: 324 idAnnarchy: 14  fitness: 158.156
+Genome id: 342 idAnnarchy: 15  fitness: 165.154
+Genome id: 343 idAnnarchy: 16  fitness: 98.9005
+Genome id: 276 idAnnarchy: 17  fitness: 143.105
+Genome id: 317 idAnnarchy: 18  fitness: 99.567
+Genome id: 344 idAnnarchy: 19  fitness: 159.208
+Genome id: 186 idAnnarchy: 20  fitness: 38.9565
+Genome id: 93 idAnnarchy: 21  fitness: 9.0145
+Genome id: 349 idAnnarchy: 22  fitness: 186.027
+Genome id: 293 idAnnarchy: 23  fitness: 231.799
+Genome id: 312 idAnnarchy: 24  fitness: 232.874
+Genome id: 328 idAnnarchy: 25  fitness: 218.917
+Genome id: 331 idAnnarchy: 26  fitness: 244.876
+Genome id: 333 idAnnarchy: 27  fitness: 241.77
+Genome id: 350 idAnnarchy: 28  fitness: 304.18
+Genome id: 351 idAnnarchy: 29  fitness: 263.53
+Genome id: 352 idAnnarchy: 30  fitness: 293.617
+Genome id: 353 idAnnarchy: 31  fitness: 173.704
+Genome id: 354 idAnnarchy: 32  fitness: 246.111
+Genome id: 355 idAnnarchy: 33  fitness: 11.3275
+Genome id: 356 idAnnarchy: 34  fitness: 258.448
+Genome id: 357 idAnnarchy: 35  fitness: 61.9435
+Genome id: 358 idAnnarchy: 36  fitness: 141.625
+Genome id: 359 idAnnarchy: 37  fitness: 182.809
+Genome id: 360 idAnnarchy: 38  fitness: 9.7765
+Genome id: 361 idAnnarchy: 39  fitness: 63.3845
+Genome id: 362 idAnnarchy: 40  fitness: 169.382
+Genome id: 363 idAnnarchy: 41  fitness: 183.704
+Genome id: 364 idAnnarchy: 42  fitness: 193.739
+Genome id: 365 idAnnarchy: 43  fitness: 96.52
+Genome id: 366 idAnnarchy: 44  fitness: 247.377
+Genome id: 367 idAnnarchy: 45  fitness: 9.9835
+Genome id: 368 idAnnarchy: 46  fitness: 65.6325
+Genome id: 369 idAnnarchy: 47  fitness: 57.9195
+Genome id: 370 idAnnarchy: 48  fitness: 23.8955
+Genome id: 371 idAnnarchy: 49  fitness: 84.183
+Genome id: 372 idAnnarchy: 50  fitness: 211.633
+
+-------- Evaluation species R-STDP0 --------
+Genome id: 306 idAnnarchy: 1  fitness: 304.557
+Genome id: 306 idAnnarchy: 2  fitness: 303.275
+Genome id: 306 idAnnarchy: 3  fitness: 301.353
+Genome id: 306 idAnnarchy: 4  fitness: 304.15
+Genome id: 306 idAnnarchy: 5  fitness: 302.392
+Genome id: 306 idAnnarchy: 6  fitness: 303.72
+Genome id: 306 idAnnarchy: 7  fitness: 306.719
+Genome id: 306 idAnnarchy: 8  fitness: 308.48
+Genome id: 306 idAnnarchy: 9  fitness: 306.781
+Genome id: 306 idAnnarchy: 10  fitness: 302.139
+
+
+-------- Evaluation species R-STDP1 --------
+Genome id: 370 idAnnarchy: 1  fitness: 22.7535
+Genome id: 370 idAnnarchy: 2  fitness: 23.2645
+Genome id: 370 idAnnarchy: 3  fitness: 23.6235
+Genome id: 370 idAnnarchy: 4  fitness: 23.712
+Genome id: 370 idAnnarchy: 5  fitness: 23.202
+Genome id: 370 idAnnarchy: 6  fitness: 23.3815
+Genome id: 370 idAnnarchy: 7  fitness: 24.01
+Genome id: 370 idAnnarchy: 8  fitness: 23.806
+Genome id: 370 idAnnarchy: 9  fitness: 23.305
+Genome id: 370 idAnnarchy: 10  fitness: 23.016
+
+
+-------- Evaluation species R-STDP2 --------
+Genome id: 325 idAnnarchy: 1  fitness: 258.927
+Genome id: 325 idAnnarchy: 2  fitness: 261.116
+Genome id: 325 idAnnarchy: 3  fitness: 261.651
+Genome id: 325 idAnnarchy: 4  fitness: 264.129
+Genome id: 325 idAnnarchy: 5  fitness: 261.608
+Genome id: 325 idAnnarchy: 6  fitness: 264.643
+Genome id: 325 idAnnarchy: 7  fitness: 260.355
+Genome id: 325 idAnnarchy: 8  fitness: 262.126
+Genome id: 325 idAnnarchy: 9  fitness: 264.996
+Genome id: 325 idAnnarchy: 10  fitness: 262.512
+
+
+-------- Evaluation species R-STDP3 --------
+Genome id: 307 idAnnarchy: 1  fitness: 237.081
+Genome id: 307 idAnnarchy: 2  fitness: 240.412
+Genome id: 307 idAnnarchy: 3  fitness: 238.174
+Genome id: 307 idAnnarchy: 4  fitness: 233.959
+Genome id: 307 idAnnarchy: 5  fitness: 240.951
+Genome id: 307 idAnnarchy: 6  fitness: 237.277
+Genome id: 307 idAnnarchy: 7  fitness: 238.749
+Genome id: 307 idAnnarchy: 8  fitness: 234.232
+Genome id: 307 idAnnarchy: 9  fitness: 242.57
+Genome id: 307 idAnnarchy: 10  fitness: 237.311
+
+
+-------- Evaluation species R-STDP4 --------
+Genome id: 289 idAnnarchy: 1  fitness: 233.669
+Genome id: 289 idAnnarchy: 2  fitness: 235.316
+Genome id: 289 idAnnarchy: 3  fitness: 238.365
+Genome id: 289 idAnnarchy: 4  fitness: 236.57
+Genome id: 289 idAnnarchy: 5  fitness: 238.665
+Genome id: 289 idAnnarchy: 6  fitness: 240.199
+Genome id: 289 idAnnarchy: 7  fitness: 237.296
+Genome id: 289 idAnnarchy: 8  fitness: 233.736
+Genome id: 289 idAnnarchy: 9  fitness: 235.286
+Genome id: 289 idAnnarchy: 10  fitness: 240.311
+
+
+-------- Evaluation species R-STDP5 --------
+Genome id: 267 idAnnarchy: 1  fitness: 216.452
+Genome id: 267 idAnnarchy: 2  fitness: 217.577
+Genome id: 267 idAnnarchy: 3  fitness: 219.421
+Genome id: 267 idAnnarchy: 4  fitness: 217.848
+Genome id: 267 idAnnarchy: 5  fitness: 219.822
+Genome id: 267 idAnnarchy: 6  fitness: 217.759
+Genome id: 267 idAnnarchy: 7  fitness: 219.029
+Genome id: 267 idAnnarchy: 8  fitness: 217.126
+Genome id: 267 idAnnarchy: 9  fitness: 220.43
+Genome id: 267 idAnnarchy: 10  fitness: 217.755
+
+
+-------- Evaluation species R-STDP6 --------
+Genome id: 369 idAnnarchy: 1  fitness: 59.1215
+Genome id: 369 idAnnarchy: 2  fitness: 61.251
+Genome id: 369 idAnnarchy: 3  fitness: 60.419
+Genome id: 369 idAnnarchy: 4  fitness: 58.8325
+Genome id: 369 idAnnarchy: 5  fitness: 57.148
+Genome id: 369 idAnnarchy: 6  fitness: 58.7735
+Genome id: 369 idAnnarchy: 7  fitness: 62.0155
+Genome id: 369 idAnnarchy: 8  fitness: 61.008
+Genome id: 369 idAnnarchy: 9  fitness: 60.073
+Genome id: 369 idAnnarchy: 10  fitness: 62.3305
+
+
+-------- Evaluation species R-STDP7 --------
+Genome id: 357 idAnnarchy: 1  fitness: 60.9745
+Genome id: 357 idAnnarchy: 2  fitness: 62
+Genome id: 357 idAnnarchy: 3  fitness: 60.338
+Genome id: 357 idAnnarchy: 4  fitness: 61.6455
+Genome id: 357 idAnnarchy: 5  fitness: 59.7815
+Genome id: 357 idAnnarchy: 6  fitness: 60.8905
+Genome id: 357 idAnnarchy: 7  fitness: 61.0255
+Genome id: 357 idAnnarchy: 8  fitness: 60.3875
+Genome id: 357 idAnnarchy: 9  fitness: 61.153
+Genome id: 357 idAnnarchy: 10  fitness: 61.451
+
+
+-------- Evaluation species R-STDP8 --------
+Genome id: 318 idAnnarchy: 1  fitness: 195.392
+Genome id: 318 idAnnarchy: 2  fitness: 194.782
+Genome id: 318 idAnnarchy: 3  fitness: 195.206
+Genome id: 318 idAnnarchy: 4  fitness: 197.74
+Genome id: 318 idAnnarchy: 5  fitness: 196.176
+Genome id: 318 idAnnarchy: 6  fitness: 197.163
+Genome id: 318 idAnnarchy: 7  fitness: 197.296
+Genome id: 318 idAnnarchy: 8  fitness: 196.083
+Genome id: 318 idAnnarchy: 9  fitness: 195.824
+Genome id: 318 idAnnarchy: 10  fitness: 196.949
+
+
+-------- Evaluation species R-STDP9 --------
+Genome id: 349 idAnnarchy: 1  fitness: 186.996
+Genome id: 349 idAnnarchy: 2  fitness: 186.82
+Genome id: 349 idAnnarchy: 3  fitness: 183.439
+Genome id: 349 idAnnarchy: 4  fitness: 186.317
+Genome id: 349 idAnnarchy: 5  fitness: 190.434
+Genome id: 349 idAnnarchy: 6  fitness: 187.988
+Genome id: 349 idAnnarchy: 7  fitness: 186.273
+Genome id: 349 idAnnarchy: 8  fitness: 183.986
+Genome id: 349 idAnnarchy: 9  fitness: 187.051
+Genome id: 349 idAnnarchy: 10  fitness: 189.201
+
+
+-------- Evaluation species R-STDP10 --------
+Genome id: 304 idAnnarchy: 1  fitness: 181.723
+Genome id: 304 idAnnarchy: 2  fitness: 181.698
+Genome id: 304 idAnnarchy: 3  fitness: 180.945
+Genome id: 304 idAnnarchy: 4  fitness: 182.336
+Genome id: 304 idAnnarchy: 5  fitness: 181.888
+Genome id: 304 idAnnarchy: 6  fitness: 182.384
+Genome id: 304 idAnnarchy: 7  fitness: 178.85
+Genome id: 304 idAnnarchy: 8  fitness: 181.484
+Genome id: 304 idAnnarchy: 9  fitness: 181.507
+Genome id: 304 idAnnarchy: 10  fitness: 181.464
+
+
+-------- Evaluation species R-STDP11 --------
+Genome id: 360 idAnnarchy: 1  fitness: 9.767
+Genome id: 360 idAnnarchy: 2  fitness: 9.77
+Genome id: 360 idAnnarchy: 3  fitness: 9.8705
+Genome id: 360 idAnnarchy: 4  fitness: 9.885
+Genome id: 360 idAnnarchy: 5  fitness: 9.837
+Genome id: 360 idAnnarchy: 6  fitness: 9.9065
+Genome id: 360 idAnnarchy: 7  fitness: 9.864
+Genome id: 360 idAnnarchy: 8  fitness: 9.7905
+Genome id: 360 idAnnarchy: 9  fitness: 9.831
+Genome id: 360 idAnnarchy: 10  fitness: 9.8285
+
+
+-------- Evaluation species R-STDP12 --------
+Genome id: 191 idAnnarchy: 1  fitness: 177.742
+Genome id: 191 idAnnarchy: 2  fitness: 179.249
+Genome id: 191 idAnnarchy: 3  fitness: 177.066
+Genome id: 191 idAnnarchy: 4  fitness: 179.924
+Genome id: 191 idAnnarchy: 5  fitness: 176.807
+Genome id: 191 idAnnarchy: 6  fitness: 178.16
+Genome id: 191 idAnnarchy: 7  fitness: 180.243
+Genome id: 191 idAnnarchy: 8  fitness: 179.333
+Genome id: 191 idAnnarchy: 9  fitness: 178.861
+Genome id: 191 idAnnarchy: 10  fitness: 179.745
+
+
+-------- Evaluation species R-STDP13 --------
+Genome id: 361 idAnnarchy: 1  fitness: 59.961
+Genome id: 361 idAnnarchy: 2  fitness: 61.0455
+Genome id: 361 idAnnarchy: 3  fitness: 59.973
+Genome id: 361 idAnnarchy: 4  fitness: 62.9935
+Genome id: 361 idAnnarchy: 5  fitness: 60.4645
+Genome id: 361 idAnnarchy: 6  fitness: 58.921
+Genome id: 361 idAnnarchy: 7  fitness: 59.4575
+Genome id: 361 idAnnarchy: 8  fitness: 64.1385
+Genome id: 361 idAnnarchy: 9  fitness: 63.1275
+Genome id: 361 idAnnarchy: 10  fitness: 62.4305
+
+
+-------- Evaluation species R-STDP14 --------
+Genome id: 340 idAnnarchy: 1  fitness: 172.979
+Genome id: 340 idAnnarchy: 2  fitness: 171.926
+Genome id: 340 idAnnarchy: 3  fitness: 174.82
+Genome id: 340 idAnnarchy: 4  fitness: 177.257
+Genome id: 340 idAnnarchy: 5  fitness: 171.693
+Genome id: 340 idAnnarchy: 6  fitness: 173.735
+Genome id: 340 idAnnarchy: 7  fitness: 173.814
+Genome id: 340 idAnnarchy: 8  fitness: 175.283
+Genome id: 340 idAnnarchy: 9  fitness: 174.977
+Genome id: 340 idAnnarchy: 10  fitness: 171.296
+
+
+-------- Evaluation species R-STDP15 --------
+Genome id: 130 idAnnarchy: 1  fitness: 169.906
+Genome id: 130 idAnnarchy: 2  fitness: 167.981
+Genome id: 130 idAnnarchy: 3  fitness: 170.702
+Genome id: 130 idAnnarchy: 4  fitness: 169.264
+Genome id: 130 idAnnarchy: 5  fitness: 168.732
+Genome id: 130 idAnnarchy: 6  fitness: 169.025
+Genome id: 130 idAnnarchy: 7  fitness: 169.884
+Genome id: 130 idAnnarchy: 8  fitness: 169.168
+Genome id: 130 idAnnarchy: 9  fitness: 169.984
+Genome id: 130 idAnnarchy: 10  fitness: 168.951
+
+
+-------- Evaluation species R-STDP16 --------
+Genome id: 185 idAnnarchy: 1  fitness: 169.478
+Genome id: 185 idAnnarchy: 2  fitness: 168.805
+Genome id: 185 idAnnarchy: 3  fitness: 169.247
+Genome id: 185 idAnnarchy: 4  fitness: 168.956
+Genome id: 185 idAnnarchy: 5  fitness: 169.13
+Genome id: 185 idAnnarchy: 6  fitness: 169.449
+Genome id: 185 idAnnarchy: 7  fitness: 168.178
+Genome id: 185 idAnnarchy: 8  fitness: 169.75
+Genome id: 185 idAnnarchy: 9  fitness: 169.567
+Genome id: 185 idAnnarchy: 10  fitness: 169.35
+
+
+-------- Evaluation species R-STDP17 --------
+Genome id: 342 idAnnarchy: 1  fitness: 167.658
+Genome id: 342 idAnnarchy: 2  fitness: 164.878
+Genome id: 342 idAnnarchy: 3  fitness: 166.947
+Genome id: 342 idAnnarchy: 4  fitness: 166.322
+Genome id: 342 idAnnarchy: 5  fitness: 165.676
+Genome id: 342 idAnnarchy: 6  fitness: 164.63
+Genome id: 342 idAnnarchy: 7  fitness: 166.15
+Genome id: 342 idAnnarchy: 8  fitness: 165.549
+Genome id: 342 idAnnarchy: 9  fitness: 164.867
+Genome id: 342 idAnnarchy: 10  fitness: 165.602
+
+
+-------- Evaluation species R-STDP18 --------
+Genome id: 324 idAnnarchy: 1  fitness: 157.303
+Genome id: 324 idAnnarchy: 2  fitness: 158.579
+Genome id: 324 idAnnarchy: 3  fitness: 157.484
+Genome id: 324 idAnnarchy: 4  fitness: 157.557
+Genome id: 324 idAnnarchy: 5  fitness: 156.904
+Genome id: 324 idAnnarchy: 6  fitness: 158.066
+Genome id: 324 idAnnarchy: 7  fitness: 157.725
+Genome id: 324 idAnnarchy: 8  fitness: 158.824
+Genome id: 324 idAnnarchy: 9  fitness: 157.36
+Genome id: 324 idAnnarchy: 10  fitness: 156.678
+
+
+-------- Evaluation species R-STDP19 --------
+Genome id: 344 idAnnarchy: 1  fitness: 160.269
+Genome id: 344 idAnnarchy: 2  fitness: 157.65
+Genome id: 344 idAnnarchy: 3  fitness: 156.066
+Genome id: 344 idAnnarchy: 4  fitness: 156.859
+Genome id: 344 idAnnarchy: 5  fitness: 159.026
+Genome id: 344 idAnnarchy: 6  fitness: 155.692
+Genome id: 344 idAnnarchy: 7  fitness: 158.238
+Genome id: 344 idAnnarchy: 8  fitness: 156.555
+Genome id: 344 idAnnarchy: 9  fitness: 157.271
+Genome id: 344 idAnnarchy: 10  fitness: 157.081
+
+
+-------- Evaluation species R-STDP20 --------
+Genome id: 276 idAnnarchy: 1  fitness: 141.867
+Genome id: 276 idAnnarchy: 2  fitness: 141.93
+Genome id: 276 idAnnarchy: 3  fitness: 141.551
+Genome id: 276 idAnnarchy: 4  fitness: 142.525
+Genome id: 276 idAnnarchy: 5  fitness: 142.081
+Genome id: 276 idAnnarchy: 6  fitness: 142.268
+Genome id: 276 idAnnarchy: 7  fitness: 141.766
+Genome id: 276 idAnnarchy: 8  fitness: 141.819
+Genome id: 276 idAnnarchy: 9  fitness: 142.536
+Genome id: 276 idAnnarchy: 10  fitness: 142.119
+
+
+-------- Evaluation species R-STDP21 --------
+Genome id: 368 idAnnarchy: 1  fitness: 65.0625
+Genome id: 368 idAnnarchy: 2  fitness: 64.8055
+Genome id: 368 idAnnarchy: 3  fitness: 63.5295
+Genome id: 368 idAnnarchy: 4  fitness: 66.296
+Genome id: 368 idAnnarchy: 5  fitness: 65.885
+Genome id: 368 idAnnarchy: 6  fitness: 66.966
+Genome id: 368 idAnnarchy: 7  fitness: 63.555
+Genome id: 368 idAnnarchy: 8  fitness: 65.8335
+Genome id: 368 idAnnarchy: 9  fitness: 65.58
+Genome id: 368 idAnnarchy: 10  fitness: 64.7765
+
+
+-------- Evaluation species R-STDP22 --------
+Genome id: 317 idAnnarchy: 1  fitness: 101.091
+Genome id: 317 idAnnarchy: 2  fitness: 103.092
+Genome id: 317 idAnnarchy: 3  fitness: 103.506
+Genome id: 317 idAnnarchy: 4  fitness: 98.5515
+Genome id: 317 idAnnarchy: 5  fitness: 102.356
+Genome id: 317 idAnnarchy: 6  fitness: 99.558
+Genome id: 317 idAnnarchy: 7  fitness: 103.316
+Genome id: 317 idAnnarchy: 8  fitness: 102.457
+Genome id: 317 idAnnarchy: 9  fitness: 102.097
+Genome id: 317 idAnnarchy: 10  fitness: 108.639
+
+
+-------- Evaluation species R-STDP23 --------
+Genome id: 343 idAnnarchy: 1  fitness: 98.3665
+Genome id: 343 idAnnarchy: 2  fitness: 97.5225
+Genome id: 343 idAnnarchy: 3  fitness: 97.5535
+Genome id: 343 idAnnarchy: 4  fitness: 98.44
+Genome id: 343 idAnnarchy: 5  fitness: 97.721
+Genome id: 343 idAnnarchy: 6  fitness: 98.9425
+Genome id: 343 idAnnarchy: 7  fitness: 99.0065
+Genome id: 343 idAnnarchy: 8  fitness: 98.2745
+Genome id: 343 idAnnarchy: 9  fitness: 98.514
+Genome id: 343 idAnnarchy: 10  fitness: 99.163
+
+
+-------- Evaluation species R-STDP24 --------
+Genome id: 330 idAnnarchy: 1  fitness: 63.1925
+Genome id: 330 idAnnarchy: 2  fitness: 61.8395
+Genome id: 330 idAnnarchy: 3  fitness: 63.212
+Genome id: 330 idAnnarchy: 4  fitness: 65.923
+Genome id: 330 idAnnarchy: 5  fitness: 64.1135
+Genome id: 330 idAnnarchy: 6  fitness: 62.525
+Genome id: 330 idAnnarchy: 7  fitness: 61.742
+Genome id: 330 idAnnarchy: 8  fitness: 64.607
+Genome id: 330 idAnnarchy: 9  fitness: 61.9195
+Genome id: 330 idAnnarchy: 10  fitness: 59.2565
+
+
+-------- Evaluation species R-STDP25 --------
+Genome id: 186 idAnnarchy: 1  fitness: 38.681
+Genome id: 186 idAnnarchy: 2  fitness: 39.538
+Genome id: 186 idAnnarchy: 3  fitness: 39.0915
+Genome id: 186 idAnnarchy: 4  fitness: 39.1125
+Genome id: 186 idAnnarchy: 5  fitness: 39.3305
+Genome id: 186 idAnnarchy: 6  fitness: 39.5825
+Genome id: 186 idAnnarchy: 7  fitness: 38.1385
+Genome id: 186 idAnnarchy: 8  fitness: 38.72
+Genome id: 186 idAnnarchy: 9  fitness: 38.158
+Genome id: 186 idAnnarchy: 10  fitness: 38.7465
+
+
+-------- Evaluation species R-STDP26 --------
+Genome id: 337 idAnnarchy: 1  fitness: 21.1855
+Genome id: 337 idAnnarchy: 2  fitness: 21.411
+Genome id: 337 idAnnarchy: 3  fitness: 21.14
+Genome id: 337 idAnnarchy: 4  fitness: 21.077
+Genome id: 337 idAnnarchy: 5  fitness: 21.2045
+Genome id: 337 idAnnarchy: 6  fitness: 21.519
+Genome id: 337 idAnnarchy: 7  fitness: 21.4795
+Genome id: 337 idAnnarchy: 8  fitness: 21.3165
+Genome id: 337 idAnnarchy: 9  fitness: 21.045
+Genome id: 337 idAnnarchy: 10  fitness: 21.4885
+
+
+-------- Evaluation species R-STDP27 --------
+Genome id: 93 idAnnarchy: 1  fitness: 9.0145
+Genome id: 93 idAnnarchy: 2  fitness: 9.018
+Genome id: 93 idAnnarchy: 3  fitness: 8.989
+Genome id: 93 idAnnarchy: 4  fitness: 9.0385
+Genome id: 93 idAnnarchy: 5  fitness: 9.0155
+Genome id: 93 idAnnarchy: 6  fitness: 9.0035
+Genome id: 93 idAnnarchy: 7  fitness: 9.0045
+Genome id: 93 idAnnarchy: 8  fitness: 8.9675
+Genome id: 93 idAnnarchy: 9  fitness: 9.007
+Genome id: 93 idAnnarchy: 10  fitness: 9.0135
+
+
+-------- Evaluation of gen 15-----------
+Genome id: 306 idAnnarchy: 1  fitness: 308.724
+Genome id: 370 idAnnarchy: 2  fitness: 24.2955
+Genome id: 352 idAnnarchy: 3  fitness: 293.624
+Genome id: 307 idAnnarchy: 4  fitness: 240.156
+Genome id: 289 idAnnarchy: 5  fitness: 236.753
+Genome id: 328 idAnnarchy: 6  fitness: 221.268
+Genome id: 318 idAnnarchy: 7  fitness: 196.191
+Genome id: 349 idAnnarchy: 8  fitness: 188.311
+Genome id: 360 idAnnarchy: 9  fitness: 9.78
+Genome id: 340 idAnnarchy: 10  fitness: 173.854
+Genome id: 130 idAnnarchy: 11  fitness: 168.779
+Genome id: 185 idAnnarchy: 12  fitness: 170.785
+Genome id: 342 idAnnarchy: 13  fitness: 166.279
+Genome id: 324 idAnnarchy: 14  fitness: 158.255
+Genome id: 344 idAnnarchy: 15  fitness: 158.436
+Genome id: 276 idAnnarchy: 16  fitness: 141.369
+Genome id: 368 idAnnarchy: 17  fitness: 65.7655
+Genome id: 317 idAnnarchy: 18  fitness: 105.921
+Genome id: 343 idAnnarchy: 19  fitness: 97.9825
+Genome id: 337 idAnnarchy: 20  fitness: 21.3355
+Genome id: 93 idAnnarchy: 21  fitness: 8.9945
+Genome id: 325 idAnnarchy: 22  fitness: 263.804
+Genome id: 350 idAnnarchy: 23  fitness: 246.128
+Genome id: 351 idAnnarchy: 24  fitness: 260.842
+Genome id: 356 idAnnarchy: 25  fitness: 265.041
+Genome id: 363 idAnnarchy: 26  fitness: 57.661
+Genome id: 364 idAnnarchy: 27  fitness: 193.029
+Genome id: 373 idAnnarchy: 28  fitness: 196.154
+Genome id: 374 idAnnarchy: 29  fitness: 188.423
+Genome id: 375 idAnnarchy: 30  fitness: 181.365
+Genome id: 376 idAnnarchy: 31  fitness: 14.5785
+Genome id: 377 idAnnarchy: 32  fitness: 233.338
+Genome id: 378 idAnnarchy: 33  fitness: 232.514
+Genome id: 379 idAnnarchy: 34  fitness: 201.998
+Genome id: 380 idAnnarchy: 35  fitness: 53.6545
+Genome id: 381 idAnnarchy: 36  fitness: 256.676
+Genome id: 382 idAnnarchy: 37  fitness: 269.894
+Genome id: 383 idAnnarchy: 38  fitness: 191.595
+Genome id: 384 idAnnarchy: 39  fitness: 43.445
+Genome id: 385 idAnnarchy: 40  fitness: 288.534
+Genome id: 386 idAnnarchy: 41  fitness: 43.954
+Genome id: 387 idAnnarchy: 42  fitness: 135.465
+Genome id: 388 idAnnarchy: 43  fitness: 125.739
+Genome id: 389 idAnnarchy: 44  fitness: 255.249
+Genome id: 390 idAnnarchy: 45  fitness: 133.204
+Genome id: 391 idAnnarchy: 46  fitness: 332.901
+Genome id: 392 idAnnarchy: 47  fitness: 195.658
+Genome id: 393 idAnnarchy: 48  fitness: 262.362
+Genome id: 394 idAnnarchy: 49  fitness: 46.0915
+Genome id: 395 idAnnarchy: 50  fitness: 234.729
+
+-------- Evaluation of gen 16-----------
+Genome id: 306 idAnnarchy: 1  fitness: 302
+Genome id: 391 idAnnarchy: 2  fitness: 330.584
+Genome id: 381 idAnnarchy: 3  fitness: 261.077
+Genome id: 374 idAnnarchy: 4  fitness: 189.995
+Genome id: 289 idAnnarchy: 5  fitness: 235.76
+Genome id: 328 idAnnarchy: 6  fitness: 220.337
+Genome id: 318 idAnnarchy: 7  fitness: 196.947
+Genome id: 382 idAnnarchy: 8  fitness: 276.521
+Genome id: 349 idAnnarchy: 9  fitness: 185.742
+Genome id: 363 idAnnarchy: 10  fitness: 57.2555
+Genome id: 340 idAnnarchy: 11  fitness: 172.637
+Genome id: 130 idAnnarchy: 12  fitness: 170.562
+Genome id: 342 idAnnarchy: 13  fitness: 164.711
+Genome id: 324 idAnnarchy: 14  fitness: 158.168
+Genome id: 276 idAnnarchy: 15  fitness: 140.824
+Genome id: 394 idAnnarchy: 16  fitness: 45.4735
+Genome id: 395 idAnnarchy: 17  fitness: 233.145
+Genome id: 368 idAnnarchy: 18  fitness: 64.178
+Genome id: 337 idAnnarchy: 19  fitness: 21.1965
+Genome id: 360 idAnnarchy: 20  fitness: 9.8065
+Genome id: 93 idAnnarchy: 21  fitness: 9.0045
+Genome id: 352 idAnnarchy: 22  fitness: 273.313
+Genome id: 325 idAnnarchy: 23  fitness: 250.008
+Genome id: 351 idAnnarchy: 24  fitness: 329.772
+Genome id: 356 idAnnarchy: 25  fitness: 287.56
+Genome id: 385 idAnnarchy: 26  fitness: 262.336
+Genome id: 393 idAnnarchy: 27  fitness: 330.956
+Genome id: 396 idAnnarchy: 28  fitness: 161.339
+Genome id: 397 idAnnarchy: 29  fitness: 317.548
+Genome id: 398 idAnnarchy: 30  fitness: 166.236
+Genome id: 399 idAnnarchy: 31  fitness: 9.4965
+Genome id: 400 idAnnarchy: 32  fitness: 232.632
+Genome id: 401 idAnnarchy: 33  fitness: 11.2275
+Genome id: 402 idAnnarchy: 34  fitness: 302.969
+Genome id: 403 idAnnarchy: 35  fitness: 160.893
+Genome id: 404 idAnnarchy: 36  fitness: 146.928
+Genome id: 405 idAnnarchy: 37  fitness: 303.401
+Genome id: 406 idAnnarchy: 38  fitness: 191.046
+Genome id: 407 idAnnarchy: 39  fitness: 147.315
+Genome id: 408 idAnnarchy: 40  fitness: 232.363
+Genome id: 409 idAnnarchy: 41  fitness: 168.137
+Genome id: 410 idAnnarchy: 42  fitness: 224.626
+Genome id: 411 idAnnarchy: 43  fitness: 151.345
+Genome id: 412 idAnnarchy: 44  fitness: 301.265
+Genome id: 413 idAnnarchy: 45  fitness: 140.667
+Genome id: 414 idAnnarchy: 46  fitness: 302.249
+Genome id: 415 idAnnarchy: 47  fitness: 142.329
+Genome id: 416 idAnnarchy: 48  fitness: 155.803
+Genome id: 417 idAnnarchy: 49  fitness: 300.55
+Genome id: 418 idAnnarchy: 50  fitness: 287.552
+
+-------- Evaluation of gen 17-----------
+Genome id: 393 idAnnarchy: 1  fitness: 331.241
+Genome id: 397 idAnnarchy: 2  fitness: 309.855
+Genome id: 382 idAnnarchy: 3  fitness: 282.086
+Genome id: 381 idAnnarchy: 4  fitness: 254.313
+Genome id: 289 idAnnarchy: 5  fitness: 237.154
+Genome id: 398 idAnnarchy: 6  fitness: 162.967
+Genome id: 395 idAnnarchy: 7  fitness: 232.249
+Genome id: 328 idAnnarchy: 8  fitness: 219.516
+Genome id: 374 idAnnarchy: 9  fitness: 189.639
+Genome id: 349 idAnnarchy: 10  fitness: 184.148
+Genome id: 406 idAnnarchy: 11  fitness: 190.651
+Genome id: 407 idAnnarchy: 12  fitness: 145.865
+Genome id: 130 idAnnarchy: 13  fitness: 168.829
+Genome id: 342 idAnnarchy: 14  fitness: 166.277
+Genome id: 324 idAnnarchy: 15  fitness: 157.119
+Genome id: 276 idAnnarchy: 16  fitness: 142.161
+Genome id: 368 idAnnarchy: 17  fitness: 64.0355
+Genome id: 363 idAnnarchy: 18  fitness: 57.8085
+Genome id: 394 idAnnarchy: 19  fitness: 46.4835
+Genome id: 93 idAnnarchy: 20  fitness: 9.0115
+Genome id: 306 idAnnarchy: 21  fitness: 301.908
+Genome id: 391 idAnnarchy: 22  fitness: 292.25
+Genome id: 351 idAnnarchy: 23  fitness: 103.797
+Genome id: 402 idAnnarchy: 24  fitness: 287.243
+Genome id: 403 idAnnarchy: 25  fitness: 160.096
+Genome id: 405 idAnnarchy: 26  fitness: 239.717
+Genome id: 414 idAnnarchy: 27  fitness: 305.642
+Genome id: 419 idAnnarchy: 28  fitness: 55.216
+Genome id: 420 idAnnarchy: 29  fitness: 150.986
+Genome id: 421 idAnnarchy: 30  fitness: 297.267
+Genome id: 422 idAnnarchy: 31  fitness: 70.948
+Genome id: 423 idAnnarchy: 32  fitness: 301.025
+Genome id: 424 idAnnarchy: 33  fitness: 183.445
+Genome id: 425 idAnnarchy: 34  fitness: 298.978
+Genome id: 426 idAnnarchy: 35  fitness: 128.611
+Genome id: 427 idAnnarchy: 36  fitness: 212.072
+Genome id: 428 idAnnarchy: 37  fitness: 84.293
+Genome id: 429 idAnnarchy: 38  fitness: 294.257
+Genome id: 430 idAnnarchy: 39  fitness: 163.916
+Genome id: 431 idAnnarchy: 40  fitness: 15.523
+Genome id: 432 idAnnarchy: 41  fitness: 175.807
+Genome id: 433 idAnnarchy: 42  fitness: 241.979
+Genome id: 434 idAnnarchy: 43  fitness: 113.318
+Genome id: 435 idAnnarchy: 44  fitness: 254.995
+Genome id: 436 idAnnarchy: 45  fitness: 166.301
+Genome id: 437 idAnnarchy: 46  fitness: 200.326
+Genome id: 438 idAnnarchy: 47  fitness: 302.424
+Genome id: 439 idAnnarchy: 48  fitness: 195.02
+Genome id: 440 idAnnarchy: 49  fitness: 178.166
+Genome id: 441 idAnnarchy: 50  fitness: 200.391
+
+-------- Evaluation of gen 18-----------
+Genome id: 393 idAnnarchy: 1  fitness: 326.173
+Genome id: 397 idAnnarchy: 2  fitness: 311.819
+Genome id: 382 idAnnarchy: 3  fitness: 272.851
+Genome id: 435 idAnnarchy: 4  fitness: 254.081
+Genome id: 289 idAnnarchy: 5  fitness: 234.527
+Genome id: 395 idAnnarchy: 6  fitness: 230.952
+Genome id: 328 idAnnarchy: 7  fitness: 219.057
+Genome id: 406 idAnnarchy: 8  fitness: 191.077
+Genome id: 374 idAnnarchy: 9  fitness: 188.913
+Genome id: 349 idAnnarchy: 10  fitness: 184.044
+Genome id: 431 idAnnarchy: 11  fitness: 15.8345
+Genome id: 426 idAnnarchy: 12  fitness: 132.537
+Genome id: 398 idAnnarchy: 13  fitness: 165.533
+Genome id: 342 idAnnarchy: 14  fitness: 165.426
+Genome id: 324 idAnnarchy: 15  fitness: 156.084
+Genome id: 407 idAnnarchy: 16  fitness: 146.777
+Genome id: 276 idAnnarchy: 17  fitness: 141.37
+Genome id: 363 idAnnarchy: 18  fitness: 56.219
+Genome id: 93 idAnnarchy: 19  fitness: 9.013
+Genome id: 381 idAnnarchy: 20  fitness: 281.5
+Genome id: 306 idAnnarchy: 21  fitness: 19.156
+Genome id: 391 idAnnarchy: 22  fitness: 326.574
+Genome id: 414 idAnnarchy: 23  fitness: 88.7225
+Genome id: 423 idAnnarchy: 24  fitness: 170.449
+Genome id: 425 idAnnarchy: 25  fitness: 246.676
+Genome id: 437 idAnnarchy: 26  fitness: 236.951
+Genome id: 438 idAnnarchy: 27  fitness: 295.008
+Genome id: 442 idAnnarchy: 28  fitness: 197.719
+Genome id: 443 idAnnarchy: 29  fitness: 197.081
+Genome id: 444 idAnnarchy: 30  fitness: 331.227
+Genome id: 445 idAnnarchy: 31  fitness: 39.444
+Genome id: 446 idAnnarchy: 32  fitness: 253.839
+Genome id: 447 idAnnarchy: 33  fitness: 180.758
+Genome id: 448 idAnnarchy: 34  fitness: 229.365
+Genome id: 449 idAnnarchy: 35  fitness: 145.234
+Genome id: 450 idAnnarchy: 36  fitness: 12.541
+Genome id: 451 idAnnarchy: 37  fitness: 199.256
+Genome id: 452 idAnnarchy: 38  fitness: 326.346
+Genome id: 453 idAnnarchy: 39  fitness: 65.637
+Genome id: 454 idAnnarchy: 40  fitness: 164.283
+Genome id: 455 idAnnarchy: 41  fitness: 153.034
+Genome id: 456 idAnnarchy: 42  fitness: 60.7475
+Genome id: 457 idAnnarchy: 43  fitness: 160.115
+Genome id: 458 idAnnarchy: 44  fitness: 310.836
+Genome id: 459 idAnnarchy: 45  fitness: 78.5125
+Genome id: 460 idAnnarchy: 46  fitness: 267.49
+Genome id: 461 idAnnarchy: 47  fitness: 183.141
+Genome id: 462 idAnnarchy: 48  fitness: 331.943
+Genome id: 463 idAnnarchy: 49  fitness: 9.389
+Genome id: 464 idAnnarchy: 50  fitness: 70.1965
+
+-------- Evaluation of gen 19-----------
+Genome id: 462 idAnnarchy: 1  fitness: 332.902
+Genome id: 397 idAnnarchy: 2  fitness: 307.273
+Genome id: 382 idAnnarchy: 3  fitness: 276.94
+Genome id: 381 idAnnarchy: 4  fitness: 283.525
+Genome id: 445 idAnnarchy: 5  fitness: 40.1105
+Genome id: 289 idAnnarchy: 6  fitness: 237.956
+Genome id: 395 idAnnarchy: 7  fitness: 232.592
+Genome id: 328 idAnnarchy: 8  fitness: 220.221
+Genome id: 406 idAnnarchy: 9  fitness: 194.882
+Genome id: 374 idAnnarchy: 10  fitness: 188.014
+Genome id: 349 idAnnarchy: 11  fitness: 186.331
+Genome id: 342 idAnnarchy: 12  fitness: 165.561
+Genome id: 398 idAnnarchy: 13  fitness: 162.986
+Genome id: 324 idAnnarchy: 14  fitness: 157.385
+Genome id: 407 idAnnarchy: 15  fitness: 146.902
+Genome id: 463 idAnnarchy: 16  fitness: 9.34
+Genome id: 449 idAnnarchy: 17  fitness: 144.543
+Genome id: 426 idAnnarchy: 18  fitness: 132.184
+Genome id: 363 idAnnarchy: 19  fitness: 57.928
+Genome id: 464 idAnnarchy: 20  fitness: 72.175
+Genome id: 393 idAnnarchy: 21  fitness: 61.725
+Genome id: 435 idAnnarchy: 22  fitness: 254.779
+Genome id: 391 idAnnarchy: 23  fitness: 330.242
+Genome id: 425 idAnnarchy: 24  fitness: 189.279
+Genome id: 438 idAnnarchy: 25  fitness: 312.432
+Genome id: 444 idAnnarchy: 26  fitness: 315.18
+Genome id: 452 idAnnarchy: 27  fitness: 329.759
+Genome id: 465 idAnnarchy: 28  fitness: 152
+Genome id: 466 idAnnarchy: 29  fitness: 44.025
+Genome id: 467 idAnnarchy: 30  fitness: 174.963
+Genome id: 468 idAnnarchy: 31  fitness: 281.302
+Genome id: 469 idAnnarchy: 32  fitness: 58.9475
+Genome id: 470 idAnnarchy: 33  fitness: 21.61
+Genome id: 471 idAnnarchy: 34  fitness: 138.553
+Genome id: 472 idAnnarchy: 35  fitness: 66.657
+Genome id: 473 idAnnarchy: 36  fitness: 141.12
+Genome id: 474 idAnnarchy: 37  fitness: 63.8655
+Genome id: 475 idAnnarchy: 38  fitness: 190.01
+Genome id: 476 idAnnarchy: 39  fitness: 152.567
+Genome id: 477 idAnnarchy: 40  fitness: 65.8565
+Genome id: 478 idAnnarchy: 41  fitness: 63.5515
+Genome id: 479 idAnnarchy: 42  fitness: 58.944
+Genome id: 480 idAnnarchy: 43  fitness: 61.5375
+Genome id: 481 idAnnarchy: 44  fitness: 129.208
+Genome id: 482 idAnnarchy: 45  fitness: 62.507
+Genome id: 483 idAnnarchy: 46  fitness: 38.771
+Genome id: 484 idAnnarchy: 47  fitness: 60.424
+Genome id: 485 idAnnarchy: 48  fitness: 102.41
+Genome id: 486 idAnnarchy: 49  fitness: 150.395
+Genome id: 487 idAnnarchy: 50  fitness: 72.522
+
+-------- Evaluation species R-STDP0 --------
+Genome id: 462 idAnnarchy: 1  fitness: 329.99
+Genome id: 462 idAnnarchy: 2  fitness: 329.536
+Genome id: 462 idAnnarchy: 3  fitness: 333.663
+Genome id: 462 idAnnarchy: 4  fitness: 329.984
+Genome id: 462 idAnnarchy: 5  fitness: 327.772
+Genome id: 462 idAnnarchy: 6  fitness: 329.362
+Genome id: 462 idAnnarchy: 7  fitness: 327.448
+Genome id: 462 idAnnarchy: 8  fitness: 331.772
+Genome id: 462 idAnnarchy: 9  fitness: 333.642
+Genome id: 462 idAnnarchy: 10  fitness: 333.083
+
+
+-------- Evaluation species R-STDP1 --------
+Genome id: 485 idAnnarchy: 1  fitness: 102.085
+Genome id: 485 idAnnarchy: 2  fitness: 103.339
+Genome id: 485 idAnnarchy: 3  fitness: 102.95
+Genome id: 485 idAnnarchy: 4  fitness: 103.557
+Genome id: 485 idAnnarchy: 5  fitness: 101.145
+Genome id: 485 idAnnarchy: 6  fitness: 102.488
+Genome id: 485 idAnnarchy: 7  fitness: 102.693
+Genome id: 485 idAnnarchy: 8  fitness: 102.812
+Genome id: 485 idAnnarchy: 9  fitness: 102.929
+Genome id: 485 idAnnarchy: 10  fitness: 101.938
+
+
+-------- Evaluation species R-STDP2 --------
+Genome id: 470 idAnnarchy: 1  fitness: 21.4355
+Genome id: 470 idAnnarchy: 2  fitness: 21.625
+Genome id: 470 idAnnarchy: 3  fitness: 21.1245
+Genome id: 470 idAnnarchy: 4  fitness: 20.6685
+Genome id: 470 idAnnarchy: 5  fitness: 21.281
+Genome id: 470 idAnnarchy: 6  fitness: 21.1895
+Genome id: 470 idAnnarchy: 7  fitness: 21.1815
+Genome id: 470 idAnnarchy: 8  fitness: 21.414
+Genome id: 470 idAnnarchy: 9  fitness: 21.8455
+Genome id: 470 idAnnarchy: 10  fitness: 21.283
+
+
+-------- Evaluation species R-STDP3 --------
+Genome id: 397 idAnnarchy: 1  fitness: 312.948
+Genome id: 397 idAnnarchy: 2  fitness: 312.003
+Genome id: 397 idAnnarchy: 3  fitness: 313.289
+Genome id: 397 idAnnarchy: 4  fitness: 315.397
+Genome id: 397 idAnnarchy: 5  fitness: 315.284
+Genome id: 397 idAnnarchy: 6  fitness: 314.419
+Genome id: 397 idAnnarchy: 7  fitness: 310.922
+Genome id: 397 idAnnarchy: 8  fitness: 314.406
+Genome id: 397 idAnnarchy: 9  fitness: 308.629
+Genome id: 397 idAnnarchy: 10  fitness: 315.633
+
+
+-------- Evaluation species R-STDP4 --------
+Genome id: 381 idAnnarchy: 1  fitness: 278.451
+Genome id: 381 idAnnarchy: 2  fitness: 284.091
+Genome id: 381 idAnnarchy: 3  fitness: 280.711
+Genome id: 381 idAnnarchy: 4  fitness: 283.762
+Genome id: 381 idAnnarchy: 5  fitness: 279.855
+Genome id: 381 idAnnarchy: 6  fitness: 282.441
+Genome id: 381 idAnnarchy: 7  fitness: 279.616
+Genome id: 381 idAnnarchy: 8  fitness: 279.293
+Genome id: 381 idAnnarchy: 9  fitness: 280.6
+Genome id: 381 idAnnarchy: 10  fitness: 284.429
+
+
+-------- Evaluation species R-STDP5 --------
+Genome id: 382 idAnnarchy: 1  fitness: 270.902
+Genome id: 382 idAnnarchy: 2  fitness: 273.273
+Genome id: 382 idAnnarchy: 3  fitness: 274.647
+Genome id: 382 idAnnarchy: 4  fitness: 265.208
+Genome id: 382 idAnnarchy: 5  fitness: 278.624
+Genome id: 382 idAnnarchy: 6  fitness: 271.961
+Genome id: 382 idAnnarchy: 7  fitness: 268.53
+Genome id: 382 idAnnarchy: 8  fitness: 273.276
+Genome id: 382 idAnnarchy: 9  fitness: 274.777
+Genome id: 382 idAnnarchy: 10  fitness: 274.205
+
+
+-------- Evaluation species R-STDP6 --------
+Genome id: 465 idAnnarchy: 1  fitness: 151.406
+Genome id: 465 idAnnarchy: 2  fitness: 149.232
+Genome id: 465 idAnnarchy: 3  fitness: 149.674
+Genome id: 465 idAnnarchy: 4  fitness: 149.979
+Genome id: 465 idAnnarchy: 5  fitness: 149.371
+Genome id: 465 idAnnarchy: 6  fitness: 149.352
+Genome id: 465 idAnnarchy: 7  fitness: 151.861
+Genome id: 465 idAnnarchy: 8  fitness: 152.356
+Genome id: 465 idAnnarchy: 9  fitness: 150.367
+Genome id: 465 idAnnarchy: 10  fitness: 148.404
+
+
+-------- Evaluation species R-STDP7 --------
+Genome id: 289 idAnnarchy: 1  fitness: 236.863
+Genome id: 289 idAnnarchy: 2  fitness: 234.393
+Genome id: 289 idAnnarchy: 3  fitness: 235.039
+Genome id: 289 idAnnarchy: 4  fitness: 234.509
+Genome id: 289 idAnnarchy: 5  fitness: 237.309
+Genome id: 289 idAnnarchy: 6  fitness: 240.053
+Genome id: 289 idAnnarchy: 7  fitness: 239.945
+Genome id: 289 idAnnarchy: 8  fitness: 236.452
+Genome id: 289 idAnnarchy: 9  fitness: 234.615
+Genome id: 289 idAnnarchy: 10  fitness: 234.781
+
+
+-------- Evaluation species R-STDP8 --------
+Genome id: 395 idAnnarchy: 1  fitness: 229.523
+Genome id: 395 idAnnarchy: 2  fitness: 238.6
+Genome id: 395 idAnnarchy: 3  fitness: 232.018
+Genome id: 395 idAnnarchy: 4  fitness: 233.12
+Genome id: 395 idAnnarchy: 5  fitness: 234.757
+Genome id: 395 idAnnarchy: 6  fitness: 232.997
+Genome id: 395 idAnnarchy: 7  fitness: 233.737
+Genome id: 395 idAnnarchy: 8  fitness: 229.479
+Genome id: 395 idAnnarchy: 9  fitness: 232.515
+Genome id: 395 idAnnarchy: 10  fitness: 236.13
+
+
+-------- Evaluation species R-STDP9 --------
+Genome id: 328 idAnnarchy: 1  fitness: 216.377
+Genome id: 328 idAnnarchy: 2  fitness: 221.749
+Genome id: 328 idAnnarchy: 3  fitness: 217.209
+Genome id: 328 idAnnarchy: 4  fitness: 219.296
+Genome id: 328 idAnnarchy: 5  fitness: 216.874
+Genome id: 328 idAnnarchy: 6  fitness: 219.72
+Genome id: 328 idAnnarchy: 7  fitness: 215.096
+Genome id: 328 idAnnarchy: 8  fitness: 220.371
+Genome id: 328 idAnnarchy: 9  fitness: 220.467
+Genome id: 328 idAnnarchy: 10  fitness: 216.451
+
+
+-------- Evaluation species R-STDP10 --------
+Genome id: 406 idAnnarchy: 1  fitness: 192.05
+Genome id: 406 idAnnarchy: 2  fitness: 190.637
+Genome id: 406 idAnnarchy: 3  fitness: 190.085
+Genome id: 406 idAnnarchy: 4  fitness: 190.195
+Genome id: 406 idAnnarchy: 5  fitness: 189.588
+Genome id: 406 idAnnarchy: 6  fitness: 191.594
+Genome id: 406 idAnnarchy: 7  fitness: 191.109
+Genome id: 406 idAnnarchy: 8  fitness: 190.81
+Genome id: 406 idAnnarchy: 9  fitness: 188.919
+Genome id: 406 idAnnarchy: 10  fitness: 191.131
+
+
+-------- Evaluation species R-STDP11 --------
+Genome id: 374 idAnnarchy: 1  fitness: 189.349
+Genome id: 374 idAnnarchy: 2  fitness: 190.555
+Genome id: 374 idAnnarchy: 3  fitness: 190.335
+Genome id: 374 idAnnarchy: 4  fitness: 188.586
+Genome id: 374 idAnnarchy: 5  fitness: 191.02
+Genome id: 374 idAnnarchy: 6  fitness: 190.928
+Genome id: 374 idAnnarchy: 7  fitness: 186.59
+Genome id: 374 idAnnarchy: 8  fitness: 187.719
+Genome id: 374 idAnnarchy: 9  fitness: 191.059
+Genome id: 374 idAnnarchy: 10  fitness: 191.659
+
+
+-------- Evaluation species R-STDP12 --------
+Genome id: 349 idAnnarchy: 1  fitness: 187.415
+Genome id: 349 idAnnarchy: 2  fitness: 186.956
+Genome id: 349 idAnnarchy: 3  fitness: 186.26
+Genome id: 349 idAnnarchy: 4  fitness: 187.128
+Genome id: 349 idAnnarchy: 5  fitness: 187.201
+Genome id: 349 idAnnarchy: 6  fitness: 185.501
+Genome id: 349 idAnnarchy: 7  fitness: 184.951
+Genome id: 349 idAnnarchy: 8  fitness: 188.273
+Genome id: 349 idAnnarchy: 9  fitness: 184.847
+Genome id: 349 idAnnarchy: 10  fitness: 186.813
+
+
+-------- Evaluation species R-STDP13 --------
+Genome id: 398 idAnnarchy: 1  fitness: 164.751
+Genome id: 398 idAnnarchy: 2  fitness: 167.212
+Genome id: 398 idAnnarchy: 3  fitness: 165.787
+Genome id: 398 idAnnarchy: 4  fitness: 166.124
+Genome id: 398 idAnnarchy: 5  fitness: 165.388
+Genome id: 398 idAnnarchy: 6  fitness: 168.141
+Genome id: 398 idAnnarchy: 7  fitness: 164.096
+Genome id: 398 idAnnarchy: 8  fitness: 163.062
+Genome id: 398 idAnnarchy: 9  fitness: 167.805
+Genome id: 398 idAnnarchy: 10  fitness: 163.956
+
+
+-------- Evaluation species R-STDP14 --------
+Genome id: 342 idAnnarchy: 1  fitness: 166.212
+Genome id: 342 idAnnarchy: 2  fitness: 166.339
+Genome id: 342 idAnnarchy: 3  fitness: 166.543
+Genome id: 342 idAnnarchy: 4  fitness: 166.3
+Genome id: 342 idAnnarchy: 5  fitness: 167.044
+Genome id: 342 idAnnarchy: 6  fitness: 167.596
+Genome id: 342 idAnnarchy: 7  fitness: 165.07
+Genome id: 342 idAnnarchy: 8  fitness: 166.097
+Genome id: 342 idAnnarchy: 9  fitness: 165.548
+Genome id: 342 idAnnarchy: 10  fitness: 168.107
+
+
+-------- Evaluation species R-STDP15 --------
+Genome id: 324 idAnnarchy: 1  fitness: 157.938
+Genome id: 324 idAnnarchy: 2  fitness: 157.814
+Genome id: 324 idAnnarchy: 3  fitness: 158.609
+Genome id: 324 idAnnarchy: 4  fitness: 158.46
+Genome id: 324 idAnnarchy: 5  fitness: 157.678
+Genome id: 324 idAnnarchy: 6  fitness: 158.456
+Genome id: 324 idAnnarchy: 7  fitness: 158.028
+Genome id: 324 idAnnarchy: 8  fitness: 157.609
+Genome id: 324 idAnnarchy: 9  fitness: 159.411
+Genome id: 324 idAnnarchy: 10  fitness: 157.837
+
+
+-------- Evaluation species R-STDP16 --------
+Genome id: 407 idAnnarchy: 1  fitness: 146.538
+Genome id: 407 idAnnarchy: 2  fitness: 146.938
+Genome id: 407 idAnnarchy: 3  fitness: 145.48
+Genome id: 407 idAnnarchy: 4  fitness: 146.523
+Genome id: 407 idAnnarchy: 5  fitness: 145.367
+Genome id: 407 idAnnarchy: 6  fitness: 147.378
+Genome id: 407 idAnnarchy: 7  fitness: 146.731
+Genome id: 407 idAnnarchy: 8  fitness: 144.316
+Genome id: 407 idAnnarchy: 9  fitness: 147.602
+Genome id: 407 idAnnarchy: 10  fitness: 145.566
+
+
+-------- Evaluation species R-STDP17 --------
+Genome id: 449 idAnnarchy: 1  fitness: 143.749
+Genome id: 449 idAnnarchy: 2  fitness: 145.227
+Genome id: 449 idAnnarchy: 3  fitness: 145.477
+Genome id: 449 idAnnarchy: 4  fitness: 143.713
+Genome id: 449 idAnnarchy: 5  fitness: 145.644
+Genome id: 449 idAnnarchy: 6  fitness: 142.953
+Genome id: 449 idAnnarchy: 7  fitness: 142.622
+Genome id: 449 idAnnarchy: 8  fitness: 144.233
+Genome id: 449 idAnnarchy: 9  fitness: 144.829
+Genome id: 449 idAnnarchy: 10  fitness: 144.581
+
+
+-------- Evaluation species R-STDP18 --------
+Genome id: 426 idAnnarchy: 1  fitness: 131.014
+Genome id: 426 idAnnarchy: 2  fitness: 133.447
+Genome id: 426 idAnnarchy: 3  fitness: 130.005
+Genome id: 426 idAnnarchy: 4  fitness: 130.63
+Genome id: 426 idAnnarchy: 5  fitness: 130.553
+Genome id: 426 idAnnarchy: 6  fitness: 130.999
+Genome id: 426 idAnnarchy: 7  fitness: 134.352
+Genome id: 426 idAnnarchy: 8  fitness: 128.537
+Genome id: 426 idAnnarchy: 9  fitness: 132.068
+Genome id: 426 idAnnarchy: 10  fitness: 129.391
+
+
+-------- Evaluation species R-STDP19 --------
+Genome id: 464 idAnnarchy: 1  fitness: 72.948
+Genome id: 464 idAnnarchy: 2  fitness: 71.4295
+Genome id: 464 idAnnarchy: 3  fitness: 69.746
+Genome id: 464 idAnnarchy: 4  fitness: 71.733
+Genome id: 464 idAnnarchy: 5  fitness: 76.5865
+Genome id: 464 idAnnarchy: 6  fitness: 71.078
+Genome id: 464 idAnnarchy: 7  fitness: 69.012
+Genome id: 464 idAnnarchy: 8  fitness: 71.1105
+Genome id: 464 idAnnarchy: 9  fitness: 70.8915
+Genome id: 464 idAnnarchy: 10  fitness: 70.598
+
+
+-------- Evaluation species R-STDP20 --------
+Genome id: 363 idAnnarchy: 1  fitness: 57.996
+Genome id: 363 idAnnarchy: 2  fitness: 57.8585
+Genome id: 363 idAnnarchy: 3  fitness: 57.109
+Genome id: 363 idAnnarchy: 4  fitness: 58.8315
+Genome id: 363 idAnnarchy: 5  fitness: 58.671
+Genome id: 363 idAnnarchy: 6  fitness: 56.468
+Genome id: 363 idAnnarchy: 7  fitness: 60.2265
+Genome id: 363 idAnnarchy: 8  fitness: 57.882
+Genome id: 363 idAnnarchy: 9  fitness: 58.4565
+Genome id: 363 idAnnarchy: 10  fitness: 57.775
+
+
+-------- Evaluation species R-STDP21 --------
+Genome id: 445 idAnnarchy: 1  fitness: 39.8695
+Genome id: 445 idAnnarchy: 2  fitness: 39.476
+Genome id: 445 idAnnarchy: 3  fitness: 39.7735
+Genome id: 445 idAnnarchy: 4  fitness: 40.6375
+Genome id: 445 idAnnarchy: 5  fitness: 40.2455
+Genome id: 445 idAnnarchy: 6  fitness: 40.331
+Genome id: 445 idAnnarchy: 7  fitness: 39.813
+Genome id: 445 idAnnarchy: 8  fitness: 39.927
+Genome id: 445 idAnnarchy: 9  fitness: 39.922
+Genome id: 445 idAnnarchy: 10  fitness: 40.8735
+
+
+-------- Evaluation species R-STDP22 --------
+Genome id: 463 idAnnarchy: 1  fitness: 9.366
+Genome id: 463 idAnnarchy: 2  fitness: 9.375
+Genome id: 463 idAnnarchy: 3  fitness: 9.3865
+Genome id: 463 idAnnarchy: 4  fitness: 9.393
+Genome id: 463 idAnnarchy: 5  fitness: 9.359
+Genome id: 463 idAnnarchy: 6  fitness: 9.363
+Genome id: 463 idAnnarchy: 7  fitness: 9.302
+Genome id: 463 idAnnarchy: 8  fitness: 9.389
+Genome id: 463 idAnnarchy: 9  fitness: 9.392
+Genome id: 463 idAnnarchy: 10  fitness: 9.3825
+
+Genome id: 462 idAnnarchy: 1  fitness: 326.997
+Genome id: 470 idAnnarchy: 2  fitness: 21.3195
+Genome id: 438 idAnnarchy: 3  fitness: 312.694
+Genome id: 381 idAnnarchy: 4  fitness: 283.341
+Genome id: 382 idAnnarchy: 5  fitness: 274.56
+Genome id: 465 idAnnarchy: 6  fitness: 148.898
+Genome id: 289 idAnnarchy: 7  fitness: 237
+Genome id: 395 idAnnarchy: 8  fitness: 231.402
+Genome id: 328 idAnnarchy: 9  fitness: 220.158
+Genome id: 406 idAnnarchy: 10  fitness: 191.451
+Genome id: 374 idAnnarchy: 11  fitness: 190.231
+Genome id: 349 idAnnarchy: 12  fitness: 186.883
+Genome id: 398 idAnnarchy: 13  fitness: 165.283
+Genome id: 342 idAnnarchy: 14  fitness: 165.745
+Genome id: 324 idAnnarchy: 15  fitness: 157.176
+Genome id: 407 idAnnarchy: 16  fitness: 146.411
+Genome id: 449 idAnnarchy: 17  fitness: 146.656
+Genome id: 426 idAnnarchy: 18  fitness: 133.139
+Genome id: 363 idAnnarchy: 19  fitness: 58.638
+Genome id: 463 idAnnarchy: 20  fitness: 9.3785
+Genome id: 397 idAnnarchy: 21  fitness: 46.0875
+Genome id: 391 idAnnarchy: 22  fitness: 318.662
+Genome id: 444 idAnnarchy: 23  fitness: 289.952
+Genome id: 452 idAnnarchy: 24  fitness: 254.499
+Genome id: 468 idAnnarchy: 25  fitness: 293.775
+Genome id: 472 idAnnarchy: 26  fitness: 64.3625
+Genome id: 474 idAnnarchy: 27  fitness: 66.8515
+Genome id: 488 idAnnarchy: 28  fitness: 85.6505
+Genome id: 489 idAnnarchy: 29  fitness: 29.0215
+Genome id: 490 idAnnarchy: 30  fitness: 30.8425
+Genome id: 491 idAnnarchy: 31  fitness: 124.469
+Genome id: 492 idAnnarchy: 32  fitness: 299.619
+Genome id: 493 idAnnarchy: 33  fitness: 213.466
+Genome id: 494 idAnnarchy: 34  fitness: 327.747
+Genome id: 495 idAnnarchy: 35  fitness: 224.964
+Genome id: 496 idAnnarchy: 36  fitness: 235.755
+Genome id: 497 idAnnarchy: 37  fitness: 158.271
+Genome id: 498 idAnnarchy: 38  fitness: 16.13
+Genome id: 499 idAnnarchy: 39  fitness: 50.433
+Genome id: 500 idAnnarchy: 40  fitness: 324.458
+Genome id: 501 idAnnarchy: 41  fitness: 145.643
+Genome id: 502 idAnnarchy: 42  fitness: 277.385
+Genome id: 503 idAnnarchy: 43  fitness: 165.687
+Genome id: 504 idAnnarchy: 44  fitness: 302.057
+Genome id: 505 idAnnarchy: 45  fitness: 35.7
+Genome id: 506 idAnnarchy: 46  fitness: 192.83
+Genome id: 507 idAnnarchy: 47  fitness: 10.818
+Genome id: 508 idAnnarchy: 48  fitness: 192.137
+Genome id: 509 idAnnarchy: 49  fitness: 37.616
+Genome id: 510 idAnnarchy: 50  fitness: 156.555

@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -O3 -march=native -D_DISABLE_PARALLEL_RNG -Wl,--dependency-file=CMakeFiles/ANNarchyCore0.dir/link.d -shared -Wl,-soname,ANNarchyCore0.so -o ANNarchyCore0.so CMakeFiles/ANNarchyCore0.dir/ANNarchyCore0.cpp.o CMakeFiles/ANNarchyCore0.dir/ANNarchy.cpp.o  /usr/lib/gcc/x86_64-linux-gnu/13/libgomp.so /usr/lib/x86_64-linux-gnu/libpthread.a

@@ -1,0 +1,86 @@
+
+---- Results of cofig: ----
+  keep=0.469575
+  threshold=2.91987
+  interSpeciesRate=0.000683833
+  noCrossoverOff=0.338256
+  probabilityWeightMutated=0.897826
+  probabilityAddNodeSmall=0.0381166
+  probabilityAddLink_small=0.034543
+  probabilityAddNodeLarge=0.321568
+  probabilityAddLink_Large=0.158523
+  largeSize=20
+  c1=1.233
+  c2=0.884934
+  c3=0.43909
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-42
+  tau_c=0
+  a_minus=0
+  a_plus=0
+  tau_plus=0
+  tau_minus=0
+  tunable_params=lenght,mass,com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 566
+Genome fitness: -82
+   IN  OUT    Weight  Innov
+    1   13    49.337      1
+    1   14   19.4097      2
+    1   15   3.63598      3
+    2   13   19.4388      4
+    2   14   1.91549      5
+    2   15   12.6013      6
+    3   13   31.4352      7
+    3   14   43.8654      8
+    3   15   78.4845      9
+    4   13  -14.9534     10
+    4   14   -10.568     11
+    4   15  -6.39254     12
+    5   13   21.0788     13
+    5   14  -19.4591     14
+    5   15   58.3282     15
+    6   13     8.428     16
+    6   14   9.36781     17
+    6   15   15.9247     18
+    7   13    23.899     19
+    7   14   52.1006     20
+    7   15  -15.0838     21
+    8   13   53.6187     22
+    8   14   18.6299     23
+    8   15   45.7909     24
+    9   13   17.6555     25
+    9   14  -9.66098     26
+    9   15   66.5181     27
+   10   13   76.7694     28
+   10   14  -4.07666     29
+   11   13   10.1763     31
+   11   14   60.2604     32
+   11   15   16.3187     33
+   12   13  -6.82979     34
+   12   14    25.569     35
+   12   15   33.2342     36
+   18   14   78.6644     43
+   10   33   58.4808     81
+   33   45   45.6237    111
+   45   15   18.2896    112
+    5   59   63.3603    154
+   59   18  -61.8716    155
+    1    0  -57.4964    165
+
+Summerized results: 
+run: 0 bestFitness: -82
+Max fitness: -82
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

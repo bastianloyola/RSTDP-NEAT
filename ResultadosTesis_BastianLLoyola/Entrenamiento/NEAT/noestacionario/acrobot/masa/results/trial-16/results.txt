@@ -1,0 +1,84 @@
+
+---- Results of cofig: ----
+  keep=0.56329
+  threshold=3.51886
+  interSpeciesRate=0.00108837
+  noCrossoverOff=0.153653
+  probabilityWeightMutated=0.821588
+  probabilityAddNodeSmall=0.0342017
+  probabilityAddLink_small=0.0210442
+  probabilityAddNodeLarge=0.0714393
+  probabilityAddLink_Large=0.0612977
+  largeSize=20
+  c1=1.01858
+  c2=1.44243
+  c3=0.37823
+  numberGenomes=50
+  numberInputs=12
+  numberOutputs=3
+  evolutions=20
+  n_max=200
+  learningRate=5
+  inputWeights=110,150
+  weightsRange=-20,80
+  process_max=50
+  function=acrobot_ns
+  folder=results/trial-16
+  tau_c=0
+  a_minus=0
+  a_plus=0
+  tau_plus=0
+  tau_minus=0
+  tunable_params=lenght,mass,com
+
+--Results of run:0 --
+Best Genome 
+Genome id: 470
+Genome fitness: -83.81
+   IN  OUT    Weight  Innov
+    1   13   23.7638      1
+    1   14    8.1428      2
+    1   15    78.081      3
+    2   13  -9.77667      4
+    2   14   2.36564      5
+    2   15   7.03205      6
+    3   13   43.9979      7
+    3   14  -15.5271      8
+    3   15   75.9716      9
+    4   13   57.5058     10
+    4   14   24.0105     11
+    4   15   66.1265     12
+    5   13   67.9201     13
+    5   14    39.254     14
+    5   15  -5.78814     15
+    6   13   69.3372     16
+    6   14   18.6351     17
+    6   15    44.452     18
+    7   13   18.4513     19
+    7   14   20.8417     20
+    7   15   20.5267     21
+    8   13   65.8676     22
+    8   14   68.2555     23
+    8   15   61.2997     24
+    9   14    28.295     26
+    9   15   39.0407     27
+   10   13   71.0972     28
+   10   14   51.2087     29
+   10   15   44.0368     30
+   11   13   42.1823     31
+   11   14   26.0067     32
+   11   15   21.3984     33
+   12   13  -19.4157     34
+   12   14  -2.10134     35
+   12   15    48.764     36
+    4   17  -39.9573     39
+   17   15  -8.67194     40
+   12    7  -70.6856     54
+    9   22  -42.6474     57
+   22   13   57.3301     58
+
+Summerized results: 
+run: 0 bestFitness: -83
+Max fitness: -83
+Percentage: 100% (1 of 1)
+--------------------------------------------------------------

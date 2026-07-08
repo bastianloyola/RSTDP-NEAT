@@ -1,0 +1,1862 @@
+Folder: results/trial-8 trial: 8
+Parent folder created or already exists: results
+Subfolder created successfully: results/trial-8
+starting
+---- Running ----
+---- Loading Config ----
+---- Loaded Config ----
+---- Running NEAT ----
+-------- Generation: 0 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 1
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Size of auxGenomes: 49
+Genome: 2
+Genome: 4
+Genome: 5
+Genome: 6
+Genome: 7
+Genome: 10
+Genome: 11
+Genome: 12
+Genome: 16
+Genome: 17
+Genome: 18
+Genome: 21
+Genome: 22
+Genome: 27
+Genome: 28
+Genome: 31
+Genome: 32
+Genome: 36
+Genome: 39
+Genome: 41
+Genome: 42
+Genome: 46
+Genome: 50
+Genome: 51
+Genome: 52
+Genome: 53
+Genome: 54
+Genome: 55
+Genome: 56
+Genome: 57
+Genome: 58
+Genome: 59
+Genome: 60
+Genome: 61
+Genome: 62
+Genome: 63
+Genome: 64
+Genome: 65
+Genome: 66
+Genome: 67
+Genome: 68
+Genome: 69
+Genome: 70
+Genome: 71
+Genome: 72
+Genome: 73
+Genome: 74
+Genome: 75
+Genome: 76
+Number of species: 44
+-------- Generation: 1 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 25
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Species: 17
+Genome: 0
+Species: 18
+Genome: 0
+Species: 19
+Genome: 0
+Species: 20
+Genome: 0
+Species: 21
+Genome: 0
+Species: 22
+Genome: 0
+Species: 23
+Genome: 0
+Species: 24
+Genome: 0
+Size of auxGenomes: 25
+Genome: 77
+Genome: 78
+Genome: 79
+Genome: 80
+Genome: 81
+Genome: 82
+Genome: 83
+Genome: 84
+Genome: 85
+Genome: 86
+Genome: 87
+Genome: 88
+Genome: 89
+Genome: 90
+Genome: 91
+Genome: 92
+Genome: 93
+Genome: 94
+Genome: 95
+Genome: 96
+Genome: 97
+Genome: 98
+Genome: 99
+Genome: 100
+Genome: 101
+Number of species: 39
+-------- Generation: 2 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 23
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Species: 17
+Genome: 0
+Species: 18
+Genome: 0
+Species: 19
+Genome: 0
+Species: 20
+Genome: 0
+Species: 21
+Genome: 0
+Species: 22
+Genome: 0
+Size of auxGenomes: 27
+Genome: 95
+Genome: 102
+Genome: 103
+Genome: 104
+Genome: 105
+Genome: 106
+Genome: 107
+Genome: 108
+Genome: 109
+Genome: 110
+Genome: 111
+Genome: 112
+Genome: 113
+Genome: 114
+Genome: 115
+Genome: 116
+Genome: 117
+Genome: 118
+Genome: 119
+Genome: 120
+Genome: 121
+Genome: 122
+Genome: 123
+Genome: 124
+Genome: 125
+Genome: 126
+Genome: 127
+Number of species: 37
+-------- Generation: 3 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 21
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Species: 17
+Genome: 0
+Species: 18
+Genome: 0
+Species: 19
+Genome: 0
+Species: 20
+Genome: 0
+Size of auxGenomes: 29
+Genome: 111
+Genome: 113
+Genome: 115
+Genome: 128
+Genome: 129
+Genome: 130
+Genome: 131
+Genome: 132
+Genome: 133
+Genome: 134
+Genome: 135
+Genome: 136
+Genome: 137
+Genome: 138
+Genome: 139
+Genome: 140
+Genome: 141
+Genome: 142
+Genome: 143
+Genome: 144
+Genome: 145
+Genome: 146
+Genome: 147
+Genome: 148
+Genome: 149
+Genome: 150
+Genome: 151
+Genome: 152
+Genome: 153
+Number of species: 35
+-------- Generation: 4 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 20
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Species: 17
+Genome: 0
+Species: 18
+Genome: 0
+Species: 19
+Genome: 0
+Size of auxGenomes: 30
+Genome: 98
+Genome: 139
+Genome: 147
+Genome: 149
+Genome: 154
+Genome: 155
+Genome: 156
+Genome: 157
+Genome: 158
+Genome: 159
+Genome: 160
+Genome: 161
+Genome: 162
+Genome: 163
+Genome: 164
+Genome: 165
+Genome: 166
+Genome: 167
+Genome: 168
+Genome: 169
+Genome: 170
+Genome: 171
+Genome: 172
+Genome: 173
+Genome: 174
+Genome: 175
+Genome: 176
+Genome: 177
+Genome: 178
+Genome: 179
+Number of species: 30
+-------- Generation: 5 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 18
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Species: 17
+Genome: 0
+Size of auxGenomes: 32
+Genome: 134
+Genome: 98
+Genome: 139
+Genome: 159
+Genome: 166
+Genome: 172
+Genome: 180
+Genome: 181
+Genome: 182
+Genome: 183
+Genome: 184
+Genome: 185
+Genome: 186
+Genome: 187
+Genome: 188
+Genome: 189
+Genome: 190
+Genome: 191
+Genome: 192
+Genome: 193
+Genome: 194
+Genome: 195
+Genome: 196
+Genome: 197
+Genome: 198
+Genome: 199
+Genome: 200
+Genome: 201
+Genome: 202
+Genome: 203
+Genome: 204
+Genome: 205
+Number of species: 26
+-------- Generation: 6 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 16
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Size of auxGenomes: 34
+Genome: 134
+Genome: 98
+Genome: 159
+Genome: 166
+Genome: 196
+Genome: 198
+Genome: 201
+Genome: 204
+Genome: 206
+Genome: 207
+Genome: 208
+Genome: 209
+Genome: 210
+Genome: 211
+Genome: 212
+Genome: 213
+Genome: 214
+Genome: 215
+Genome: 216
+Genome: 217
+Genome: 218
+Genome: 219
+Genome: 220
+Genome: 221
+Genome: 222
+Genome: 223
+Genome: 224
+Genome: 225
+Genome: 226
+Genome: 227
+Genome: 228
+Genome: 229
+Genome: 230
+Genome: 231
+Number of species: 24
+-------- Generation: 7 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 15
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Size of auxGenomes: 35
+Genome: 124
+Genome: 98
+Genome: 159
+Genome: 201
+Genome: 216
+Genome: 222
+Genome: 225
+Genome: 228
+Genome: 231
+Genome: 232
+Genome: 233
+Genome: 234
+Genome: 235
+Genome: 236
+Genome: 237
+Genome: 238
+Genome: 239
+Genome: 240
+Genome: 241
+Genome: 242
+Genome: 243
+Genome: 244
+Genome: 245
+Genome: 246
+Genome: 247
+Genome: 248
+Genome: 249
+Genome: 250
+Genome: 251
+Genome: 252
+Genome: 253
+Genome: 254
+Genome: 255
+Genome: 256
+Genome: 257
+Number of species: 21
+-------- Generation: 8 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 16
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Size of auxGenomes: 34
+Genome: 124
+Genome: 228
+Genome: 243
+Genome: 245
+Genome: 246
+Genome: 249
+Genome: 251
+Genome: 252
+Genome: 258
+Genome: 259
+Genome: 260
+Genome: 261
+Genome: 262
+Genome: 263
+Genome: 264
+Genome: 265
+Genome: 266
+Genome: 267
+Genome: 268
+Genome: 269
+Genome: 270
+Genome: 271
+Genome: 272
+Genome: 273
+Genome: 274
+Genome: 275
+Genome: 276
+Genome: 277
+Genome: 278
+Genome: 279
+Genome: 280
+Genome: 281
+Genome: 282
+Genome: 283
+Number of species: 27
+-------- Generation: 9 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 17
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Size of auxGenomes: 33
+Genome: 249
+Genome: 266
+Genome: 270
+Genome: 274
+Genome: 277
+Genome: 279
+Genome: 283
+Genome: 284
+Genome: 285
+Genome: 286
+Genome: 287
+Genome: 288
+Genome: 289
+Genome: 290
+Genome: 291
+Genome: 292
+Genome: 293
+Genome: 294
+Genome: 295
+Genome: 296
+Genome: 297
+Genome: 298
+Genome: 299
+Genome: 300
+Genome: 301
+Genome: 302
+Genome: 303
+Genome: 304
+Genome: 305
+Genome: 306
+Genome: 307
+Genome: 308
+Genome: 309
+Number of species: 24
+-------- Generation: 10 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 17
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Species: 15
+Genome: 0
+Species: 16
+Genome: 0
+Size of auxGenomes: 33
+Genome: 201
+Genome: 280
+Genome: 296
+Genome: 297
+Genome: 300
+Genome: 305
+Genome: 308
+Genome: 310
+Genome: 311
+Genome: 312
+Genome: 313
+Genome: 314
+Genome: 315
+Genome: 316
+Genome: 317
+Genome: 318
+Genome: 319
+Genome: 320
+Genome: 321
+Genome: 322
+Genome: 323
+Genome: 324
+Genome: 325
+Genome: 326
+Genome: 327
+Genome: 328
+Genome: 329
+Genome: 330
+Genome: 331
+Genome: 332
+Genome: 333
+Genome: 334
+Genome: 335
+Number of species: 23
+-------- Generation: 11 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 15
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Species: 14
+Genome: 0
+Size of auxGenomes: 35
+Genome: 306
+Genome: 300
+Genome: 311
+Genome: 313
+Genome: 317
+Genome: 323
+Genome: 332
+Genome: 334
+Genome: 335
+Genome: 336
+Genome: 337
+Genome: 338
+Genome: 339
+Genome: 340
+Genome: 341
+Genome: 342
+Genome: 343
+Genome: 344
+Genome: 345
+Genome: 346
+Genome: 347
+Genome: 348
+Genome: 349
+Genome: 350
+Genome: 351
+Genome: 352
+Genome: 353
+Genome: 354
+Genome: 355
+Genome: 356
+Genome: 357
+Genome: 358
+Genome: 359
+Genome: 360
+Genome: 361
+Number of species: 22
+-------- Generation: 12 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 14
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Species: 13
+Genome: 0
+Size of auxGenomes: 36
+Genome: 306
+Genome: 317
+Genome: 334
+Genome: 335
+Genome: 341
+Genome: 344
+Genome: 351
+Genome: 352
+Genome: 354
+Genome: 355
+Genome: 362
+Genome: 363
+Genome: 364
+Genome: 365
+Genome: 366
+Genome: 367
+Genome: 368
+Genome: 369
+Genome: 370
+Genome: 371
+Genome: 372
+Genome: 373
+Genome: 374
+Genome: 375
+Genome: 376
+Genome: 377
+Genome: 378
+Genome: 379
+Genome: 380
+Genome: 381
+Genome: 382
+Genome: 383
+Genome: 384
+Genome: 385
+Genome: 386
+Genome: 387
+Number of species: 21
+-------- Generation: 13 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 13
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Size of auxGenomes: 37
+Genome: 278
+Genome: 334
+Genome: 341
+Genome: 344
+Genome: 355
+Genome: 371
+Genome: 373
+Genome: 374
+Genome: 379
+Genome: 381
+Genome: 387
+Genome: 388
+Genome: 389
+Genome: 390
+Genome: 391
+Genome: 392
+Genome: 393
+Genome: 394
+Genome: 395
+Genome: 396
+Genome: 397
+Genome: 398
+Genome: 399
+Genome: 400
+Genome: 401
+Genome: 402
+Genome: 403
+Genome: 404
+Genome: 405
+Genome: 406
+Genome: 407
+Genome: 408
+Genome: 409
+Genome: 410
+Genome: 411
+Genome: 412
+Genome: 413
+Number of species: 19
+-------- Generation: 14 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 13
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Species: 12
+Genome: 0
+Size of auxGenomes: 37
+Genome: 383
+Genome: 341
+Genome: 373
+Genome: 374
+Genome: 379
+Genome: 387
+Genome: 389
+Genome: 394
+Genome: 399
+Genome: 401
+Genome: 410
+Genome: 414
+Genome: 415
+Genome: 416
+Genome: 417
+Genome: 418
+Genome: 419
+Genome: 420
+Genome: 421
+Genome: 422
+Genome: 423
+Genome: 424
+Genome: 425
+Genome: 426
+Genome: 427
+Genome: 428
+Genome: 429
+Genome: 430
+Genome: 431
+Genome: 432
+Genome: 433
+Genome: 434
+Genome: 435
+Genome: 436
+Genome: 437
+Genome: 438
+Genome: 439
+Number of species: 18
+-------- Generation: 15 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 12
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Size of auxGenomes: 38
+Genome: 371
+Genome: 373
+Genome: 374
+Genome: 394
+Genome: 417
+Genome: 418
+Genome: 423
+Genome: 424
+Genome: 427
+Genome: 437
+Genome: 438
+Genome: 439
+Genome: 440
+Genome: 441
+Genome: 442
+Genome: 443
+Genome: 444
+Genome: 445
+Genome: 446
+Genome: 447
+Genome: 448
+Genome: 449
+Genome: 450
+Genome: 451
+Genome: 452
+Genome: 453
+Genome: 454
+Genome: 455
+Genome: 456
+Genome: 457
+Genome: 458
+Genome: 459
+Genome: 460
+Genome: 461
+Genome: 462
+Genome: 463
+Genome: 464
+Genome: 465
+Number of species: 16
+-------- Generation: 16 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 11
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Size of auxGenomes: 39
+Genome: 422
+Genome: 374
+Genome: 427
+Genome: 438
+Genome: 445
+Genome: 447
+Genome: 450
+Genome: 452
+Genome: 457
+Genome: 459
+Genome: 462
+Genome: 463
+Genome: 465
+Genome: 466
+Genome: 467
+Genome: 468
+Genome: 469
+Genome: 470
+Genome: 471
+Genome: 472
+Genome: 473
+Genome: 474
+Genome: 475
+Genome: 476
+Genome: 477
+Genome: 478
+Genome: 479
+Genome: 480
+Genome: 481
+Genome: 482
+Genome: 483
+Genome: 484
+Genome: 485
+Genome: 486
+Genome: 487
+Genome: 488
+Genome: 489
+Genome: 490
+Genome: 491
+Number of species: 16
+-------- Generation: 17 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 12
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Size of auxGenomes: 38
+Genome: 369
+Genome: 445
+Genome: 463
+Genome: 468
+Genome: 470
+Genome: 476
+Genome: 479
+Genome: 480
+Genome: 481
+Genome: 482
+Genome: 483
+Genome: 489
+Genome: 492
+Genome: 493
+Genome: 494
+Genome: 495
+Genome: 496
+Genome: 497
+Genome: 498
+Genome: 499
+Genome: 500
+Genome: 501
+Genome: 502
+Genome: 503
+Genome: 504
+Genome: 505
+Genome: 506
+Genome: 507
+Genome: 508
+Genome: 509
+Genome: 510
+Genome: 511
+Genome: 512
+Genome: 513
+Genome: 514
+Genome: 515
+Genome: 516
+Genome: 517
+Number of species: 15
+-------- Generation: 18 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 12
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Species: 11
+Genome: 0
+Size of auxGenomes: 38
+Genome: 488
+Genome: 373
+Genome: 470
+Genome: 479
+Genome: 495
+Genome: 498
+Genome: 499
+Genome: 501
+Genome: 503
+Genome: 511
+Genome: 515
+Genome: 517
+Genome: 518
+Genome: 519
+Genome: 520
+Genome: 521
+Genome: 522
+Genome: 523
+Genome: 524
+Genome: 525
+Genome: 526
+Genome: 527
+Genome: 528
+Genome: 529
+Genome: 530
+Genome: 531
+Genome: 532
+Genome: 533
+Genome: 534
+Genome: 535
+Genome: 536
+Genome: 537
+Genome: 538
+Genome: 539
+Genome: 540
+Genome: 541
+Genome: 542
+Genome: 543
+Number of species: 13
+-------- Generation: 19 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 11
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Size of auxGenomes: 39
+Genome: 483
+Genome: 510
+Genome: 488
+Genome: 479
+Genome: 499
+Genome: 501
+Genome: 515
+Genome: 520
+Genome: 521
+Genome: 523
+Genome: 525
+Genome: 526
+Genome: 536
+Genome: 544
+Genome: 545
+Genome: 546
+Genome: 547
+Genome: 548
+Genome: 549
+Genome: 550
+Genome: 551
+Genome: 552
+Genome: 553
+Genome: 554
+Genome: 555
+Genome: 556
+Genome: 557
+Genome: 558
+Genome: 559
+Genome: 560
+Genome: 561
+Genome: 562
+Genome: 563
+Genome: 564
+Genome: 565
+Genome: 566
+Genome: 567
+Genome: 568
+Genome: 569
+Number of species: 14
+-------- Generation: 20 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 11
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Species: 10
+Genome: 0
+Size of auxGenomes: 39
+Genome: 527
+Genome: 483
+Genome: 488
+Genome: 515
+Genome: 520
+Genome: 521
+Genome: 546
+Genome: 548
+Genome: 555
+Genome: 558
+Genome: 560
+Genome: 565
+Genome: 569
+Genome: 570
+Genome: 571
+Genome: 572
+Genome: 573
+Genome: 574
+Genome: 575
+Genome: 576
+Genome: 577
+Genome: 578
+Genome: 579
+Genome: 580
+Genome: 581
+Genome: 582
+Genome: 583
+Genome: 584
+Genome: 585
+Genome: 586
+Genome: 587
+Genome: 588
+Genome: 589
+Genome: 590
+Genome: 591
+Genome: 592
+Genome: 593
+Genome: 594
+Genome: 595
+Number of species: 16
+-------- Generation: 21 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 10
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Size of auxGenomes: 40
+Genome: 527
+Genome: 483
+Genome: 521
+Genome: 548
+Genome: 558
+Genome: 565
+Genome: 569
+Genome: 573
+Genome: 578
+Genome: 580
+Genome: 581
+Genome: 592
+Genome: 593
+Genome: 595
+Genome: 596
+Genome: 597
+Genome: 598
+Genome: 599
+Genome: 600
+Genome: 601
+Genome: 602
+Genome: 603
+Genome: 604
+Genome: 605
+Genome: 606
+Genome: 607
+Genome: 608
+Genome: 609
+Genome: 610
+Genome: 611
+Genome: 612
+Genome: 613
+Genome: 614
+Genome: 615
+Genome: 616
+Genome: 617
+Genome: 618
+Genome: 619
+Genome: 620
+Genome: 621
+Number of species: 13
+-------- Generation: 22 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 9
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Size of auxGenomes: 41
+Genome: 563
+Genome: 597
+Genome: 599
+Genome: 600
+Genome: 602
+Genome: 603
+Genome: 604
+Genome: 605
+Genome: 607
+Genome: 608
+Genome: 610
+Genome: 612
+Genome: 613
+Genome: 615
+Genome: 621
+Genome: 622
+Genome: 623
+Genome: 624
+Genome: 625
+Genome: 626
+Genome: 627
+Genome: 628
+Genome: 629
+Genome: 630
+Genome: 631
+Genome: 632
+Genome: 633
+Genome: 634
+Genome: 635
+Genome: 636
+Genome: 637
+Genome: 638
+Genome: 639
+Genome: 640
+Genome: 641
+Genome: 642
+Genome: 643
+Genome: 644
+Genome: 645
+Genome: 646
+Genome: 647
+Number of species: 10
+-------- Generation: 23 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 8
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Size of auxGenomes: 42
+Genome: 609
+Genome: 605
+Genome: 608
+Genome: 610
+Genome: 612
+Genome: 621
+Genome: 623
+Genome: 625
+Genome: 628
+Genome: 637
+Genome: 639
+Genome: 641
+Genome: 643
+Genome: 645
+Genome: 646
+Genome: 647
+Genome: 648
+Genome: 649
+Genome: 650
+Genome: 651
+Genome: 652
+Genome: 653
+Genome: 654
+Genome: 655
+Genome: 656
+Genome: 657
+Genome: 658
+Genome: 659
+Genome: 660
+Genome: 661
+Genome: 662
+Genome: 663
+Genome: 664
+Genome: 665
+Genome: 666
+Genome: 667
+Genome: 668
+Genome: 669
+Genome: 670
+Genome: 671
+Genome: 672
+Genome: 673
+Number of species: 10
+-------- Generation: 24 --------
+------- Mutations ---------
+
+-------- Speciation --------
+Number of species: 10
+Size of auxGenomes: 50
+Species: 0
+Genome: 0
+Species: 1
+Genome: 0
+Species: 2
+Genome: 0
+Species: 3
+Genome: 0
+Species: 4
+Genome: 0
+Species: 5
+Genome: 0
+Species: 6
+Genome: 0
+Species: 7
+Genome: 0
+Species: 8
+Genome: 0
+Species: 9
+Genome: 0
+Size of auxGenomes: 40
+Genome: 609
+Genome: 612
+Genome: 625
+Genome: 637
+Genome: 646
+Genome: 650
+Genome: 653
+Genome: 654
+Genome: 655
+Genome: 660
+Genome: 663
+Genome: 669
+Genome: 670
+Genome: 672
+Genome: 674
+Genome: 675
+Genome: 676
+Genome: 677
+Genome: 678
+Genome: 679
+Genome: 680
+Genome: 681
+Genome: 682
+Genome: 683
+Genome: 684
+Genome: 685
+Genome: 686
+Genome: 687
+Genome: 688
+Genome: 689
+Genome: 690
+Genome: 691
+Genome: 692
+Genome: 693
+Genome: 694
+Genome: 695
+Genome: 696
+Genome: 697
+Genome: 698
+Genome: 699
+Number of species: 12
+Genome id: 641 Fitness: -83.25
+Genome id: 661 Fitness: -87.13
+Genome id: 544 Fitness: -108.61
+Genome id: 591 Fitness: -283.19
+Genome id: 502 Fitness: -369.88
+Genome id: 601 Fitness: -428.98
+Genome id: 662 Fitness: -498.38
+Genome id: 550 Fitness: -500
+Genome id: 539 Fitness: -500
+Genome id: 432 Fitness: -500
+Genome id: 609 Fitness: -85.23
+Genome id: 612 Fitness: -81.89
+Genome id: 625 Fitness: -82.68
+Genome id: 637 Fitness: -81.94
+Genome id: 646 Fitness: -84.51
+Genome id: 650 Fitness: -83.46
+Genome id: 653 Fitness: -84.05
+Genome id: 654 Fitness: -83.48
+Genome id: 655 Fitness: -85.18
+Genome id: 660 Fitness: -88.63
+Genome id: 663 Fitness: -82.46
+Genome id: 669 Fitness: -82.23
+Genome id: 670 Fitness: -84.77
+Genome id: 672 Fitness: -86.37
+Genome id: 674 Fitness: -97.17
+Genome id: 675 Fitness: -102.42
+Genome id: 676 Fitness: -111.85
+Genome id: 677 Fitness: -500
+Genome id: 678 Fitness: -109.43
+Genome id: 679 Fitness: -99.47
+Genome id: 680 Fitness: -500
+Genome id: 681 Fitness: -102.78
+Genome id: 682 Fitness: -109.07
+Genome id: 683 Fitness: -105.57
+Genome id: 684 Fitness: -105.76
+Genome id: 685 Fitness: -256.33
+Genome id: 686 Fitness: -104.33
+Genome id: 687 Fitness: -106.41
+Genome id: 688 Fitness: -103.88
+Genome id: 689 Fitness: -100.82
+Genome id: 690 Fitness: -500
+Genome id: 691 Fitness: -108.27
+Genome id: 692 Fitness: -111.14
+Genome id: 693 Fitness: -108.92
+Genome id: 694 Fitness: -104.56
+Genome id: 695 Fitness: -499.37
+Genome id: 696 Fitness: -106.77
+Genome id: 697 Fitness: -103.19
+Genome id: 698 Fitness: -104.27
+Genome id: 699 Fitness: -106.18
+finalized
+ANNarchy 4.8 (4.8.2.5) on linux (posix).
+Final fitness: 
+-81.89
